@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-10-20T07:11:08.347Z",
-  "lastSuccessfulCheckAt": "2026-10-20T07:11:08.347Z",
+  "checkedAt": "2026-10-20T07:44:31.593Z",
+  "lastSuccessfulCheckAt": "2026-10-20T07:44:31.593Z",
   "latestSoldDate": "2026-08-19",
   "totalRecords": 50,
-  "newRecords": 26,
+  "newRecords": 0,
   "coverage": "partial_public_platform_sample",
   "overallStatus": "partial",
   "runs": [
@@ -12,11 +12,11 @@
       "id": "weinisishuicheng",
       "name": "我爱我家南京",
       "url": "https://nj.5i5j.com/solds/weinisishuicheng/",
-      "checkedAt": "2026-10-20T07:11:08.347Z",
+      "checkedAt": "2026-10-20T07:44:31.593Z",
       "status": "ok",
       "candidateCount": 30,
       "acceptedCount": 10,
-      "newRecords": 5,
+      "newRecords": 0,
       "rejected": {
         "community_not_approved": 20
       },
@@ -26,18 +26,18 @@
         "crawlDelaySeconds": 0
       },
       "httpStatus": 200,
-      "responseSha256": "1b3aab679abf21fd90559d8144b387609d68968e7811291edebd063d72bdca26",
-      "message": "新增 5 条符合预算且价格明确的成交记录。"
+      "responseSha256": "625b5d9c24bb44a3dbffca969c08638d558fbf4681806584a98e6a2da47e6a57",
+      "message": "检查完成；合格记录已收录，无新增。"
     },
     {
       "id": "tianruncheng-latest",
       "name": "我爱我家南京",
       "url": "https://nj.5i5j.com/solds/tianruncheng/",
-      "checkedAt": "2026-10-20T07:11:08.347Z",
+      "checkedAt": "2026-10-20T07:44:31.593Z",
       "status": "ok",
       "candidateCount": 30,
       "acceptedCount": 14,
-      "newRecords": 9,
+      "newRecords": 0,
       "rejected": {
         "community_not_approved": 16
       },
@@ -47,18 +47,18 @@
         "crawlDelaySeconds": 0
       },
       "httpStatus": 200,
-      "responseSha256": "2d2031a91df826d0a9a72fca52a87c316558033ee373eeade6e8d06bb0df2bea",
-      "message": "新增 9 条符合预算且价格明确的成交记录。"
+      "responseSha256": "512f7962e5d7e9a54bac65f5a97bc6315039742115f184c3a4a77f1481fcb142",
+      "message": "检查完成；合格记录已收录，无新增。"
     },
     {
       "id": "tianruncheng-reviewed",
       "name": "我爱我家南京",
       "url": "https://nj.5i5j.com/solds/tianruncheng/a3o3/",
-      "checkedAt": "2026-10-20T07:11:08.347Z",
+      "checkedAt": "2026-10-20T07:44:31.593Z",
       "status": "ok",
       "candidateCount": 30,
       "acceptedCount": 11,
-      "newRecords": 4,
+      "newRecords": 0,
       "rejected": {
         "community_not_approved": 19
       },
@@ -68,18 +68,18 @@
         "crawlDelaySeconds": 0
       },
       "httpStatus": 200,
-      "responseSha256": "029455892c505224a440c7efe5734efc9715dcdf097f1b33a124e4838250ffda",
-      "message": "新增 4 条符合预算且价格明确的成交记录。"
+      "responseSha256": "1dccd37558390b0887e74f2695abb45016e226d37b29ffa21c1467e419d5029f",
+      "message": "检查完成；合格记录已收录，无新增。"
     },
     {
       "id": "mingfa-latest",
       "name": "我爱我家南京",
       "url": "https://nj.5i5j.com/solds/mingfabinjiang/",
-      "checkedAt": "2026-10-20T07:11:08.347Z",
+      "checkedAt": "2026-10-20T07:44:31.593Z",
       "status": "ok",
       "candidateCount": 30,
       "acceptedCount": 5,
-      "newRecords": 1,
+      "newRecords": 0,
       "rejected": {
         "community_not_approved": 22,
         "non_exact_price": 2,
@@ -91,18 +91,18 @@
         "crawlDelaySeconds": 0
       },
       "httpStatus": 200,
-      "responseSha256": "de9ff36f9c11ef727a99db053400457645396f18aa903fbd329937a80308b815",
-      "message": "新增 1 条符合预算且价格明确的成交记录。"
+      "responseSha256": "b3cc6d2502773a6ed166c388816111df1b21b6eae7ee463a5453e3f066bd4750",
+      "message": "检查完成；合格记录已收录，无新增。"
     },
     {
       "id": "mingfa-reviewed",
       "name": "我爱我家南京",
       "url": "https://nj.5i5j.com/solds/mingfabinjiang/o1n2/",
-      "checkedAt": "2026-10-20T07:11:08.347Z",
+      "checkedAt": "2026-10-20T07:44:31.593Z",
       "status": "ok",
       "candidateCount": 30,
       "acceptedCount": 10,
-      "newRecords": 6,
+      "newRecords": 0,
       "rejected": {
         "community_not_approved": 19,
         "non_exact_price": 1
@@ -113,14 +113,14 @@
         "crawlDelaySeconds": 0
       },
       "httpStatus": 200,
-      "responseSha256": "94eb299832def7f63cc99b617633388fd9460ae339ddf5dceb4e13c7d2cabc39",
-      "message": "新增 6 条符合预算且价格明确的成交记录。"
+      "responseSha256": "ac368d174689eb635a8c01b4e8ab785c32df328452a59823a9ae35290321aad8",
+      "message": "检查完成；合格记录已收录，无新增。"
     },
     {
       "id": "xuri-latest",
       "name": "我爱我家南京",
       "url": "https://nj.5i5j.com/solds/xuriaishangcheng/",
-      "checkedAt": "2026-10-20T07:11:08.347Z",
+      "checkedAt": "2026-10-20T07:44:31.593Z",
       "status": "ok",
       "candidateCount": 30,
       "acceptedCount": 2,
@@ -135,14 +135,14 @@
         "crawlDelaySeconds": 0
       },
       "httpStatus": 200,
-      "responseSha256": "70b2b29994b64e192b600afedbc643df2cab6648156fb36a0f22377a58bb19fa",
+      "responseSha256": "4362515ec931cfd7bd77dbb8d7c0ef8e237b45a221d40a67e753143b0f062833",
       "message": "检查完成；合格记录已收录，无新增。"
     },
     {
       "id": "xuri-reviewed",
       "name": "我爱我家南京",
       "url": "https://nj.5i5j.com/solds/xuriaishangcheng/a4p3/",
-      "checkedAt": "2026-10-20T07:11:08.347Z",
+      "checkedAt": "2026-10-20T07:44:31.593Z",
       "status": "ok",
       "candidateCount": 4,
       "acceptedCount": 3,
@@ -156,18 +156,18 @@
         "crawlDelaySeconds": 0
       },
       "httpStatus": 200,
-      "responseSha256": "cceb97ec622158ac945b12ad9ac7d9f192b15b69a2ccd4519ecf34ececd28c22",
+      "responseSha256": "6086dd211ed6816b3746952f588ed0fb98140c28dfd92c75ac385865d62ea36f",
       "message": "检查完成；合格记录已收录，无新增。"
     },
     {
       "id": "gaoxin",
       "name": "我爱我家南京",
       "url": "https://nj.5i5j.com/solds/gaoxin/",
-      "checkedAt": "2026-10-20T07:11:08.347Z",
+      "checkedAt": "2026-10-20T07:44:31.593Z",
       "status": "ok",
       "candidateCount": 30,
       "acceptedCount": 5,
-      "newRecords": 1,
+      "newRecords": 0,
       "rejected": {
         "community_not_approved": 24,
         "outside_budget": 1
@@ -178,14 +178,14 @@
         "crawlDelaySeconds": 0
       },
       "httpStatus": 200,
-      "responseSha256": "cad7fee01938a2bae8a3c63c78735f063c1d9f17c3cf37f38c003352f58a40d3",
-      "message": "新增 1 条符合预算且价格明确的成交记录。"
+      "responseSha256": "178b4f65d49b67fa625c8293be97207576051be5f461392ebe7f71fe8a1fb409",
+      "message": "检查完成；合格记录已收录，无新增。"
     },
     {
       "id": "jiangpu",
       "name": "我爱我家南京",
       "url": "https://nj.5i5j.com/solds/jiangpu/",
-      "checkedAt": "2026-10-20T07:11:08.347Z",
+      "checkedAt": "2026-10-20T07:44:31.593Z",
       "status": "ok",
       "candidateCount": 30,
       "acceptedCount": 2,
@@ -199,14 +199,14 @@
         "crawlDelaySeconds": 0
       },
       "httpStatus": 200,
-      "responseSha256": "31b076a3b8f4fec43fc183dd059361505ce30e0f49813a147da78d09f979c40d",
+      "responseSha256": "9d38504a8dbbec67d295a881a9a56668c84a886ebd154fb2d529efd1dbf59453",
       "message": "检查完成；合格记录已收录，无新增。"
     },
     {
       "id": "jiangpu-reviewed-n4",
       "name": "我爱我家南京",
       "url": "https://nj.5i5j.com/solds/jiangpu/n4/",
-      "checkedAt": "2026-10-20T07:11:08.347Z",
+      "checkedAt": "2026-10-20T07:44:31.593Z",
       "status": "blocked",
       "candidateCount": 0,
       "acceptedCount": 0,
@@ -218,7 +218,7 @@
         "crawlDelaySeconds": 0
       },
       "httpStatus": 200,
-      "responseSha256": "3a7faecfdea3870c9c5992f8a374750ee95e976a375034d412665b3d4a8b2829",
+      "responseSha256": "41bf101a22bf901863e93dae8d52dd2aaa29ccad64d43b23a3ae51ce7c473276",
       "message": "Page title does not identify a completed-sale page"
     }
   ],
