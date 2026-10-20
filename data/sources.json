@@ -1,0 +1,257 @@
+{
+  "schemaVersion": 1,
+  "scope": "南京江北，含浦口、桥林等通常所称江北板块；仅收录总成交价明确且不超过150万元的二手住宅样本。",
+  "policy": "仅请求无需登录的公开成交页；遵守robots.txt；遇登录、验证码、重定向或拒绝访问立即保留历史并记录状态；不把挂牌价、星号隐藏价、估价或博主口述当作核实成交价。",
+  "sources": [
+    {
+      "id": "weinisishuicheng",
+      "type": "5i5j",
+      "name": "我爱我家南京",
+      "label": "威尼斯水城",
+      "url": "https://nj.5i5j.com/solds/weinisishuicheng/",
+      "enabled": true,
+      "communities": {
+        "威尼斯水城十六街区": {
+          "id": "weinisishuicheng",
+          "name": "威尼斯水城",
+          "sector": "桥北"
+        },
+        "威尼斯水城6、7街区": {
+          "id": "weinisishuicheng",
+          "name": "威尼斯水城",
+          "sector": "桥北"
+        },
+        "威尼斯水城十八街区": {
+          "id": "weinisishuicheng",
+          "name": "威尼斯水城",
+          "sector": "桥北"
+        },
+        "威尼斯水城10街区": {
+          "id": "weinisishuicheng",
+          "name": "威尼斯水城",
+          "sector": "桥北"
+        },
+        "威尼斯水城13街区": {
+          "id": "weinisishuicheng",
+          "name": "威尼斯水城",
+          "sector": "桥北"
+        }
+      },
+      "note": "只接收已人工审核的精确社区别名；平台总价展示有取整，显示150万也剔除。这里只检查配置的公开列表，不保证完整覆盖。"
+    },
+    {
+      "id": "tianruncheng-latest",
+      "type": "5i5j",
+      "name": "我爱我家南京",
+      "label": "天润城公开列表",
+      "url": "https://nj.5i5j.com/solds/tianruncheng/",
+      "enabled": true,
+      "communities": {
+        "天润城14街区": {
+          "id": "tianruncheng",
+          "name": "天润城",
+          "sector": "桥北"
+        },
+        "天润城12街区": {
+          "id": "tianruncheng",
+          "name": "天润城",
+          "sector": "桥北"
+        },
+        "天润城7街区": {
+          "id": "tianruncheng",
+          "name": "天润城",
+          "sector": "桥北"
+        },
+        "天润城13街区": {
+          "id": "tianruncheng",
+          "name": "天润城",
+          "sector": "桥北"
+        },
+        "天润城1-4街区": {
+          "id": "tianruncheng",
+          "name": "天润城",
+          "sector": "桥北"
+        }
+      },
+      "note": "只接收已人工审核的精确社区别名；平台总价展示有取整，显示150万也剔除。这里只检查配置的公开列表，不保证完整覆盖。"
+    },
+    {
+      "id": "tianruncheng-reviewed",
+      "type": "5i5j",
+      "name": "我爱我家南京",
+      "label": "天润城已核查筛选页",
+      "url": "https://nj.5i5j.com/solds/tianruncheng/a3o3/",
+      "enabled": true,
+      "communities": {
+        "天润城14街区": {
+          "id": "tianruncheng",
+          "name": "天润城",
+          "sector": "桥北"
+        },
+        "天润城12街区": {
+          "id": "tianruncheng",
+          "name": "天润城",
+          "sector": "桥北"
+        },
+        "天润城7街区": {
+          "id": "tianruncheng",
+          "name": "天润城",
+          "sector": "桥北"
+        },
+        "天润城13街区": {
+          "id": "tianruncheng",
+          "name": "天润城",
+          "sector": "桥北"
+        },
+        "天润城1-4街区": {
+          "id": "tianruncheng",
+          "name": "天润城",
+          "sector": "桥北"
+        }
+      },
+      "note": "只接收已人工审核的精确社区别名；平台总价展示有取整，显示150万也剔除。这里只检查配置的公开列表，不保证完整覆盖。"
+    },
+    {
+      "id": "mingfa-latest",
+      "type": "5i5j",
+      "name": "我爱我家南京",
+      "label": "明发滨江新城公开列表",
+      "url": "https://nj.5i5j.com/solds/mingfabinjiang/",
+      "enabled": true,
+      "communities": {
+        "明发滨江新城大三期": {
+          "id": "mingfa",
+          "name": "明发滨江新城",
+          "sector": "桥北"
+        },
+        "明发滨江新城小三期": {
+          "id": "mingfa",
+          "name": "明发滨江新城",
+          "sector": "桥北"
+        }
+      },
+      "note": "只接收已人工审核的精确社区别名；平台总价展示有取整，显示150万也剔除。这里只检查配置的公开列表，不保证完整覆盖。"
+    },
+    {
+      "id": "mingfa-reviewed",
+      "type": "5i5j",
+      "name": "我爱我家南京",
+      "label": "明发滨江新城已核查筛选页",
+      "url": "https://nj.5i5j.com/solds/mingfabinjiang/o1n2/",
+      "enabled": true,
+      "communities": {
+        "明发滨江新城大三期": {
+          "id": "mingfa",
+          "name": "明发滨江新城",
+          "sector": "桥北"
+        },
+        "明发滨江新城小三期": {
+          "id": "mingfa",
+          "name": "明发滨江新城",
+          "sector": "桥北"
+        }
+      },
+      "note": "只接收已人工审核的精确社区别名；平台总价展示有取整，显示150万也剔除。这里只检查配置的公开列表，不保证完整覆盖。"
+    },
+    {
+      "id": "xuri-latest",
+      "type": "5i5j",
+      "name": "我爱我家南京",
+      "label": "旭日爱上城公开列表",
+      "url": "https://nj.5i5j.com/solds/xuriaishangcheng/",
+      "enabled": true,
+      "communities": {
+        "旭日爱上城五期": {
+          "id": "xuri",
+          "name": "旭日爱上城",
+          "sector": "桥北"
+        },
+        "旭日爱上城六期": {
+          "id": "xuri",
+          "name": "旭日爱上城",
+          "sector": "桥北"
+        }
+      },
+      "note": "只接收已人工审核的精确社区别名；平台总价展示有取整，显示150万也剔除。这里只检查配置的公开列表，不保证完整覆盖。"
+    },
+    {
+      "id": "xuri-reviewed",
+      "type": "5i5j",
+      "name": "我爱我家南京",
+      "label": "旭日爱上城已核查筛选页",
+      "url": "https://nj.5i5j.com/solds/xuriaishangcheng/a4p3/",
+      "enabled": true,
+      "communities": {
+        "旭日爱上城五期": {
+          "id": "xuri",
+          "name": "旭日爱上城",
+          "sector": "桥北"
+        },
+        "旭日爱上城六期": {
+          "id": "xuri",
+          "name": "旭日爱上城",
+          "sector": "桥北"
+        }
+      },
+      "note": "只接收已人工审核的精确社区别名；平台总价展示有取整，显示150万也剔除。这里只检查配置的公开列表，不保证完整覆盖。"
+    },
+    {
+      "id": "gaoxin",
+      "type": "5i5j",
+      "name": "我爱我家南京",
+      "label": "高新公开列表（已审核小区白名单）",
+      "url": "https://nj.5i5j.com/solds/gaoxin/",
+      "enabled": true,
+      "communities": {
+        "新城花漾紫郡": {
+          "id": "huayangzijun",
+          "name": "新城花漾紫郡",
+          "sector": "高新"
+        }
+      },
+      "note": "只接收已人工审核的精确社区别名；平台总价展示有取整，显示150万也剔除。这里只检查配置的公开列表，不保证完整覆盖。"
+    },
+    {
+      "id": "jiangpu",
+      "type": "5i5j",
+      "name": "我爱我家南京",
+      "label": "江浦公开列表（已审核小区白名单）",
+      "url": "https://nj.5i5j.com/solds/jiangpu/",
+      "enabled": true,
+      "communities": {
+        "金盛田阳光青城": {
+          "id": "yangguangqingcheng",
+          "name": "金盛田阳光青城",
+          "sector": "江浦"
+        },
+        "雨山美地": {
+          "id": "yushanmeidi",
+          "name": "雨山美地",
+          "sector": "南审"
+        }
+      },
+      "note": "只接收已人工审核的精确社区别名；平台总价展示有取整，显示150万也剔除。这里只检查配置的公开列表，不保证完整覆盖。"
+    },
+    {
+      "id": "jiangpu-reviewed-n4",
+      "type": "5i5j",
+      "name": "我爱我家南京",
+      "label": "江浦已核查历史分页",
+      "url": "https://nj.5i5j.com/solds/jiangpu/n4/",
+      "enabled": true,
+      "communities": {
+        "金盛田阳光青城": {
+          "id": "yangguangqingcheng",
+          "name": "金盛田阳光青城",
+          "sector": "江浦"
+        },
+        "雨山美地": {
+          "id": "yushanmeidi",
+          "name": "雨山美地",
+          "sector": "南审"
+        }
+      },
+      "note": "只接收已人工审核的精确社区别名；平台总价展示有取整，显示150万也剔除。这里只检查配置的公开列表，不保证完整覆盖。"
+    }
+  ]
+}

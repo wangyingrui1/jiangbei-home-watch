@@ -1,0 +1,76 @@
+name: Daily data and GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    # 01:17 UTC = 北京时间 09:17。GitHub may delay scheduled workflows.
+    - cron: '17 1 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: jiangbei-home-watch-pages
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm test
+      - name: Check public completed-sale sources
+        run: npm run update
+      - run: npm run validate
+      - name: Commit data and visible source status only
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          if ! git diff --quiet -- data/transactions.json data/status.json; then
+            git add data/transactions.json data/status.json
+            git commit -m 'data: daily public-source check'
+            git push origin HEAD:main
+          fi
+
+  build:
+    needs: refresh
+    if: ${{ always() && !cancelled() && (needs.refresh.result == 'success' || needs.refresh.result == 'skipped') }}
+    runs-on: ubuntu-latest
+    steps:
+      # A GITHUB_TOKEN commit does not trigger another workflow. Checkout main
+      # after refresh and publish in this same run, including failure status.
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm test
+      - run: npm run build
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

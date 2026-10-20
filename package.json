@@ -1,0 +1,15 @@
+{
+  "name": "jiangbei-home-watch",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "南京江北 150 万以内公开二手房成交观察",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "update": "node scripts/update.mjs",
+    "validate": "node scripts/validate.mjs",
+    "test": "node --test scripts/tests/*.test.mjs",
+    "build": "node scripts/build.mjs",
+    "serve": "node scripts/serve.mjs"
+  }
+}

@@ -1,0 +1,1503 @@
+{
+  "schemaVersion": 1,
+  "observedAt": "2026-10-20T07:03:02Z",
+  "communities": [
+    {
+      "id": "tianruncheng",
+      "name": "天润城",
+      "sector": "桥北",
+      "region": "江北新区直管区生活圈",
+      "positioning": "刚需",
+      "positioningLabel": "居住需求分析",
+      "positioningNote": "本站依据已收录户型、面积与预算作居住需求分析，不是政府或开发商分类。",
+      "tenureType": "待核实",
+      "tenureNote": "住宅/商品房/安置房等权属性质应逐套查验不动产权证；公开网页不能替代权属核验。",
+      "summary": "以低总价两房、小三房为主的桥北成熟大盘；按街区核对楼龄、楼型与步行路线。",
+      "description": "以低总价两房、小三房为主的桥北成熟大盘；按街区核对楼龄、楼型与步行路线。",
+      "image": {
+        "url": "assets/community-tianruncheng.webp",
+        "originalUrl": "http://image2a.5i5j.com/bdir/section/28/285370/jboncepb9843f256.jpeg",
+        "bytes": 122086,
+        "sourceUrl": "https://nj.5i5j.com/xiaoqu/285370.html",
+        "caption": "天润城13街区 · 我爱我家社区实景",
+        "kind": "community",
+        "visuallyVerified": true,
+        "originalBytes": 325250,
+        "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+      },
+      "images": [
+        {
+          "url": "assets/community-tianruncheng.webp",
+          "originalUrl": "http://image2a.5i5j.com/bdir/section/28/285370/jboncepb9843f256.jpeg",
+          "bytes": 122086,
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/285370.html",
+          "caption": "天润城13街区 · 我爱我家社区实景",
+          "kind": "community",
+          "visuallyVerified": true,
+          "originalBytes": 325250,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        }
+      ],
+      "factsScope": "天润城13街区",
+      "factsNote": "以下参数仅为天润城13街区的平台资料；同一大盘不同分期可能不同。",
+      "builtYear": 2010,
+      "greenRate": 42,
+      "floorAreaRatio": 1.35,
+      "households": 1345,
+      "propertyCompany": "苏宁物业",
+      "facts": [
+        {
+          "label": "参考分期",
+          "value": "天润城13街区"
+        },
+        {
+          "label": "建筑年代",
+          "value": "2010年"
+        },
+        {
+          "label": "绿化率",
+          "value": "42%"
+        },
+        {
+          "label": "容积率",
+          "value": "1.35"
+        },
+        {
+          "label": "总户数",
+          "value": "1345"
+        },
+        {
+          "label": "物业",
+          "value": "苏宁物业"
+        }
+      ],
+      "strengths": [
+        {
+          "text": "本站收录18笔预算内公开样本，总价展示值44–110万元，建筑面积65.78–104.14㎡；户型以逐笔记录为准。",
+          "sourceUrl": "https://nj.5i5j.com/solds/tianruncheng/a3o3/",
+          "type": "analysis"
+        },
+        {
+          "text": "13街区平台资料披露绿化率42%、容积率1.35，可作为看房时核验居住环境的线索。",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/285370.html",
+          "type": "analysis"
+        }
+      ],
+      "weaknesses": [
+        {
+          "text": "13街区平台建筑年代为2010年，楼体、公区和设备维护状况需要现场核查。",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/285370.html",
+          "type": "analysis"
+        },
+        {
+          "text": "这是多街区大盘；13街区图片与参数只代表该街区，不代表所有分期。",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/285370.html",
+          "type": "analysis"
+        }
+      ],
+      "sources": [
+        {
+          "name": "我爱我家 · 天润城13街区小区资料",
+          "url": "https://nj.5i5j.com/xiaoqu/285370.html"
+        },
+        {
+          "name": "公开成交记录",
+          "url": "https://nj.5i5j.com/solds/tianruncheng/a3o3/"
+        },
+        {
+          "name": "官方商品房项目公示",
+          "url": "https://2024.njhouse.com.cn/project/info/106604/saleInfo.html"
+        }
+      ],
+      "aliases": [
+        "天润城14街区",
+        "天润城12街区",
+        "天润城7街区",
+        "天润城13街区",
+        "天润城1-4街区"
+      ],
+      "floorplans": [
+        {
+          "url": "assets/floorplan-46752859.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_b83bafa1fa9802532320059b65a328f4_185429/wateracturalSurvey/floorPlan.jpg?time=1776583002",
+          "bytes": 58092,
+          "transactionId": "46752859",
+          "communityId": "tianruncheng",
+          "sourceUrl": "https://nj.5i5j.com/sold/46752859.html",
+          "caption": "天润城13街区 · 3室2厅1卫 · 85㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "sha256": "f4dfcdfb9925d21be1f7fcf4bb08604b0aab33bdef0867594892ddc375260225",
+          "visuallyVerified": true,
+          "originalBytes": 609460,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46716434.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_6ce79bdd0e069aaa5a3f906b10ea4f2e_172999/wateracturalSurvey/floorPlan.jpg?time=1772770122",
+          "bytes": 47014,
+          "transactionId": "46716434",
+          "communityId": "tianruncheng",
+          "sourceUrl": "https://nj.5i5j.com/sold/46716434.html",
+          "caption": "天润城1-4街区 · 2室2厅1卫 · 83.86㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "sha256": "68b2c28b84b48fe3d15e9e27a6ec5f3cfbbb6842f34b02642dc18a27c92d1194",
+          "visuallyVerified": true,
+          "originalBytes": 520452,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46224337.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/outputfiles/nj_02842caf07551fb182ddb1ae7a07b712_21392/wateracturalSurvey/floorPlan.jpg?time=1727319943",
+          "bytes": 44114,
+          "transactionId": "46224337",
+          "communityId": "tianruncheng",
+          "sourceUrl": "https://nj.5i5j.com/sold/46224337.html",
+          "caption": "天润城7街区 · 2室2厅1卫 · 89.43㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "sha256": "1e5876e6e986849e959a4e5521dd6a276585056b56bfc41682490662c4635952",
+          "visuallyVerified": true,
+          "originalBytes": 460414,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46743758.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_483a65ca0a2d681215f67be18d2fe81a_181988/wateracturalSurvey/floorPlan.jpg?time=1775458602",
+          "transactionId": "46743758",
+          "communityId": "tianruncheng",
+          "sourceUrl": "https://nj.5i5j.com/sold/46743758.html",
+          "caption": "天润城1-4街区 · 3室2厅1卫 · 103.95㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "bytes": 51140,
+          "sha256": "5fa53206463c19b0efd43c746e5802072bd0ec19f92768e11ff86c3e9a089bb2",
+          "visuallyVerified": true,
+          "originalBytes": 556006,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46733003.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_7aac3d46b9b98e06e44a5fc78f6fa677_179669/wateracturalSurvey/floorPlan.jpg?time=1774683320",
+          "bytes": 65402,
+          "transactionId": "46733003",
+          "communityId": "tianruncheng",
+          "sourceUrl": "https://nj.5i5j.com/sold/46733003.html",
+          "caption": "天润城12街区 · 3室2厅1卫 · 78.77㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "sha256": "37a1b3a7c9eda34cdb0a90f9f765a044c13650a43016cbe8b5937d5dcc85ec00",
+          "visuallyVerified": true,
+          "originalBytes": 727420,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46489438.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/outputfiles/nj_7ce9ee136e393f67abf74c243bed2dd0_76470/wateracturalSurvey/floorPlan.jpg?time=1743574154",
+          "bytes": 43648,
+          "transactionId": "46489438",
+          "communityId": "tianruncheng",
+          "sourceUrl": "https://nj.5i5j.com/sold/46489438.html",
+          "caption": "天润城14街区 · 2室2厅1卫 · 70.84㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "sha256": "8942c8d7d4c578756153ab61df2c0f0fe7c57df4c6fba50c06138232dfbd9a65",
+          "visuallyVerified": true,
+          "originalBytes": 422745,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46743437.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_8ad6c11681c1ae05d21fbfcabac08e2d_181786/wateracturalSurvey/floorPlan.jpg?time=1775376764",
+          "transactionId": "46743437",
+          "communityId": "tianruncheng",
+          "sourceUrl": "https://nj.5i5j.com/sold/46743437.html",
+          "caption": "天润城1-4街区 · 2室2厅1卫 · 91.76㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "bytes": 43158,
+          "sha256": "294f6767c569b913a0d738c1732129973a8a297e37bae830cc9f2d08daf355d0",
+          "visuallyVerified": true,
+          "originalBytes": 486631,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46743607.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_6660e609e3f33d6faa7743f56507f0bf_182140/wateracturalSurvey/floorPlan.jpg?time=1775533879",
+          "transactionId": "46743607",
+          "communityId": "tianruncheng",
+          "sourceUrl": "https://nj.5i5j.com/sold/46743607.html",
+          "caption": "天润城13街区 · 2室2厅1卫 · 67.83㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "bytes": 61114,
+          "sha256": "d6d5e70d56943604469991f84bd2836c464a7468a4f0613b63ff96c5a41ee456",
+          "visuallyVerified": true,
+          "originalBytes": 667077,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46696010.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_98b4b0748c46eae0f4361100aa333ee8_162469/wateracturalSurvey/floorPlan.jpg?time=1767444623",
+          "transactionId": "46696010",
+          "communityId": "tianruncheng",
+          "sourceUrl": "https://nj.5i5j.com/sold/46696010.html",
+          "caption": "天润城1-4街区 · 2室2厅1卫 · 81.59㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "bytes": 49422,
+          "sha256": "ebae2dd729b287adffed084a990532428ec779f2a3eec96144e462f1a7fdf142",
+          "visuallyVerified": true,
+          "originalBytes": 531120,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46683994.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/outputfiles/nj_067dafacefed89b2e3e24a77cc4fce8a_3153/wateracturalSurvey/floorPlan.jpg?time=1723088954",
+          "transactionId": "46683994",
+          "communityId": "tianruncheng",
+          "sourceUrl": "https://nj.5i5j.com/sold/46683994.html",
+          "caption": "天润城13街区 · 3室2厅1卫 · 84.49㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "bytes": 52718,
+          "sha256": "649c9e41c5309e8598167580977970e29196065fbfd6adde3069207699e2d6e5",
+          "visuallyVerified": true,
+          "originalBytes": 518464,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46689809.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_c26b614a0abba923202e83ddb977ade4_160585/wateracturalSurvey/floorPlan.jpg?time=1766720820",
+          "transactionId": "46689809",
+          "communityId": "tianruncheng",
+          "sourceUrl": "https://nj.5i5j.com/sold/46689809.html",
+          "caption": "天润城14街区 · 2室2厅1卫 · 65.78㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "bytes": 41938,
+          "sha256": "4de73573aab056efd5eb6e580960d3c03aae6bd6f910e5994305e286f7049181",
+          "visuallyVerified": true,
+          "originalBytes": 417508,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46644379.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_0cb9b1999c71ab77b88e8587c9bb98b5_150774/wateracturalSurvey/floorPlan.jpg?time=1763288501",
+          "transactionId": "46644379",
+          "communityId": "tianruncheng",
+          "sourceUrl": "https://nj.5i5j.com/sold/46644379.html",
+          "caption": "天润城1-4街区 · 3室2厅1卫 · 104.14㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "bytes": 48058,
+          "sha256": "14e8a1d5182a984937891e37a7923e62244a5448c4918a60b1695d12711367fc",
+          "visuallyVerified": true,
+          "originalBytes": 503961,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46629666.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_f6a1a6e6de0c2ba6cbdfa48ec458f23a_136662/wateracturalSurvey/floorPlan.jpg?time=1758941229",
+          "transactionId": "46629666",
+          "communityId": "tianruncheng",
+          "sourceUrl": "https://nj.5i5j.com/sold/46629666.html",
+          "caption": "天润城1-4街区 · 2室2厅1卫 · 96.4㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "bytes": 48408,
+          "sha256": "e9c9a29f983923c6aa745c101bba80ae99367510f4600ca255b67adbe3d0e7dd",
+          "visuallyVerified": true,
+          "originalBytes": 421436,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46287216.webp",
+          "originalUrl": "http://image2a.5i5j.com/layout/df2965589c3046b7994361d51eaf79b7.jpg",
+          "transactionId": "46287216",
+          "communityId": "tianruncheng",
+          "sourceUrl": "https://nj.5i5j.com/sold/46287216.html",
+          "caption": "天润城12街区 · 2室2厅1卫 · 76.62㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "bytes": 56348,
+          "sha256": "6f7c60e39433c75c4e04bf248ece358af8191337b8c2881f3b65917dc463a7a6",
+          "visuallyVerified": true,
+          "originalBytes": 401345,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46378457.webp",
+          "originalUrl": "http://image2a.5i5j.com/bdir/layout/4d053212948d4a509de3ed634e9d78dc.jpg",
+          "transactionId": "46378457",
+          "communityId": "tianruncheng",
+          "sourceUrl": "https://nj.5i5j.com/sold/46378457.html",
+          "caption": "天润城12街区 · 2室2厅1卫 · 72.37㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "bytes": 70594,
+          "sha256": "167d927fe9fb12aee5c8cb6b912197bb5f3b7d07b303c1c52a70a163ef8fe5a6",
+          "visuallyVerified": true,
+          "originalBytes": 301893,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46330247.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/outputfiles/nj_8dbc0f8394e76e16f66a3e1fdeb60326_32960/wateracturalSurvey/floorPlan.jpg?time=1730510204",
+          "transactionId": "46330247",
+          "communityId": "tianruncheng",
+          "sourceUrl": "https://nj.5i5j.com/sold/46330247.html",
+          "caption": "天润城7街区 · 2室2厅1卫 · 86.3㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "bytes": 41340,
+          "sha256": "144e4e396005f72742601810e0f98fea8ff52a6aae647eddd65bfc11a061eb1c",
+          "visuallyVerified": true,
+          "originalBytes": 407840,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-45855163.webp",
+          "originalUrl": "http://image21.5i5j.com/cbsv/2022/11/11/d4f7ed2820de4604ae32622ed5c69873.jpg",
+          "transactionId": "45855163",
+          "communityId": "tianruncheng",
+          "sourceUrl": "https://nj.5i5j.com/sold/45855163.html",
+          "caption": "天润城13街区 · 2室2厅1卫 · 82.69㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "bytes": 25756,
+          "sha256": "dd58d3ea80e302059b35c1d655ce468cc58374ed6dcc2ae7c1c24783fafda4fa",
+          "visuallyVerified": true,
+          "originalBytes": 247140,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        }
+      ],
+      "developmentType": "商品房社区",
+      "developmentSource": {
+        "name": "南京网上房地产 · 官方项目公示",
+        "url": "https://2024.njhouse.com.cn/project/info/106604/saleInfo.html",
+        "evidence": "南京网上房地产“商品房 > 浦口区 > 天润城”栏目，住宅幢销售资料附商品住房价格表。",
+        "observedAt": "2026-10-20T07:23:25.341Z"
+      },
+      "developmentNote": "按官方项目公开分类说明建设开发属性；并不替代每套房的不动产权属核验。"
+    },
+    {
+      "id": "weinisishuicheng",
+      "name": "威尼斯水城",
+      "sector": "桥北",
+      "region": "江北新区直管区生活圈",
+      "positioning": "刚需",
+      "positioningLabel": "居住需求分析",
+      "positioningNote": "本站依据已收录户型、面积与预算作居住需求分析，不是政府或开发商分类。",
+      "tenureType": "待核实",
+      "tenureNote": "住宅/商品房/安置房等权属性质应逐套查验不动产权证；公开网页不能替代权属核验。",
+      "summary": "沿江大盘，预算内可看两房与紧凑三房；本页保留每笔交易的具体街区。",
+      "description": "沿江大盘，预算内可看两房与紧凑三房；本页保留每笔交易的具体街区。",
+      "image": {
+        "url": "assets/community-weinisi-6-7.webp",
+        "originalUrl": "http://image2a.5i5j.com/bdir/section/28/285212/hgpfagdf9da392e3.jpeg",
+        "sourceUrl": "https://nj.5i5j.com/xiaoqu/285212.html",
+        "caption": "威尼斯水城6、7街区 · 我爱我家社区实景",
+        "kind": "community",
+        "visuallyVerified": true,
+        "bytes": 131422,
+        "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+      },
+      "images": [
+        {
+          "url": "assets/community-weinisi-6-7.webp",
+          "originalUrl": "http://image2a.5i5j.com/bdir/section/28/285212/hgpfagdf9da392e3.jpeg",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/285212.html",
+          "caption": "威尼斯水城6、7街区 · 我爱我家社区实景",
+          "kind": "community",
+          "visuallyVerified": true,
+          "bytes": 131422,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        }
+      ],
+      "factsScope": "威尼斯水城6、7街区",
+      "factsNote": "以下参数仅为威尼斯水城6、7街区的平台资料；同一大盘不同分期可能不同。",
+      "builtYear": 2008,
+      "greenRate": 43,
+      "floorAreaRatio": 1.4,
+      "households": 2438,
+      "propertyCompany": "南京苏宁物业管理公司",
+      "facts": [
+        {
+          "label": "参考分期",
+          "value": "威尼斯水城6、7街区"
+        },
+        {
+          "label": "建筑年代",
+          "value": "2008年"
+        },
+        {
+          "label": "绿化率",
+          "value": "43%"
+        },
+        {
+          "label": "容积率",
+          "value": "1.4"
+        },
+        {
+          "label": "总户数",
+          "value": "2438"
+        },
+        {
+          "label": "物业",
+          "value": "南京苏宁物业管理公司"
+        }
+      ],
+      "strengths": [
+        {
+          "text": "已有71万元两房与126万元三房的公开成交样本，预算内可比较房间与面积。",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/285212.html",
+          "type": "analysis"
+        },
+        {
+          "text": "6、7街区平台资料披露绿化率43%、容积率1.4，社区环境具备实地比较价值。",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/285212.html",
+          "type": "analysis"
+        }
+      ],
+      "weaknesses": [
+        {
+          "text": "6、7街区平台建筑年代为2008年，应重点看房屋保养和公共设备。",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/285212.html",
+          "type": "analysis"
+        },
+        {
+          "text": "街区跨度大，不同出入口的通勤和商业距离需要逐套确认。",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/285212.html",
+          "type": "analysis"
+        }
+      ],
+      "sources": [
+        {
+          "name": "我爱我家 · 威尼斯水城6、7街区小区资料",
+          "url": "https://nj.5i5j.com/xiaoqu/285212.html"
+        },
+        {
+          "name": "公开成交记录",
+          "url": "https://nj.5i5j.com/solds/weinisishuicheng/"
+        },
+        {
+          "name": "官方商品房项目公示",
+          "url": "https://www.njhouse.com.cn/project/info/106795/permitList.html"
+        }
+      ],
+      "aliases": [
+        "威尼斯水城十六街区",
+        "威尼斯水城6、7街区",
+        "威尼斯水城十八街区",
+        "威尼斯水城10街区",
+        "威尼斯水城13街区"
+      ],
+      "floorplans": [
+        {
+          "url": "assets/floorplan-46814216.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_f180a3fd44cd9ce44b7ba733228f51bb_10237232/wateracturalSurvey/floorPlan.jpg?time=1786267414",
+          "bytes": 52646,
+          "transactionId": "46814216",
+          "communityId": "weinisishuicheng",
+          "sourceUrl": "https://nj.5i5j.com/sold/46814216.html",
+          "caption": "威尼斯水城十六街区 · 3室2厅1卫 · 110.43㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "sha256": "0f68e01847407e4e4a906d1834478443035e8d6702de960baa453ebc112d2523",
+          "visuallyVerified": true,
+          "originalBytes": 583458,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46729010.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_95d7af79c26bee85cf237b998036fb16_176882/wateracturalSurvey/floorPlan.jpg?time=1773904976",
+          "bytes": 52264,
+          "transactionId": "46729010",
+          "communityId": "weinisishuicheng",
+          "sourceUrl": "https://nj.5i5j.com/sold/46729010.html",
+          "caption": "威尼斯水城6、7街区 · 2室2厅1卫 · 89.32㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "sha256": "2da63db45c476b1c9c737f1145e83389a3fadfd6544e1bdabcf4a0f9755e6c93",
+          "visuallyVerified": true,
+          "originalBytes": 534486,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46770256.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_28e07bad8ce666fd1fb1261b29b9ec25_192032/wateracturalSurvey/floorPlan.jpg?time=1778987311",
+          "bytes": 56562,
+          "transactionId": "46770256",
+          "communityId": "weinisishuicheng",
+          "sourceUrl": "https://nj.5i5j.com/sold/46770256.html",
+          "caption": "威尼斯水城十八街区 · 2室2厅1卫 · 86.04㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "sha256": "43e43df625598f1288b6c427760d8c42568ff81c166edadd6c7cc8cc03a547a4",
+          "visuallyVerified": true,
+          "originalBytes": 613551,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46104881.webp",
+          "originalUrl": "http://image21.5i5j.com/cbsv/2022/08/13/801711a1e29046b09b21112b225b422f.jpg",
+          "bytes": 27818,
+          "transactionId": "46104881",
+          "communityId": "weinisishuicheng",
+          "sourceUrl": "https://nj.5i5j.com/sold/46104881.html",
+          "caption": "威尼斯水城10街区 · 2室2厅1卫 · 93.56㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "sha256": "90dff896c46517227e767da39bf301b56b1b1a002d0ef7484ba39e79235d056a",
+          "visuallyVerified": true,
+          "originalBytes": 262460,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46714049.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_61922f500291beb76e900fa9c56a7121_169884/wateracturalSurvey/floorPlan.jpg?time=1770532742",
+          "bytes": 51254,
+          "transactionId": "46714049",
+          "communityId": "weinisishuicheng",
+          "sourceUrl": "https://nj.5i5j.com/sold/46714049.html",
+          "caption": "威尼斯水城13街区 · 2室2厅1卫 · 89.73㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "sha256": "7ac9d2d25e9060fdcdcd048948ae3d2fe7f5cec824f5e8974bbb0de051cf5f76",
+          "visuallyVerified": true,
+          "originalBytes": 579278,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46588781.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/outputfiles/nj_bf73b5cb08369d999426730d1ec13e5e_43101/wateracturalSurvey/floorPlan.jpg?time=1733292337",
+          "transactionId": "46588781",
+          "communityId": "weinisishuicheng",
+          "sourceUrl": "https://nj.5i5j.com/sold/46588781.html",
+          "caption": "威尼斯水城13街区 · 3室2厅1卫 · 109.29㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "bytes": 54958,
+          "sha256": "6a5cbaf1207029dbab36a4a010ea396f687f5fdf05899ff9340b4d24061ca656",
+          "visuallyVerified": true,
+          "originalBytes": 590084,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46475627.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/outputfiles/nj_0dd42ac1e116f5de344979e3aa71922b_71511/wateracturalSurvey/floorPlan.jpg?time=1742435848",
+          "transactionId": "46475627",
+          "communityId": "weinisishuicheng",
+          "sourceUrl": "https://nj.5i5j.com/sold/46475627.html",
+          "caption": "威尼斯水城十八街区 · 2室2厅1卫 · 87.18㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "bytes": 57186,
+          "sha256": "adb38a8fdf0c2fce937a6a129bda6440724592aa363a719a6c1ecb58b6d09334",
+          "visuallyVerified": true,
+          "originalBytes": 563536,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46634759.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_d250c45e439be614b07e7c98e541fac0_141331/wateracturalSurvey/floorPlan.jpg?time=1760501966",
+          "transactionId": "46634759",
+          "communityId": "weinisishuicheng",
+          "sourceUrl": "https://nj.5i5j.com/sold/46634759.html",
+          "caption": "威尼斯水城十八街区 · 3室2厅1卫 · 115㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "bytes": 48340,
+          "sha256": "de1ec3aca9a6f84adda036376abf368f45c123623c0a9f4a942d408f574f0f2d",
+          "visuallyVerified": true,
+          "originalBytes": 533259,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46720938.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_d83d3fed96afae412f6d67682cb5860e_172351/wateracturalSurvey/floorPlan.jpg?time=1772591212",
+          "transactionId": "46720938",
+          "communityId": "weinisishuicheng",
+          "sourceUrl": "https://nj.5i5j.com/sold/46720938.html",
+          "caption": "威尼斯水城十八街区 · 2室2厅1卫 · 85.21㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "bytes": 57422,
+          "sha256": "c4db0f9743c415940dc5104b15f1a3082de047790159e090942727a24d8c53b0",
+          "visuallyVerified": true,
+          "originalBytes": 642653,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46517591.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_f8b382dc1a2d50d66855a9d781469c72_148223/wateracturalSurvey/floorPlan.jpg?time=1762579578",
+          "transactionId": "46517591",
+          "communityId": "weinisishuicheng",
+          "sourceUrl": "https://nj.5i5j.com/sold/46517591.html",
+          "caption": "威尼斯水城6、7街区 · 3室2厅2卫 · 140.47㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "bytes": 62206,
+          "sha256": "1ec4d4af818c9ae0559a4e663569a611fabd5bb76e8e7a6715b76d94d80e980e",
+          "visuallyVerified": true,
+          "originalBytes": 654616,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        }
+      ],
+      "developmentType": "商品房社区",
+      "developmentSource": {
+        "name": "南京网上房地产 · 官方项目公示",
+        "url": "https://www.njhouse.com.cn/project/info/106795/permitList.html",
+        "evidence": "南京网上房地产“商品房 > 浦口区 > 威尼斯水城”栏目及许可/备案证公示。",
+        "observedAt": "2026-10-20T07:23:25.343Z"
+      },
+      "developmentNote": "按官方项目公开分类说明建设开发属性；并不替代每套房的不动产权属核验。"
+    },
+    {
+      "id": "mingfa",
+      "name": "明发滨江新城",
+      "sector": "桥北",
+      "region": "江北新区直管区生活圈",
+      "positioning": "改善",
+      "positioningLabel": "居住需求分析",
+      "positioningNote": "本站依据已收录户型、面积与预算作居住需求分析，不是政府或开发商分类。",
+      "tenureType": "待核实",
+      "tenureNote": "住宅/商品房/安置房等权属性质应逐套查验不动产权证；公开网页不能替代权属核验。",
+      "summary": "预算内可覆盖三房和四房，适合把房间数量放在前面的家庭；改善定位指面积与房间数。",
+      "description": "预算内可覆盖三房和四房，适合把房间数量放在前面的家庭；改善定位指面积与房间数。",
+      "image": {
+        "url": "assets/community-mingfa.webp",
+        "originalUrl": "http://image2a.5i5j.com/bdir/section/31/312890/cokfmbeb71db20af.jpg",
+        "bytes": 113762,
+        "sourceUrl": "https://nj.5i5j.com/xiaoqu/312890.html",
+        "caption": "明发滨江新城大三期 · 我爱我家社区实景",
+        "kind": "community",
+        "visuallyVerified": true,
+        "originalBytes": 304674,
+        "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+      },
+      "images": [
+        {
+          "url": "assets/community-mingfa.webp",
+          "originalUrl": "http://image2a.5i5j.com/bdir/section/31/312890/cokfmbeb71db20af.jpg",
+          "bytes": 113762,
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/312890.html",
+          "caption": "明发滨江新城大三期 · 我爱我家社区实景",
+          "kind": "community",
+          "visuallyVerified": true,
+          "originalBytes": 304674,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        }
+      ],
+      "factsScope": "明发滨江新城大三期",
+      "factsNote": "以下参数仅为明发滨江新城大三期的平台资料；同一大盘不同分期可能不同。",
+      "builtYear": 2006,
+      "greenRate": 30,
+      "floorAreaRatio": 2,
+      "households": 3803,
+      "propertyCompany": "南京紫竹物业管理有限公司",
+      "facts": [
+        {
+          "label": "参考分期",
+          "value": "明发滨江新城大三期"
+        },
+        {
+          "label": "建筑年代",
+          "value": "2006年"
+        },
+        {
+          "label": "绿化率",
+          "value": "30%"
+        },
+        {
+          "label": "容积率",
+          "value": "2"
+        },
+        {
+          "label": "总户数",
+          "value": "3803"
+        },
+        {
+          "label": "物业",
+          "value": "南京紫竹物业管理有限公司"
+        }
+      ],
+      "strengths": [
+        {
+          "text": "本站收录11笔预算内公开样本，总价展示值92–141万元，建筑面积95.44–143.99㎡；户型以逐笔记录为准。",
+          "sourceUrl": "https://nj.5i5j.com/solds/mingfabinjiang/o1n2/",
+          "type": "analysis"
+        },
+        {
+          "text": "大三期平台披露总户数3803户，为已有生活规模的成熟社区。",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/312890.html",
+          "type": "analysis"
+        }
+      ],
+      "weaknesses": [
+        {
+          "text": "大三期平台建筑年代为2006年，房龄较长，应核查外立面、管线及电梯维护。",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/312890.html",
+          "type": "analysis"
+        },
+        {
+          "text": "不同分期和户型差异明显，143㎡四房不能直接作为116㎡三房的估值依据。",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/312890.html",
+          "type": "analysis"
+        }
+      ],
+      "sources": [
+        {
+          "name": "我爱我家 · 明发滨江新城大三期小区资料",
+          "url": "https://nj.5i5j.com/xiaoqu/312890.html"
+        },
+        {
+          "name": "公开成交记录",
+          "url": "https://nj.5i5j.com/solds/mingfabinjiang/o1n2/"
+        },
+        {
+          "name": "官方商品房项目公示",
+          "url": "https://www.njhouse.com.cn/project/info/106779/houseInfo.html?buildid=497880&houseno=801226997&permitid=112334"
+        }
+      ],
+      "aliases": [
+        "明发滨江新城大三期",
+        "明发滨江新城小三期"
+      ],
+      "floorplans": [
+        {
+          "url": "assets/floorplan-46807333.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_1d55a94d6a5cada0d616eadc89185a4b_10087911/wateracturalSurvey/floorPlan.jpg?time=1782807451",
+          "bytes": 54544,
+          "transactionId": "46807333",
+          "communityId": "mingfa",
+          "sourceUrl": "https://nj.5i5j.com/sold/46807333.html",
+          "caption": "明发滨江新城大三期 · 3室2厅2卫 · 116.26㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "sha256": "1d409cc0fd8459efdac553a1fec3eca9e20179124ee40e9710e4ddc93563948c",
+          "visuallyVerified": true,
+          "originalBytes": 558756,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46713787.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_4b4e8e8bb8fc3d6ca11cebcf306e1a62_169912/wateracturalSurvey/floorPlan.jpg?time=1770543647",
+          "bytes": 78814,
+          "transactionId": "46713787",
+          "communityId": "mingfa",
+          "sourceUrl": "https://nj.5i5j.com/sold/46713787.html",
+          "caption": "明发滨江新城小三期 · 4室2厅2卫 · 143.97㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "sha256": "f7e5f86c937f551647b09739c7e35d56f020be75cb8c7abc63ba8891a01a451c",
+          "visuallyVerified": true,
+          "originalBytes": 848368,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46688280.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_2a0f89b7460d28ac701d2880416f3ffe_159603/wateracturalSurvey/floorPlan.jpg?time=1766288987",
+          "transactionId": "46688280",
+          "communityId": "mingfa",
+          "sourceUrl": "https://nj.5i5j.com/sold/46688280.html",
+          "caption": "明发滨江新城小三期 · 3室2厅1卫 · 115㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "bytes": 53976,
+          "sha256": "06030346f1453d1da06342fec1a27cd4bf87242c16d658396c684769c42bbd0f",
+          "visuallyVerified": true,
+          "originalBytes": 601693,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46739517.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_1924f91ed112cfd305a2f01bad970464_180072/wateracturalSurvey/floorPlan.jpg?time=1774775125",
+          "bytes": 49332,
+          "transactionId": "46739517",
+          "communityId": "mingfa",
+          "sourceUrl": "https://nj.5i5j.com/sold/46739517.html",
+          "caption": "明发滨江新城大三期 · 3室2厅2卫 · 113.02㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "sha256": "648ba3c735b9b28c50a4fea2b4cea601215492b349b06ffff588c7d0f2735216",
+          "visuallyVerified": true,
+          "originalBytes": 528120,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46728883.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_8bf2c14396ae9399e442535d36640dd1_176667/wateracturalSurvey/floorPlan.jpg?time=1773824499",
+          "bytes": 55110,
+          "transactionId": "46728883",
+          "communityId": "mingfa",
+          "sourceUrl": "https://nj.5i5j.com/sold/46728883.html",
+          "caption": "明发滨江新城大三期 · 3室2厅1卫 · 115.02㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "sha256": "0229bb4d8e28606cea702a3d5cccb2846222c63240889e68f49f265366579980",
+          "visuallyVerified": true,
+          "originalBytes": 593369,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46680503.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_4354eea5d5b2067f40339433be346cc2_158167/wateracturalSurvey/floorPlan.jpg?time=1765769383",
+          "transactionId": "46680503",
+          "communityId": "mingfa",
+          "sourceUrl": "https://nj.5i5j.com/sold/46680503.html",
+          "caption": "明发滨江新城小三期 · 2室2厅1卫 · 95.82㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "bytes": 49646,
+          "sha256": "3e6f8c21b515f2e657fec49e7b4afbb236c295b87b6861456ae7881e2f96a42c",
+          "visuallyVerified": true,
+          "originalBytes": 534832,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46693920.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_400edf2ae2b2ba0a1b2664e31df5efe8_162001/wateracturalSurvey/floorPlan.jpg?time=1767262042",
+          "transactionId": "46693920",
+          "communityId": "mingfa",
+          "sourceUrl": "https://nj.5i5j.com/sold/46693920.html",
+          "caption": "明发滨江新城大三期 · 4室2厅2卫 · 143.99㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "bytes": 71904,
+          "sha256": "9473f9198d1c99d7efc7a92983b9a95d77cee4f47a729db897e07a3295f5c230",
+          "visuallyVerified": true,
+          "originalBytes": 830435,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46635860.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_a9ed25e63b4b2c2e75910c54a1e3f272_139461/wateracturalSurvey/floorPlan.jpg?time=1760179698",
+          "transactionId": "46635860",
+          "communityId": "mingfa",
+          "sourceUrl": "https://nj.5i5j.com/sold/46635860.html",
+          "caption": "明发滨江新城大三期 · 4室1厅2卫 · 143.37㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "bytes": 92384,
+          "sha256": "5bc4c4144ab3e83e125bf8cf2da74c473367c76497c73944149cb455d2320b78",
+          "visuallyVerified": true,
+          "originalBytes": 894152,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46069891.webp",
+          "originalUrl": "http://image2a.5i5j.com/bdir/layout/95bee4db57d44532955fe8e316e07670.jpg",
+          "transactionId": "46069891",
+          "communityId": "mingfa",
+          "sourceUrl": "https://nj.5i5j.com/sold/46069891.html",
+          "caption": "明发滨江新城小三期 · 2室2厅1卫 · 95.82㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "bytes": 71732,
+          "sha256": "4202abb690d2bc847b019e7064a888f1253374ff3c0ff2f00fd25815c29597b7",
+          "visuallyVerified": true,
+          "originalBytes": 311718,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46463821.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/outputfiles/nj_204fa9e53c74e350f798635253c6b722_73094/wateracturalSurvey/floorPlan.jpg?time=1742783790",
+          "transactionId": "46463821",
+          "communityId": "mingfa",
+          "sourceUrl": "https://nj.5i5j.com/sold/46463821.html",
+          "caption": "明发滨江新城大三期 · 2室2厅1卫 · 95.44㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "bytes": 51808,
+          "sha256": "92c57d1fffdb8d463ae1f6022cf01bbd87ca744a2792f28a29dbafe68e60e8ad",
+          "visuallyVerified": true,
+          "originalBytes": 535255,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46471597.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/outputfiles/nj_bb058123f165043f872156b48f2deab1_69080/wateracturalSurvey/floorPlan.jpg?time=1741852734",
+          "transactionId": "46471597",
+          "communityId": "mingfa",
+          "sourceUrl": "https://nj.5i5j.com/sold/46471597.html",
+          "caption": "明发滨江新城大三期 · 2室2厅1卫 · 97.29㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "bytes": 45072,
+          "sha256": "381779b34308c68b775916775b314959273aeeb70bdca22852688691ac193785",
+          "visuallyVerified": true,
+          "originalBytes": 427860,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        }
+      ],
+      "developmentType": "商品房社区",
+      "developmentSource": {
+        "name": "南京网上房地产 · 官方项目公示",
+        "url": "https://www.njhouse.com.cn/project/info/106779/houseInfo.html?buildid=497880&houseno=801226997&permitid=112334",
+        "evidence": "南京网上房地产“商品房 > 浦口区 > 明发滨江新城”栏目，所示房屋类型为成套住宅。",
+        "observedAt": "2026-10-20T07:23:25.343Z"
+      },
+      "developmentNote": "按官方项目公开分类说明建设开发属性；并不替代每套房的不动产权属核验。"
+    },
+    {
+      "id": "xuri",
+      "name": "旭日爱上城",
+      "sector": "桥北",
+      "region": "江北新区直管区生活圈",
+      "positioning": "刚需",
+      "positioningLabel": "居住需求分析",
+      "positioningNote": "本站依据已收录户型、面积与预算作居住需求分析，不是政府或开发商分类。",
+      "tenureType": "待核实",
+      "tenureNote": "住宅/商品房/安置房等权属性质应逐套查验不动产权证；公开网页不能替代权属核验。",
+      "summary": "桥北两房选择，当前成交样本为五期、六期；具体权属和楼栋用途要逐套核对。",
+      "description": "桥北两房选择，当前成交样本为五期、六期；具体权属和楼栋用途要逐套核对。",
+      "image": {
+        "url": "assets/community-xuri.webp",
+        "originalUrl": "http://image2a.5i5j.com/bdir/section/30/302706/aimaidjo5aaabb0b.JPG",
+        "bytes": 57846,
+        "sourceUrl": "https://nj.5i5j.com/xiaoqu/302706.html",
+        "caption": "旭日爱上城五期 · 我爱我家社区实景",
+        "kind": "community",
+        "visuallyVerified": true,
+        "originalBytes": 178899,
+        "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+      },
+      "images": [
+        {
+          "url": "assets/community-xuri.webp",
+          "originalUrl": "http://image2a.5i5j.com/bdir/section/30/302706/aimaidjo5aaabb0b.JPG",
+          "bytes": 57846,
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/302706.html",
+          "caption": "旭日爱上城五期 · 我爱我家社区实景",
+          "kind": "community",
+          "visuallyVerified": true,
+          "originalBytes": 178899,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        }
+      ],
+      "factsScope": "旭日爱上城六期",
+      "factsNote": "以下参数仅为旭日爱上城六期的平台资料；同一大盘不同分期可能不同。",
+      "builtYear": 2012,
+      "greenRate": 35,
+      "floorAreaRatio": 3,
+      "households": 1492,
+      "propertyCompany": "弘阳物业",
+      "facts": [
+        {
+          "label": "参考分期",
+          "value": "旭日爱上城六期"
+        },
+        {
+          "label": "建筑年代",
+          "value": "2012年"
+        },
+        {
+          "label": "绿化率",
+          "value": "35%"
+        },
+        {
+          "label": "容积率",
+          "value": "3"
+        },
+        {
+          "label": "总户数",
+          "value": "1492"
+        },
+        {
+          "label": "物业",
+          "value": "弘阳物业"
+        }
+      ],
+      "strengths": [
+        {
+          "text": "本站收录3笔预算内公开样本，总价展示值105–115万元，建筑面积91.97–97.07㎡；户型以逐笔记录为准。",
+          "sourceUrl": "https://nj.5i5j.com/solds/xuriaishangcheng/a4p3/",
+          "type": "analysis"
+        },
+        {
+          "text": "六期平台披露弘阳物业、绿化率35%，可据此现场查看维护状态。",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/308787.html",
+          "type": "analysis"
+        }
+      ],
+      "weaknesses": [
+        {
+          "text": "六期平台容积率为3，楼间距、采光与高峰电梯等待需要逐栋实测。",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/308787.html",
+          "type": "analysis"
+        },
+        {
+          "text": "市房产平台资料提到六区存在公寓及住宅楼栋，不能以小区名称推定每套房权属。",
+          "sourceUrl": "https://njzl.njfcj.gov.cn/stock/show/405075",
+          "type": "analysis"
+        }
+      ],
+      "sources": [
+        {
+          "name": "我爱我家 · 旭日爱上城六期小区资料",
+          "url": "https://nj.5i5j.com/xiaoqu/308787.html"
+        },
+        {
+          "name": "公开成交记录",
+          "url": "https://nj.5i5j.com/solds/xuriaishangcheng/a4p3/"
+        },
+        {
+          "name": "南京市房屋租赁服务监管平台 · 六区楼栋用途说明（挂牌资料）",
+          "url": "https://njzl.njfcj.gov.cn/stock/show/405075"
+        }
+      ],
+      "aliases": [
+        "旭日爱上城五期",
+        "旭日爱上城六期"
+      ],
+      "floorplans": [
+        {
+          "url": "assets/floorplan-46731617.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_17c6c2f57fefc57ed58dce345725ccce_177876/wateracturalSurvey/floorPlan.jpg?time=1774151702",
+          "bytes": 55668,
+          "transactionId": "46731617",
+          "communityId": "xuri",
+          "sourceUrl": "https://nj.5i5j.com/sold/46731617.html",
+          "caption": "旭日爱上城五期 · 2室2厅1卫 · 97.07㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "sha256": "2d6a5675bb5d7c92f1c07b19f1a7b4349448f307c0fe0a814d02e91a3f52dcfc",
+          "visuallyVerified": true,
+          "originalBytes": 688773,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46622595.webp",
+          "originalUrl": "http://image2a.5i5j.com/layout/c86725b55cf84c99882e11e78b33a44d.jpg",
+          "bytes": 76860,
+          "transactionId": "46622595",
+          "communityId": "xuri",
+          "sourceUrl": "https://nj.5i5j.com/sold/46622595.html",
+          "caption": "旭日爱上城六期 · 2室2厅1卫 · 91.97㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "sha256": "628f98b2a7408e43fb44657d0136a3343d2a13b50c296fd9525baed4d7d5b4f1",
+          "visuallyVerified": true,
+          "originalBytes": 574672,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-45214008.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/outputfiles/nj_8bebb94582cba7e8dfd4acfd835ffa28_70621/wateracturalSurvey/floorPlan.jpg?time=1742198026",
+          "bytes": 56136,
+          "transactionId": "45214008",
+          "communityId": "xuri",
+          "sourceUrl": "https://nj.5i5j.com/sold/45214008.html",
+          "caption": "旭日爱上城六期 · 2室2厅1卫 · 92.63㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "sha256": "af774590c0a6954cef03c58627c5b1fc26c55a4af59ec5076b1cd01ed09dbc1e",
+          "visuallyVerified": true,
+          "originalBytes": 622556,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        }
+      ],
+      "developmentType": "待核实",
+      "developmentNote": "尚未取得足以区分商品住宅与安置社区的建设属性证据。"
+    },
+    {
+      "id": "huayangzijun",
+      "name": "新城花漾紫郡",
+      "sector": "高新",
+      "region": "江北新区直管区生活圈",
+      "positioning": "刚需",
+      "positioningLabel": "居住需求分析",
+      "positioningNote": "本站依据已收录户型、面积与预算作居住需求分析，不是政府或开发商分类。",
+      "tenureType": "待核实",
+      "tenureNote": "住宅/商品房/安置房等权属性质应逐套查验不动产权证；公开网页不能替代权属核验。",
+      "summary": "高新板块的紧凑两房、三房样本，适合结合高新园区通勤路线比较。",
+      "description": "高新板块的紧凑两房、三房样本，适合结合高新园区通勤路线比较。",
+      "image": {
+        "url": "assets/community-huayangzijun.webp",
+        "originalUrl": "http://image2a.5i5j.com/bdir/section/37/375090/mlhhepklb44efb7e.jpg",
+        "bytes": 110230,
+        "sourceUrl": "https://nj.5i5j.com/xiaoqu/375090.html",
+        "caption": "新城花漾紫郡 · 我爱我家社区实景",
+        "kind": "community",
+        "visuallyVerified": true,
+        "originalBytes": 270628,
+        "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+      },
+      "images": [
+        {
+          "url": "assets/community-huayangzijun.webp",
+          "originalUrl": "http://image2a.5i5j.com/bdir/section/37/375090/mlhhepklb44efb7e.jpg",
+          "bytes": 110230,
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/375090.html",
+          "caption": "新城花漾紫郡 · 我爱我家社区实景",
+          "kind": "community",
+          "visuallyVerified": true,
+          "originalBytes": 270628,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        }
+      ],
+      "factsScope": "新城花漾紫郡",
+      "factsNote": "以下参数仅为新城花漾紫郡的平台资料；同一大盘不同分期可能不同。",
+      "builtYear": 2015,
+      "greenRate": 36,
+      "floorAreaRatio": 2,
+      "households": 3458,
+      "propertyCompany": "新城物业",
+      "facts": [
+        {
+          "label": "参考分期",
+          "value": "新城花漾紫郡"
+        },
+        {
+          "label": "建筑年代",
+          "value": "2015年"
+        },
+        {
+          "label": "绿化率",
+          "value": "36%"
+        },
+        {
+          "label": "容积率",
+          "value": "2"
+        },
+        {
+          "label": "总户数",
+          "value": "3458"
+        },
+        {
+          "label": "物业",
+          "value": "新城物业"
+        }
+      ],
+      "strengths": [
+        {
+          "text": "本站收录5笔预算内公开样本，总价展示值88–115万元，建筑面积77.64–95.53㎡；户型以逐笔记录为准。",
+          "sourceUrl": "https://nj.5i5j.com/solds/gaoxin/",
+          "type": "analysis"
+        },
+        {
+          "text": "平台披露2015年建筑年代、绿化率36%、容积率2，可用于同预算社区比较。",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/375090.html",
+          "type": "analysis"
+        }
+      ],
+      "weaknesses": [
+        {
+          "text": "总户数3458户，出入口、停车和高峰通勤体验需要现场确认。",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/375090.html",
+          "type": "analysis"
+        },
+        {
+          "text": "95.53㎡样本登记为2室1厅，与紧凑三房使用方式不同，应以具体成交户型图为准。",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/375090.html",
+          "type": "analysis"
+        }
+      ],
+      "sources": [
+        {
+          "name": "我爱我家 · 新城花漾紫郡小区资料",
+          "url": "https://nj.5i5j.com/xiaoqu/375090.html"
+        },
+        {
+          "name": "公开成交记录",
+          "url": "https://nj.5i5j.com/solds/gaoxin/"
+        },
+        {
+          "name": "官方商品房项目公示",
+          "url": "https://www.njhouse.com.cn/project/info/108616/homePage.html"
+        }
+      ],
+      "aliases": [
+        "新城花漾紫郡"
+      ],
+      "floorplans": [
+        {
+          "url": "assets/floorplan-46788444.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_64944ed8847ae287cd992b33ce043f4a_194637/wateracturalSurvey/floorPlan.jpg?time=1780735551",
+          "bytes": 50514,
+          "transactionId": "46788444",
+          "communityId": "huayangzijun",
+          "sourceUrl": "https://nj.5i5j.com/sold/46788444.html",
+          "caption": "新城花漾紫郡 · 3室2厅1卫 · 82.25㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "sha256": "befa1cd294961cc2cdcf848812b1978a398e35217c76bf48b64cbf62681af811",
+          "visuallyVerified": true,
+          "originalBytes": 508674,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46788290.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_7cf5d459880123b87a8fa907d15f44a8_194424/wateracturalSurvey/floorPlan.jpg?time=1780557016",
+          "transactionId": "46788290",
+          "communityId": "huayangzijun",
+          "sourceUrl": "https://nj.5i5j.com/sold/46788290.html",
+          "kind": "floorplan",
+          "bytes": 47060,
+          "caption": "新城花漾紫郡 · 2室1厅1卫 · 95.53㎡ · 该成交页提供的户型图",
+          "sha256": "d0219d7e8badbf257f47287c0562e9992a04f6bef13966048474b9e71c3347d5",
+          "visuallyVerified": true,
+          "originalBytes": 458070,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46706299.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_7f9a7e2fa227bfdda8d59420f24aa3ed_169878/wateracturalSurvey/floorPlan.jpg?time=1770530247",
+          "transactionId": "46706299",
+          "communityId": "huayangzijun",
+          "sourceUrl": "https://nj.5i5j.com/sold/46706299.html",
+          "kind": "floorplan",
+          "bytes": 45608,
+          "caption": "新城花漾紫郡 · 3室2厅1卫 · 77.64㎡ · 该成交页提供的户型图",
+          "sha256": "35c5582ffd555765b5967d64c0cd62526652266935342d7383afacfd46898a11",
+          "visuallyVerified": true,
+          "originalBytes": 480441,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        },
+        {
+          "url": "assets/floorplan-46471259.webp",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/outputfiles/nj_008373f5c108ee9991669b3e608a54d1_68923/wateracturalSurvey/floorPlan.jpg?time=1741857337",
+          "transactionId": "46471259",
+          "communityId": "huayangzijun",
+          "sourceUrl": "https://nj.5i5j.com/sold/46471259.html",
+          "caption": "新城花漾紫郡 · 2室2厅1卫 · 78.59㎡ · 该成交页提供的户型图",
+          "kind": "floorplan",
+          "bytes": 45114,
+          "sha256": "8a2132c7446ec622342a1462e864952bb648b6bd117b656ff77f242ee1ecae72",
+          "visuallyVerified": true,
+          "originalBytes": 452276,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        }
+      ],
+      "developmentType": "商品房社区",
+      "developmentSource": {
+        "name": "南京网上房地产 · 官方项目公示",
+        "url": "https://www.njhouse.com.cn/project/info/108616/homePage.html",
+        "evidence": "南京网上房地产“商品房 > 浦口区 > 花漾紫郡花园”栏目；用途住宅，开发企业南京新城万顺房地产有限公司。",
+        "observedAt": "2026-10-20T07:23:25.343Z"
+      },
+      "developmentNote": "按官方项目公开分类说明建设开发属性；并不替代每套房的不动产权属核验。"
+    },
+    {
+      "id": "yangguangqingcheng",
+      "name": "金盛田阳光青城",
+      "sector": "江浦",
+      "region": "浦口区",
+      "positioning": "改善",
+      "positioningLabel": "居住需求分析",
+      "positioningNote": "本站依据已收录户型、面积与预算作居住需求分析，不是政府或开发商分类。",
+      "tenureType": "待核实",
+      "tenureNote": "住宅/商品房/安置房等权属性质应逐套查验不动产权证；公开网页不能替代权属核验。",
+      "summary": "江浦板块预算内的大三房样本；改善定位依据136㎡三房的空间条件。",
+      "description": "江浦板块预算内的大三房样本；改善定位依据136㎡三房的空间条件。",
+      "image": {
+        "url": "assets/community-yangguangqingcheng.webp",
+        "originalUrl": "http://image2a.5i5j.com/bdir/section/31/316670/pdpfnnadf3a46b64.jpg",
+        "bytes": 50342,
+        "sourceUrl": "https://nj.5i5j.com/xiaoqu/316670.html",
+        "caption": "金盛田阳光青城 · 我爱我家社区实景",
+        "kind": "community",
+        "visuallyVerified": true,
+        "originalBytes": 129349,
+        "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+      },
+      "images": [
+        {
+          "url": "assets/community-yangguangqingcheng.webp",
+          "originalUrl": "http://image2a.5i5j.com/bdir/section/31/316670/pdpfnnadf3a46b64.jpg",
+          "bytes": 50342,
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/316670.html",
+          "caption": "金盛田阳光青城 · 我爱我家社区实景",
+          "kind": "community",
+          "visuallyVerified": true,
+          "originalBytes": 129349,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        }
+      ],
+      "factsScope": "金盛田阳光青城",
+      "factsNote": "以下参数仅为金盛田阳光青城的平台资料；同一大盘不同分期可能不同。",
+      "builtYear": 2016,
+      "greenRate": 42,
+      "floorAreaRatio": 3,
+      "households": 917,
+      "propertyCompany": "南京巨盛物业管理有限公司",
+      "facts": [
+        {
+          "label": "参考分期",
+          "value": "金盛田阳光青城"
+        },
+        {
+          "label": "建筑年代",
+          "value": "2016年"
+        },
+        {
+          "label": "绿化率",
+          "value": "42%"
+        },
+        {
+          "label": "容积率",
+          "value": "3"
+        },
+        {
+          "label": "总户数",
+          "value": "917"
+        },
+        {
+          "label": "物业",
+          "value": "南京巨盛物业管理有限公司"
+        }
+      ],
+      "strengths": [
+        {
+          "text": "本站收录2笔预算内公开样本，总价展示值123–126万元，建筑面积84.19–136.37㎡；户型以逐笔记录为准。",
+          "sourceUrl": "https://nj.5i5j.com/solds/jiangpu/",
+          "type": "analysis"
+        },
+        {
+          "text": "小区页面披露2016年建筑年代、绿化率42%，属于有明确平台基础资料的社区。",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/316670.html",
+          "type": "analysis"
+        }
+      ],
+      "weaknesses": [
+        {
+          "text": "当前只有两笔符合条件的历史成交样本，时间和面积差别明显，不能据此推算全盘均价。",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/316670.html",
+          "type": "analysis"
+        },
+        {
+          "text": "136㎡样本只有一个卫生间，多人家庭需核对日常使用需求；平台容积率3也需关注采光。",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/316670.html",
+          "type": "analysis"
+        }
+      ],
+      "sources": [
+        {
+          "name": "我爱我家 · 金盛田阳光青城小区资料",
+          "url": "https://nj.5i5j.com/xiaoqu/316670.html"
+        },
+        {
+          "name": "公开成交记录",
+          "url": "https://nj.5i5j.com/solds/jiangpu/"
+        },
+        {
+          "name": "乐居 · 金盛田阳光青城基础资料",
+          "url": "https://house.leju.com/nj/109745/xinxi/"
+        },
+        {
+          "name": "84.19㎡三房公开成交记录",
+          "url": "https://nj.5i5j.com/solds/jiangpu/n4/"
+        }
+      ],
+      "aliases": [
+        "金盛田阳光青城"
+      ],
+      "floorplans": [
+        {
+          "url": "assets/floorplan-46254720.webp",
+          "originalUrl": "http://image2a.5i5j.com/layout/ee75c70d27624fee9239b89169126f22.jpg",
+          "transactionId": "46254720",
+          "communityId": "yangguangqingcheng",
+          "sourceUrl": "https://nj.5i5j.com/sold/46254720.html",
+          "kind": "floorplan",
+          "bytes": 57056,
+          "caption": "金盛田阳光青城 · 3室1厅1卫 · 84.19㎡ · 该成交页提供的户型图",
+          "sha256": "899be3c8150898473a1e7de2cc8c07390dc9067d5fa31cfab0a2c6635086be3e",
+          "visuallyVerified": true,
+          "originalBytes": 232347,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        }
+      ],
+      "developmentType": "待核实",
+      "developmentNote": "尚未取得足以区分商品住宅与安置社区的建设属性证据。"
+    },
+    {
+      "id": "yushanmeidi",
+      "name": "雨山美地",
+      "sector": "南审",
+      "region": "浦口区",
+      "positioning": "刚需",
+      "positioningLabel": "居住需求分析",
+      "positioningNote": "本站依据已收录户型、面积与预算作居住需求分析，不是政府或开发商分类。",
+      "tenureType": "待核实",
+      "tenureNote": "住宅/商品房/安置房等权属性质应逐套查验不动产权证；公开网页不能替代权属核验。",
+      "summary": "南审生活圈的低总价两房样本；南审为市场板块称呼，行政及平台商圈为江浦。",
+      "description": "南审生活圈的低总价两房样本；南审为市场板块称呼，行政及平台商圈为江浦。",
+      "image": {
+        "url": "assets/community-yushanmeidi.webp",
+        "originalUrl": "http://image2a.5i5j.com/bdir/section/28/286182/giifodla0e33d497.jpg",
+        "bytes": 94410,
+        "sourceUrl": "https://nj.5i5j.com/xiaoqu/286182.html",
+        "caption": "雨山美地 · 我爱我家社区实景",
+        "kind": "community",
+        "visuallyVerified": true,
+        "originalBytes": 250567,
+        "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+      },
+      "images": [
+        {
+          "url": "assets/community-yushanmeidi.webp",
+          "originalUrl": "http://image2a.5i5j.com/bdir/section/28/286182/giifodla0e33d497.jpg",
+          "bytes": 94410,
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/286182.html",
+          "caption": "雨山美地 · 我爱我家社区实景",
+          "kind": "community",
+          "visuallyVerified": true,
+          "originalBytes": 250567,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        }
+      ],
+      "factsScope": "雨山美地",
+      "factsNote": "以下参数仅为雨山美地的平台资料；同一大盘不同分期可能不同。",
+      "builtYear": 2014,
+      "greenRate": 45,
+      "floorAreaRatio": 1.3,
+      "households": 782,
+      "propertyCompany": "南京创民物业管理有限公司",
+      "facts": [
+        {
+          "label": "参考分期",
+          "value": "雨山美地"
+        },
+        {
+          "label": "建筑年代",
+          "value": "2014年"
+        },
+        {
+          "label": "绿化率",
+          "value": "45%"
+        },
+        {
+          "label": "容积率",
+          "value": "1.3"
+        },
+        {
+          "label": "总户数",
+          "value": "782"
+        },
+        {
+          "label": "物业",
+          "value": "南京创民物业管理有限公司"
+        }
+      ],
+      "strengths": [
+        {
+          "text": "本站收录1笔预算内公开样本，总价展示值74–74万元，建筑面积91.9–91.9㎡；户型以逐笔记录为准。",
+          "sourceUrl": "https://nj.5i5j.com/solds/jiangpu/",
+          "type": "analysis"
+        },
+        {
+          "text": "平台披露绿化率45%、容积率1.3，可作为低密度环境的核验线索。",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/286182.html",
+          "type": "analysis"
+        }
+      ],
+      "weaknesses": [
+        {
+          "text": "公开成交样本覆盖有限，不能据此推算全盘均价。",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/286182.html",
+          "type": "analysis"
+        },
+        {
+          "text": "链家与我爱我家对户数、物业资料有差异，基础信息应以实际物业及产权资料复核。",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/286182.html",
+          "type": "analysis"
+        }
+      ],
+      "sources": [
+        {
+          "name": "我爱我家 · 雨山美地小区资料",
+          "url": "https://nj.5i5j.com/xiaoqu/286182.html"
+        },
+        {
+          "name": "公开成交记录",
+          "url": "https://nj.5i5j.com/solds/jiangpu/"
+        },
+        {
+          "name": "链家 · 雨山美地小区资料与南审位置说明",
+          "url": "https://news.lianjia.com/nj/xiaoqu/2511053595471.html"
+        }
+      ],
+      "aliases": [
+        "雨山美地"
+      ],
+      "floorplans": [],
+      "referenceFloorplans": [
+        {
+          "url": "assets/reference-floorplan-yushanmeidi.webp",
+          "originalUrl": "https://image1.ljcdn.com/x-se/hdic-frame/standard_330cbc38-e02d-4e0c-b510-7cb9b6bd72cc.png.533x400.jpg",
+          "sourceUrl": "https://news.lianjia.com/nj/xiaoqu/2511053595471.html",
+          "caption": "雨山美地 · 2室1厅1卫 · 约91㎡社区参考户型，不是本笔91.9㎡成交房源",
+          "kind": "floorplan",
+          "isReference": true,
+          "visuallyVerified": true,
+          "bytes": 12408,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        }
+      ],
+      "developmentType": "待核实",
+      "developmentNote": "尚未取得足以区分商品住宅与安置社区的建设属性证据。"
+    }
+  ]
+}
