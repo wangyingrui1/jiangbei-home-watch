@@ -36,8 +36,8 @@ jobs:
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          if ! git diff --quiet -- data/transactions.json data/status.json; then
-            git add data/transactions.json data/status.json
+          if ! git diff --quiet -- data/transactions.json data/status.json data/discovery.json; then
+            git add data/transactions.json data/status.json data/discovery.json
             git commit -m 'data: daily public-source check'
             git push origin HEAD:main
           fi

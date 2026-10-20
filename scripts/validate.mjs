@@ -1,5 +1,7 @@
 import { access } from 'node:fs/promises';
 import { resolve } from 'node:path';
+import { candidateErrors } from './discovery.mjs';
+import { reportDatasetErrors } from './reports.mjs';
 import { ROOT, readJson, recordErrors, isPublicUrl } from './lib.mjs';
 
 export async function validate() {
@@ -32,6 +34,22 @@ export async function validate() {
     sourceIds.add(source.id);
     for (const mapping of Object.values(source.communities || {})) if (!communityIds.has(mapping.id)) issues.push(`Source ${source.id}: unknown community ${mapping.id}`);
   }
+  try {
+    const discovery = await readJson('data/discovery.json');
+    if (!Array.isArray(discovery.candidates)) issues.push('discovery.candidates must be an array');
+    else {
+      const candidateIds = new Set();
+      for (const c of discovery.candidates) {
+        issues.push(...candidateErrors(c).map(e => `${c.id}: candidate ${e}`));
+        if (candidateIds.has(c.id)) issues.push(`Duplicate discovery ID: ${c.id}`);
+        candidateIds.add(c.id);
+      }
+    }
+  } catch (error) { if (error.code !== 'ENOENT') throw error; }
+  try {
+    const reports = await readJson('data/reports.json');
+    issues.push(...reportDatasetErrors(reports, ids));
+  } catch (error) { if (error.code !== 'ENOENT') throw error; }
   if (issues.length) throw new Error(`Data validation failed:\n${issues.join('\n')}`);
   console.log(`Validated ${transactions.records.length} transactions, ${communities.communities.length} communities, ${sources.sources.length} source pages. All transaction totals are within 150万元.`);
   return true;

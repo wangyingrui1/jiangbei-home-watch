@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "observedAt": "2026-10-20T07:03:02Z",
+  "observedAt": "2026-10-20T08:56:59.629Z",
   "communities": [
     {
       "id": "tianruncheng",
@@ -1498,6 +1498,2236 @@
       ],
       "developmentType": "待核实",
       "developmentNote": "尚未取得足以区分商品住宅与安置社区的建设属性证据。"
+    },
+    {
+      "id": "hongyangshiguangli",
+      "name": "弘阳时光里",
+      "sector": "高新",
+      "region": "江北新区生活圈",
+      "positioning": "刚需",
+      "positioningLabel": "居住需求分析",
+      "positioningNote": "本站根据已收录面积、户型与预算作居住需求分析；不是政府分类。",
+      "tenureType": "待核实",
+      "tenureNote": "社区的住宅用途与每套房的权属、用途、抵押和转让条件分别核验。",
+      "developmentType": "住宅社区（平台资料）",
+      "developmentNote": "社区用途按公开小区与开发项目资料记录，不替代具体房屋不动产权证核验。",
+      "builtYear": 2015,
+      "builtYearSource": {
+        "name": "公开社区资料",
+        "url": "https://nj.5i5j.com/xiaoqu/399606.html",
+        "evidence": "2015年"
+      },
+      "yearEvidence": "2015年",
+      "isBuilt2015OrLater": true,
+      "summary": "高新板块的紧凑两房样本；收录一期的62.14㎡户型，保留与二期的区别。",
+      "description": "高新板块的紧凑两房样本；收录一期的62.14㎡户型，保留与二期的区别。",
+      "image": {
+        "communityId": "hongyangshiguangli",
+        "url": "assets/community-hongyangshiguangli.webp",
+        "originalUrl": "https://imgwcs2.soufunimg.com/viewimage/house/2019_04/25/394be5fd-4c5a-4ce8-a418-bf4d77341a2e/1400x1050.jpg?t=1",
+        "sourceUrl": "https://m.fang.com/xiaoqu/nanjing/1811201602.html",
+        "galleryLabel": "https://m.fang.com/xiaoqu/photo/nanjing/1811201602.html?bid=18303280&typename=实景图&showbigimage=1",
+        "width": 1400,
+        "height": 1050,
+        "bytes": 267006,
+        "originalBytes": 347025,
+        "kind": "community",
+        "visuallyVerified": true,
+        "caption": "弘阳时光里 · 房天下社区历史实景，拍摄日期以图内水印为准"
+      },
+      "images": [
+        {
+          "communityId": "hongyangshiguangli",
+          "url": "assets/community-hongyangshiguangli.webp",
+          "originalUrl": "https://imgwcs2.soufunimg.com/viewimage/house/2019_04/25/394be5fd-4c5a-4ce8-a418-bf4d77341a2e/1400x1050.jpg?t=1",
+          "sourceUrl": "https://m.fang.com/xiaoqu/nanjing/1811201602.html",
+          "galleryLabel": "https://m.fang.com/xiaoqu/photo/nanjing/1811201602.html?bid=18303280&typename=实景图&showbigimage=1",
+          "width": 1400,
+          "height": 1050,
+          "bytes": 267006,
+          "originalBytes": 347025,
+          "kind": "community",
+          "visuallyVerified": true,
+          "caption": "弘阳时光里 · 房天下社区历史实景，拍摄日期以图内水印为准"
+        }
+      ],
+      "factsScope": "弘阳时光里",
+      "factsNote": "社区基础信息来自所列来源，分期与楼栋可能不同；无数据或平台0值不当作真实参数。",
+      "facts": [
+        {
+          "label": "参考分期",
+          "value": "弘阳时光里",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/399606.html"
+        },
+        {
+          "label": "建筑年代",
+          "value": "2015年",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/399606.html"
+        },
+        {
+          "label": "总户数",
+          "value": "2049",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/399606.html"
+        },
+        {
+          "label": "绿化率",
+          "value": "35%",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/399606.html"
+        },
+        {
+          "label": "容积率",
+          "value": "2.2",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/399606.html"
+        },
+        {
+          "label": "所在商圈",
+          "value": "高新",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/399606.html"
+        },
+        {
+          "label": "小区物业",
+          "value": "南京弘阳物业管理有限公司",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/399606.html"
+        }
+      ],
+      "greenRate": 35,
+      "floorAreaRatio": 2.2,
+      "households": 2049,
+      "propertyCompany": "南京弘阳物业管理有限公司",
+      "strengths": [
+        {
+          "text": "平台披露62.14㎡两房成交73万元，适合优先控制总价的居住需求。",
+          "sourceUrl": "https://nj.5i5j.com/solds/gaoxin/",
+          "type": "analysis"
+        }
+      ],
+      "weaknesses": [
+        {
+          "text": "面积较紧凑，应实看收纳、餐厅和日常活动空间；社区同时有商业配套，具体房屋用途须逐套查证。",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/399606.html",
+          "type": "analysis"
+        },
+        {
+          "text": "当前预算内样本量有限，不能代表该小区所有房源或完整市场成交。",
+          "sourceUrl": "https://nj.5i5j.com/solds/gaoxin/",
+          "type": "analysis"
+        }
+      ],
+      "sources": [
+        {
+          "name": "公开成交记录",
+          "url": "https://nj.5i5j.com/solds/gaoxin/"
+        },
+        {
+          "name": "建成年代证据",
+          "url": "https://nj.5i5j.com/xiaoqu/399606.html"
+        },
+        {
+          "name": "社区真实照片来源",
+          "url": "https://m.fang.com/xiaoqu/nanjing/1811201602.html"
+        },
+        {
+          "name": "我爱我家南京成交来源",
+          "url": "https://nj.5i5j.com/sold/46817758.html"
+        },
+        {
+          "title": "贝壳 · 弘阳时光里一区：普通住宅、户型及成交日期（总价未披露）",
+          "url": "https://nj.ke.com/chengjiao/103137092182.html"
+        }
+      ],
+      "aliases": [
+        "弘阳时光里"
+      ],
+      "floorplans": [
+        {
+          "url": "assets/floorplan-46817758.webp",
+          "sourceUrl": "https://nj.5i5j.com/sold/46817758.html",
+          "caption": "弘阳时光里 2室1厅1卫 62.14㎡成交房源户型 · 平台原始户型图",
+          "kind": "floorplan",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_dd052675c8240780f966234945e6de95_10154126/wateracturalSurvey/floorPlan.jpg?time=1784282665",
+          "bytes": 49986,
+          "originalBytes": 504334,
+          "width": 1440,
+          "height": 1080,
+          "visuallyVerified": true,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本",
+          "transactionId": "5i5j-46817758",
+          "communityId": "hongyangshiguangli"
+        }
+      ],
+      "referenceFloorplans": [
+        {
+          "url": "assets/reference-floorplan-hongyangshiguangli-beike.webp",
+          "sourceUrl": "https://nj.ke.com/chengjiao/103137092182.html",
+          "caption": "贝壳 · 弘阳时光里一区61.86㎡复式3室2厅参考户型；非本站预算内成交房源，贝壳未披露成交总价",
+          "kind": "floorplan"
+        }
+      ],
+      "notes": [
+        "平台之间建筑年份不同，可能涉及分期/交房批次差异；本页保留原成交平台的社区建筑年代，不推定每栋楼一致。"
+      ]
+    },
+    {
+      "id": "yinyuefu",
+      "name": "印悦府",
+      "sector": "高新",
+      "region": "江北新区生活圈",
+      "positioning": "刚需",
+      "positioningLabel": "居住需求分析",
+      "positioningNote": "本站根据已收录面积、户型与预算作居住需求分析；不是政府分类。",
+      "tenureType": "待核实",
+      "tenureNote": "社区的住宅用途与每套房的权属、用途、抵押和转让条件分别核验。",
+      "developmentType": "住宅社区（平台资料）",
+      "developmentNote": "社区用途按公开小区与开发项目资料记录，不替代具体房屋不动产权证核验。",
+      "builtYear": 2020,
+      "builtYearSource": {
+        "name": "公开社区资料",
+        "url": "https://nj.5i5j.com/xiaoqu/200010927.html",
+        "evidence": "2020年"
+      },
+      "yearEvidence": "2020年",
+      "isBuilt2015OrLater": true,
+      "summary": "2020年建成的高新住宅社区，预算内收录89.66㎡三房样本。",
+      "description": "2020年建成的高新住宅社区，预算内收录89.66㎡三房样本。",
+      "image": {
+        "url": "assets/community-yinyuefu.webp",
+        "sourceUrl": "https://nj.5i5j.com/xiaoqu/200010927.html",
+        "caption": "印悦府 · 平台社区实景，拍摄日期未披露",
+        "kind": "community",
+        "originalUrl": "http://image2a.5i5j.com/bdir/section/48/489495/lgagmkfn9e7978f8.jpg",
+        "bytes": 87590,
+        "originalBytes": 391983,
+        "width": 800,
+        "height": 600,
+        "visuallyVerified": true,
+        "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+      },
+      "images": [
+        {
+          "url": "assets/community-yinyuefu.webp",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/200010927.html",
+          "caption": "印悦府 · 平台社区实景，拍摄日期未披露",
+          "kind": "community",
+          "originalUrl": "http://image2a.5i5j.com/bdir/section/48/489495/lgagmkfn9e7978f8.jpg",
+          "bytes": 87590,
+          "originalBytes": 391983,
+          "width": 800,
+          "height": 600,
+          "visuallyVerified": true,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        }
+      ],
+      "factsScope": "印悦府",
+      "factsNote": "社区基础信息来自所列来源，分期与楼栋可能不同；无数据或平台0值不当作真实参数。",
+      "facts": [
+        {
+          "label": "参考分期",
+          "value": "印悦府",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/200010927.html"
+        },
+        {
+          "label": "建筑年代",
+          "value": "2020年",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/200010927.html"
+        },
+        {
+          "label": "总户数",
+          "value": "1418",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/200010927.html"
+        },
+        {
+          "label": "所在商圈",
+          "value": "高新",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/200010927.html"
+        }
+      ],
+      "greenRate": null,
+      "floorAreaRatio": null,
+      "households": 1418,
+      "propertyCompany": null,
+      "strengths": [
+        {
+          "text": "2020年平台建筑年代较新，89.66㎡三房在预算内已有公开成交样本。",
+          "sourceUrl": "https://nj.5i5j.com/solds/gaoxin/",
+          "type": "analysis"
+        }
+      ],
+      "weaknesses": [
+        {
+          "text": "当前仅收录一笔预算内样本；平台绿化率、容积率显示0的字段属于缺失线索，不作为真实参数展示。",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/200010927.html",
+          "type": "analysis"
+        },
+        {
+          "text": "当前预算内样本量有限，不能代表该小区所有房源或完整市场成交。",
+          "sourceUrl": "https://nj.5i5j.com/solds/gaoxin/",
+          "type": "analysis"
+        }
+      ],
+      "sources": [
+        {
+          "name": "公开成交记录",
+          "url": "https://nj.5i5j.com/solds/gaoxin/"
+        },
+        {
+          "name": "社区真实照片来源",
+          "url": "https://nj.5i5j.com/xiaoqu/200010927.html"
+        },
+        {
+          "name": "我爱我家南京成交来源",
+          "url": "https://nj.5i5j.com/sold/46515622.html"
+        }
+      ],
+      "aliases": [
+        "印悦府"
+      ],
+      "floorplans": [
+        {
+          "url": "assets/floorplan-46515622.webp",
+          "sourceUrl": "https://nj.5i5j.com/sold/46515622.html",
+          "caption": "印悦府 3室2厅1卫 89.66㎡成交房源户型 · 平台原始户型图",
+          "kind": "floorplan",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/outputfiles/nj_d3f8625de7a8f453adec9d72a6e65a24_88688/wateracturalSurvey/floorPlan.jpg?time=1746843659",
+          "bytes": 63862,
+          "originalBytes": 671199,
+          "width": 1440,
+          "height": 1080,
+          "visuallyVerified": true,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本",
+          "transactionId": "5i5j-46515622",
+          "communityId": "yinyuefu"
+        }
+      ],
+      "referenceFloorplans": [],
+      "notes": []
+    },
+    {
+      "id": "duhuichengpinshangyuan",
+      "name": "都会诚品尚苑（都会诚品一期）",
+      "sector": "高新",
+      "region": "江北新区生活圈",
+      "positioning": "刚需",
+      "positioningLabel": "居住需求分析",
+      "positioningNote": "本站根据已收录面积、户型与预算作居住需求分析；不是政府分类。",
+      "tenureType": "待核实",
+      "tenureNote": "社区的住宅用途与每套房的权属、用途、抵押和转让条件分别核验。",
+      "developmentType": "住宅社区（平台资料）",
+      "developmentNote": "社区用途按公开小区与开发项目资料记录，不替代具体房屋不动产权证核验。",
+      "builtYear": 2020,
+      "builtYearSource": {
+        "name": "公开社区资料",
+        "url": "https://nj.5i5j.com/xiaoqu/200032794.html",
+        "evidence": "2020年"
+      },
+      "yearEvidence": "2020年",
+      "isBuilt2015OrLater": true,
+      "summary": "都会诚品一期尚苑，平台建筑年代2020年，收录89㎡三房成交。",
+      "description": "都会诚品一期尚苑，平台建筑年代2020年，收录89㎡三房成交。",
+      "image": {
+        "url": "assets/community-duhuichengpinshangyuan.webp",
+        "sourceUrl": "https://nj.5i5j.com/xiaoqu/200032794.html",
+        "caption": "都会诚品尚苑（都会诚品一期） · 社区导览牌实拍，拍摄日期未披露",
+        "kind": "community",
+        "originalUrl": "http://image2a.5i5j.com/cbsv/2023/02/13/65b4bf3546154b14b89a83085042d20d.jpg",
+        "bytes": 97144,
+        "originalBytes": 984630,
+        "width": 1280,
+        "height": 1706,
+        "visuallyVerified": true,
+        "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+      },
+      "images": [
+        {
+          "url": "assets/community-duhuichengpinshangyuan.webp",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/200032794.html",
+          "caption": "都会诚品尚苑（都会诚品一期） · 社区导览牌实拍，拍摄日期未披露",
+          "kind": "community",
+          "originalUrl": "http://image2a.5i5j.com/cbsv/2023/02/13/65b4bf3546154b14b89a83085042d20d.jpg",
+          "bytes": 97144,
+          "originalBytes": 984630,
+          "width": 1280,
+          "height": 1706,
+          "visuallyVerified": true,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        }
+      ],
+      "factsScope": "都会诚品尚苑（都会诚品一期）",
+      "factsNote": "社区基础信息来自所列来源，分期与楼栋可能不同；无数据或平台0值不当作真实参数。",
+      "facts": [
+        {
+          "label": "参考分期",
+          "value": "都会诚品尚苑（都会诚品一期）",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/200032794.html"
+        },
+        {
+          "label": "建筑年代",
+          "value": "2020年",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/200032794.html"
+        },
+        {
+          "label": "总户数",
+          "value": "1160",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/200032794.html"
+        },
+        {
+          "label": "所在商圈",
+          "value": "高新",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/200032794.html"
+        },
+        {
+          "label": "小区物业",
+          "value": "新力物业",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/200032794.html"
+        }
+      ],
+      "greenRate": null,
+      "floorAreaRatio": null,
+      "households": 1160,
+      "propertyCompany": "新力物业",
+      "strengths": [
+        {
+          "text": "89㎡三房的空间与130万元展示总价形成明确可比样本，平台建筑年代为2020年。",
+          "sourceUrl": "https://nj.5i5j.com/solds/gaoxin/",
+          "type": "analysis"
+        }
+      ],
+      "weaknesses": [
+        {
+          "text": "尚苑、风院等分期不能混用成交和照片；当前图片是园区导览牌实拍，不能据此评价楼体维护。",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/200032794.html",
+          "type": "analysis"
+        },
+        {
+          "text": "当前预算内样本量有限，不能代表该小区所有房源或完整市场成交。",
+          "sourceUrl": "https://nj.5i5j.com/solds/gaoxin/",
+          "type": "analysis"
+        }
+      ],
+      "sources": [
+        {
+          "name": "公开成交记录",
+          "url": "https://nj.5i5j.com/solds/gaoxin/"
+        },
+        {
+          "name": "社区真实照片来源",
+          "url": "https://nj.5i5j.com/xiaoqu/200032794.html"
+        },
+        {
+          "name": "我爱我家南京成交来源",
+          "url": "https://nj.5i5j.com/sold/46766891.html"
+        }
+      ],
+      "aliases": [
+        "都会诚品尚苑（都会诚品一期）"
+      ],
+      "floorplans": [
+        {
+          "url": "assets/floorplan-46766891.webp",
+          "sourceUrl": "https://nj.5i5j.com/sold/46766891.html",
+          "caption": "都会诚品尚苑（都会诚品一期） 3室2厅1卫 89㎡成交房源户型 · 平台原始户型图",
+          "kind": "floorplan",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_09847ab23cb5229f1e9a02a197c89e7f_190440/wateracturalSurvey/floorPlan.jpg?time=1778473689",
+          "bytes": 59416,
+          "originalBytes": 706798,
+          "width": 1440,
+          "height": 1080,
+          "visuallyVerified": true,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本",
+          "transactionId": "5i5j-46766891",
+          "communityId": "duhuichengpinshangyuan"
+        }
+      ],
+      "referenceFloorplans": [],
+      "notes": []
+    },
+    {
+      "id": "langshiweilai",
+      "name": "朗诗未来街区一期",
+      "sector": "高新",
+      "region": "江北新区生活圈",
+      "positioning": "刚需",
+      "positioningLabel": "居住需求分析",
+      "positioningNote": "本站根据已收录面积、户型与预算作居住需求分析；不是政府分类。",
+      "tenureType": "待核实",
+      "tenureNote": "社区的住宅用途与每套房的权属、用途、抵押和转让条件分别核验。",
+      "developmentType": "住宅社区（平台资料）",
+      "developmentNote": "社区用途按公开小区与开发项目资料记录，不替代具体房屋不动产权证核验。",
+      "builtYear": 2015,
+      "builtYearSource": {
+        "name": "公开社区资料",
+        "url": "https://nj.5i5j.com/xiaoqu/331901.html",
+        "evidence": "2015年"
+      },
+      "yearEvidence": "2015年",
+      "isBuilt2015OrLater": true,
+      "summary": "高新板块2015年建成的紧凑三房社区，本页仅对应朗诗未来街区一期。",
+      "description": "高新板块2015年建成的紧凑三房社区，本页仅对应朗诗未来街区一期。",
+      "image": {
+        "url": "assets/community-langshiweilai.webp",
+        "sourceUrl": "https://nj.5i5j.com/xiaoqu/331901.html",
+        "caption": "朗诗未来街区一期 · 平台历史实景，可见周边施工，拍摄日期未披露",
+        "kind": "community",
+        "originalUrl": "http://image2a.5i5j.com/bdir/section/33/331901/jbfbhjhofe0dcd87.jpg",
+        "bytes": 98002,
+        "originalBytes": 252815,
+        "width": 600,
+        "height": 450,
+        "visuallyVerified": true,
+        "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+      },
+      "images": [
+        {
+          "url": "assets/community-langshiweilai.webp",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/331901.html",
+          "caption": "朗诗未来街区一期 · 平台历史实景，可见周边施工，拍摄日期未披露",
+          "kind": "community",
+          "originalUrl": "http://image2a.5i5j.com/bdir/section/33/331901/jbfbhjhofe0dcd87.jpg",
+          "bytes": 98002,
+          "originalBytes": 252815,
+          "width": 600,
+          "height": 450,
+          "visuallyVerified": true,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        }
+      ],
+      "factsScope": "朗诗未来街区一期",
+      "factsNote": "社区基础信息来自所列来源，分期与楼栋可能不同；无数据或平台0值不当作真实参数。",
+      "facts": [
+        {
+          "label": "参考分期",
+          "value": "朗诗未来街区一期",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/331901.html"
+        },
+        {
+          "label": "建筑年代",
+          "value": "2015年",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/331901.html"
+        },
+        {
+          "label": "总户数",
+          "value": "1326",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/331901.html"
+        },
+        {
+          "label": "绿化率",
+          "value": "35%",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/331901.html"
+        },
+        {
+          "label": "容积率",
+          "value": "2.2",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/331901.html"
+        },
+        {
+          "label": "所在商圈",
+          "value": "高新",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/331901.html"
+        },
+        {
+          "label": "小区物业",
+          "value": "街道办事处（委员会）代管物业",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/331901.html"
+        }
+      ],
+      "greenRate": 35,
+      "floorAreaRatio": 2.2,
+      "households": 1326,
+      "propertyCompany": "街道办事处（委员会）代管物业",
+      "strengths": [
+        {
+          "text": "79.14㎡三房公开展示成交78万元，在有限预算内提供多个房间。",
+          "sourceUrl": "https://nj.5i5j.com/solds/gaoxin/",
+          "type": "analysis"
+        }
+      ],
+      "weaknesses": [
+        {
+          "text": "紧凑三房的房间尺度需要现场核对；不同平台物业资料有差异，不能以历史网页判断当前物业服务。",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/331901.html",
+          "type": "analysis"
+        },
+        {
+          "text": "当前预算内样本量有限，不能代表该小区所有房源或完整市场成交。",
+          "sourceUrl": "https://nj.5i5j.com/solds/gaoxin/",
+          "type": "analysis"
+        }
+      ],
+      "sources": [
+        {
+          "name": "公开成交记录",
+          "url": "https://nj.5i5j.com/solds/gaoxin/"
+        },
+        {
+          "name": "社区真实照片来源",
+          "url": "https://nj.5i5j.com/xiaoqu/331901.html"
+        },
+        {
+          "name": "链家社区资料（仅社区信息）",
+          "url": "https://m.lianjia.com/news/liangshan/xiaoqu/1411063100506.html"
+        },
+        {
+          "name": "我爱我家南京成交来源",
+          "url": "https://nj.5i5j.com/sold/46731025.html"
+        }
+      ],
+      "aliases": [
+        "朗诗未来街区一期"
+      ],
+      "floorplans": [
+        {
+          "url": "assets/floorplan-46731025.webp",
+          "sourceUrl": "https://nj.5i5j.com/sold/46731025.html",
+          "caption": "朗诗未来街区一期 3室2厅1卫 79.14㎡成交房源户型 · 平台原始户型图",
+          "kind": "floorplan",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_9bda1e7b302be6f29a4c7900ffc54def_177635/wateracturalSurvey/floorPlan.jpg?time=1774080246",
+          "bytes": 52824,
+          "originalBytes": 523545,
+          "width": 1440,
+          "height": 1080,
+          "visuallyVerified": true,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本",
+          "transactionId": "5i5j-46731025",
+          "communityId": "langshiweilai"
+        }
+      ],
+      "referenceFloorplans": [],
+      "notes": [
+        "此新闻URL城市slug错误，但正文开发商为南京朗福，坐标118.716742,32.192553为南京；仅作社区资料，不使用其推荐在售房源作为成交。"
+      ]
+    },
+    {
+      "id": "hongyangshiguangli2",
+      "name": "弘阳时光里二期",
+      "sector": "高新",
+      "region": "江北新区生活圈",
+      "positioning": "刚需",
+      "positioningLabel": "居住需求分析",
+      "positioningNote": "本站根据已收录面积、户型与预算作居住需求分析；不是政府分类。",
+      "tenureType": "待核实",
+      "tenureNote": "社区的住宅用途与每套房的权属、用途、抵押和转让条件分别核验。",
+      "developmentType": "住宅社区（平台资料）",
+      "developmentNote": "社区用途按公开小区与开发项目资料记录，不替代具体房屋不动产权证核验。",
+      "builtYear": 2016,
+      "builtYearSource": {
+        "name": "公开社区资料",
+        "url": "https://nj.5i5j.com/xiaoqu/431512.html",
+        "evidence": "2016年"
+      },
+      "yearEvidence": "2016年",
+      "isBuilt2015OrLater": true,
+      "summary": "弘阳时光里二期，平台建筑年代2016年，收录74.58㎡三房样本。",
+      "description": "弘阳时光里二期，平台建筑年代2016年，收录74.58㎡三房样本。",
+      "image": {
+        "url": "assets/community-hongyangshiguangli2.webp",
+        "sourceUrl": "https://nj.5i5j.com/xiaoqu/431512.html",
+        "caption": "弘阳时光里二期 · 平台社区实景，拍摄日期未披露",
+        "kind": "community",
+        "originalUrl": "http://image2a.5i5j.com/bdir/section/43/431512/pnibaogp0eb9728b.jpg",
+        "bytes": 193568,
+        "originalBytes": 591645,
+        "width": 800,
+        "height": 600,
+        "visuallyVerified": true,
+        "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+      },
+      "images": [
+        {
+          "url": "assets/community-hongyangshiguangli2.webp",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/431512.html",
+          "caption": "弘阳时光里二期 · 平台社区实景，拍摄日期未披露",
+          "kind": "community",
+          "originalUrl": "http://image2a.5i5j.com/bdir/section/43/431512/pnibaogp0eb9728b.jpg",
+          "bytes": 193568,
+          "originalBytes": 591645,
+          "width": 800,
+          "height": 600,
+          "visuallyVerified": true,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        }
+      ],
+      "factsScope": "弘阳时光里二期",
+      "factsNote": "社区基础信息来自所列来源，分期与楼栋可能不同；无数据或平台0值不当作真实参数。",
+      "facts": [
+        {
+          "label": "参考分期",
+          "value": "弘阳时光里二期",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/431512.html"
+        },
+        {
+          "label": "建筑年代",
+          "value": "2016年",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/431512.html"
+        },
+        {
+          "label": "总户数",
+          "value": "1339",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/431512.html"
+        },
+        {
+          "label": "绿化率",
+          "value": "35%",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/431512.html"
+        },
+        {
+          "label": "容积率",
+          "value": "2.2",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/431512.html"
+        },
+        {
+          "label": "所在商圈",
+          "value": "高新",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/431512.html"
+        },
+        {
+          "label": "小区物业",
+          "value": "南京弘阳物业管理有限公司",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/431512.html"
+        }
+      ],
+      "greenRate": 35,
+      "floorAreaRatio": 2.2,
+      "households": 1339,
+      "propertyCompany": "南京弘阳物业管理有限公司",
+      "strengths": [
+        {
+          "text": "74.58㎡三房公开成交115万元，提供预算内的小三房选择。",
+          "sourceUrl": "https://nj.5i5j.com/solds/gaoxin/",
+          "type": "analysis"
+        }
+      ],
+      "weaknesses": [
+        {
+          "text": "74㎡段三房的卧室与客餐厅尺度有限；一期照片和参数不能代替二期实勘。",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/431512.html",
+          "type": "analysis"
+        },
+        {
+          "text": "当前预算内样本量有限，不能代表该小区所有房源或完整市场成交。",
+          "sourceUrl": "https://nj.5i5j.com/solds/gaoxin/",
+          "type": "analysis"
+        }
+      ],
+      "sources": [
+        {
+          "name": "公开成交记录",
+          "url": "https://nj.5i5j.com/solds/gaoxin/"
+        },
+        {
+          "name": "社区真实照片来源",
+          "url": "https://nj.5i5j.com/xiaoqu/431512.html"
+        },
+        {
+          "name": "我爱我家南京成交来源",
+          "url": "https://nj.5i5j.com/sold/46679141.html"
+        }
+      ],
+      "aliases": [
+        "弘阳时光里二期"
+      ],
+      "floorplans": [
+        {
+          "url": "assets/floorplan-46679141.webp",
+          "sourceUrl": "https://nj.5i5j.com/sold/46679141.html",
+          "caption": "弘阳时光里二期 3室1厅1卫 74.58㎡成交房源户型 · 平台原始户型图",
+          "kind": "floorplan",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_aab32235c31c15cad89c3c59d4df9c81_157577/wateracturalSurvey/floorPlan.jpg?time=1765534705",
+          "bytes": 55520,
+          "originalBytes": 559575,
+          "width": 1440,
+          "height": 1080,
+          "visuallyVerified": true,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本",
+          "transactionId": "5i5j-46679141",
+          "communityId": "hongyangshiguangli2"
+        }
+      ],
+      "referenceFloorplans": [],
+      "notes": []
+    },
+    {
+      "id": "lvdiyuefeng",
+      "name": "绿地悦峰公馆",
+      "sector": "高新",
+      "region": "江北新区生活圈",
+      "positioning": "刚需",
+      "positioningLabel": "居住需求分析",
+      "positioningNote": "本站根据已收录面积、户型与预算作居住需求分析；不是政府分类。",
+      "tenureType": "待核实",
+      "tenureNote": "社区的住宅用途与每套房的权属、用途、抵押和转让条件分别核验。",
+      "developmentType": "住宅社区（平台资料）",
+      "developmentNote": "社区用途按公开小区与开发项目资料记录，不替代具体房屋不动产权证核验。",
+      "builtYear": 2015,
+      "builtYearSource": {
+        "name": "公开社区资料",
+        "url": "https://nj.5i5j.com/xiaoqu/388510.html",
+        "evidence": "2015年"
+      },
+      "yearEvidence": "2015年",
+      "isBuilt2015OrLater": true,
+      "summary": "高新板块的两房社区样本，保留平台2015年建筑年代与明确成交户型。",
+      "description": "高新板块的两房社区样本，保留平台2015年建筑年代与明确成交户型。",
+      "image": {
+        "communityId": "lvdiyuefeng",
+        "url": "assets/community-lvdiyuefeng.webp",
+        "originalUrl": "https://imgwcs2.soufunimg.com/viewimage/house/2019_03/29/28459832-c884-41a5-96ec-8f1e6765f7cf/1400x1050.jpg?t=1",
+        "sourceUrl": "https://m.fang.com/xiaoqu/nanjing/1811181188.html",
+        "galleryLabel": "https://m.fang.com/xiaoqu/photo/nanjing/1811181188.html?bid=&typename=实景图&showbigimage=1",
+        "width": 1400,
+        "height": 1050,
+        "bytes": 199770,
+        "originalBytes": 277201,
+        "kind": "community",
+        "visuallyVerified": true,
+        "caption": "绿地悦峰公馆 · 房天下社区历史实景，拍摄日期以图内水印为准"
+      },
+      "images": [
+        {
+          "communityId": "lvdiyuefeng",
+          "url": "assets/community-lvdiyuefeng.webp",
+          "originalUrl": "https://imgwcs2.soufunimg.com/viewimage/house/2019_03/29/28459832-c884-41a5-96ec-8f1e6765f7cf/1400x1050.jpg?t=1",
+          "sourceUrl": "https://m.fang.com/xiaoqu/nanjing/1811181188.html",
+          "galleryLabel": "https://m.fang.com/xiaoqu/photo/nanjing/1811181188.html?bid=&typename=实景图&showbigimage=1",
+          "width": 1400,
+          "height": 1050,
+          "bytes": 199770,
+          "originalBytes": 277201,
+          "kind": "community",
+          "visuallyVerified": true,
+          "caption": "绿地悦峰公馆 · 房天下社区历史实景，拍摄日期以图内水印为准"
+        }
+      ],
+      "factsScope": "绿地悦峰公馆",
+      "factsNote": "社区基础信息来自所列来源，分期与楼栋可能不同；无数据或平台0值不当作真实参数。",
+      "facts": [
+        {
+          "label": "参考分期",
+          "value": "绿地悦峰公馆",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/388510.html"
+        },
+        {
+          "label": "建筑年代",
+          "value": "2015年",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/388510.html"
+        },
+        {
+          "label": "总户数",
+          "value": "1909",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/388510.html"
+        },
+        {
+          "label": "绿化率",
+          "value": "35%",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/388510.html"
+        },
+        {
+          "label": "容积率",
+          "value": "2.2",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/388510.html"
+        },
+        {
+          "label": "所在商圈",
+          "value": "高新",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/388510.html"
+        },
+        {
+          "label": "小区物业",
+          "value": "弘阳物业",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/388510.html"
+        }
+      ],
+      "greenRate": 35,
+      "floorAreaRatio": 2.2,
+      "households": 1909,
+      "propertyCompany": "弘阳物业",
+      "strengths": [
+        {
+          "text": "68.22㎡两房公开成交82万元，预算门槛与面积条件清楚。",
+          "sourceUrl": "https://nj.5i5j.com/solds/gaoxin/",
+          "type": "analysis"
+        }
+      ],
+      "weaknesses": [
+        {
+          "text": "小面积两房更适合少人口家庭；不同平台对建成年份存在分期差异，应核对具体楼栋。",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/388510.html",
+          "type": "analysis"
+        },
+        {
+          "text": "当前预算内样本量有限，不能代表该小区所有房源或完整市场成交。",
+          "sourceUrl": "https://nj.5i5j.com/solds/gaoxin/",
+          "type": "analysis"
+        }
+      ],
+      "sources": [
+        {
+          "name": "公开成交记录",
+          "url": "https://nj.5i5j.com/solds/gaoxin/"
+        },
+        {
+          "name": "建成年代证据",
+          "url": "https://nj.5i5j.com/xiaoqu/388510.html"
+        },
+        {
+          "name": "社区真实照片来源",
+          "url": "https://m.fang.com/xiaoqu/nanjing/1811181188.html"
+        },
+        {
+          "name": "我爱我家南京成交来源",
+          "url": "https://nj.5i5j.com/sold/46710187.html"
+        }
+      ],
+      "aliases": [
+        "绿地悦峰公馆"
+      ],
+      "floorplans": [
+        {
+          "url": "assets/floorplan-46710187.webp",
+          "sourceUrl": "https://nj.5i5j.com/sold/46710187.html",
+          "caption": "绿地悦峰公馆 2室2厅1卫 68.22㎡成交房源户型 · 平台原始户型图",
+          "kind": "floorplan",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_cc8e7b80b554977fe30dea6df9a97ed3_169984/wateracturalSurvey/floorPlan.jpg?time=1770568891",
+          "bytes": 52368,
+          "originalBytes": 506195,
+          "width": 1440,
+          "height": 1080,
+          "visuallyVerified": true,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本",
+          "transactionId": "5i5j-46710187",
+          "communityId": "lvdiyuefeng"
+        }
+      ],
+      "referenceFloorplans": [],
+      "notes": [
+        "平台之间建筑年份不同，可能涉及分期/交房批次差异；本页保留原成交平台的社区建筑年代，不推定每栋楼一致。"
+      ]
+    },
+    {
+      "id": "zhaoshanglanxigu2",
+      "name": "招商兰溪谷（二期）",
+      "sector": "高新",
+      "region": "江北新区生活圈",
+      "positioning": "刚需",
+      "positioningLabel": "居住需求分析",
+      "positioningNote": "本站根据已收录面积、户型与预算作居住需求分析；不是政府分类。",
+      "tenureType": "待核实",
+      "tenureNote": "社区的住宅用途与每套房的权属、用途、抵押和转让条件分别核验。",
+      "developmentType": "住宅社区（平台资料）",
+      "developmentNote": "社区用途按公开小区与开发项目资料记录，不替代具体房屋不动产权证核验。",
+      "builtYear": 2016,
+      "builtYearSource": {
+        "name": "公开社区资料",
+        "url": "https://nj.5i5j.com/xiaoqu/428832.html",
+        "evidence": "2016年"
+      },
+      "yearEvidence": "2016年",
+      "isBuilt2015OrLater": true,
+      "summary": "招商兰溪谷二期，保留精确分期与87.08㎡三房成交样本。",
+      "description": "招商兰溪谷二期，保留精确分期与87.08㎡三房成交样本。",
+      "image": {
+        "url": "assets/community-zhaoshanglanxigu2.webp",
+        "sourceUrl": "https://nj.5i5j.com/xiaoqu/428832.html",
+        "caption": "招商兰溪谷（二期） · 平台社区实景，拍摄日期未披露",
+        "kind": "community",
+        "originalUrl": "http://image2a.5i5j.com/bdir/section/42/428832/hognbnmi6771d469.jpg",
+        "bytes": 212310,
+        "originalBytes": 638167,
+        "width": 800,
+        "height": 600,
+        "visuallyVerified": true,
+        "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+      },
+      "images": [
+        {
+          "url": "assets/community-zhaoshanglanxigu2.webp",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/428832.html",
+          "caption": "招商兰溪谷（二期） · 平台社区实景，拍摄日期未披露",
+          "kind": "community",
+          "originalUrl": "http://image2a.5i5j.com/bdir/section/42/428832/hognbnmi6771d469.jpg",
+          "bytes": 212310,
+          "originalBytes": 638167,
+          "width": 800,
+          "height": 600,
+          "visuallyVerified": true,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
+        }
+      ],
+      "factsScope": "招商兰溪谷（二期）",
+      "factsNote": "社区基础信息来自所列来源，分期与楼栋可能不同；无数据或平台0值不当作真实参数。",
+      "facts": [
+        {
+          "label": "参考分期",
+          "value": "招商兰溪谷（二期）",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/428832.html"
+        },
+        {
+          "label": "建筑年代",
+          "value": "2016年",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/428832.html"
+        },
+        {
+          "label": "总户数",
+          "value": "1302",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/428832.html"
+        },
+        {
+          "label": "绿化率",
+          "value": "35%",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/428832.html"
+        },
+        {
+          "label": "容积率",
+          "value": "2.2",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/428832.html"
+        },
+        {
+          "label": "所在商圈",
+          "value": "高新",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/428832.html"
+        },
+        {
+          "label": "小区物业",
+          "value": "招商物业",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/428832.html"
+        }
+      ],
+      "greenRate": 35,
+      "floorAreaRatio": 2.2,
+      "households": 1302,
+      "propertyCompany": "招商物业",
+      "strengths": [
+        {
+          "text": "87.08㎡三房平台披露成交145万元，预算内可比较品牌社区的小三房。",
+          "sourceUrl": "https://nj.5i5j.com/solds/gaoxin/",
+          "type": "analysis"
+        }
+      ],
+      "weaknesses": [
+        {
+          "text": "成交展示总价接近预算上限，装修、税费等额外支出应单独计算；住宅与公寓不能只按小区名称混选。",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/428832.html",
+          "type": "analysis"
+        },
+        {
+          "text": "当前预算内样本量有限，不能代表该小区所有房源或完整市场成交。",
+          "sourceUrl": "https://nj.5i5j.com/solds/gaoxin/",
+          "type": "analysis"
+        }
+      ],
+      "sources": [
+        {
+          "name": "公开成交记录",
+          "url": "https://nj.5i5j.com/solds/gaoxin/"
+        },
+        {
+          "name": "社区真实照片来源",
+          "url": "https://nj.5i5j.com/xiaoqu/428832.html"
+        },
+        {
+          "name": "我爱我家南京成交来源",
+          "url": "https://nj.5i5j.com/sold/46706762.html"
+        }
+      ],
+      "aliases": [
+        "招商兰溪谷（二期）"
+      ],
+      "floorplans": [
+        {
+          "url": "assets/floorplan-46706762.webp",
+          "sourceUrl": "https://nj.5i5j.com/sold/46706762.html",
+          "caption": "招商兰溪谷（二期） 3室2厅1卫 87.08㎡成交房源户型 · 平台原始户型图",
+          "kind": "floorplan",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_f558a6b35ff4d373cc308574257ff5e2_167881/wateracturalSurvey/floorPlan.jpg?time=1769599330",
+          "bytes": 54410,
+          "originalBytes": 576555,
+          "width": 1440,
+          "height": 1080,
+          "visuallyVerified": true,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本",
+          "transactionId": "5i5j-46706762",
+          "communityId": "zhaoshanglanxigu2"
+        }
+      ],
+      "referenceFloorplans": [],
+      "notes": []
+    },
+    {
+      "id": "xiangyuzijun2",
+      "name": "香溢紫郡二期",
+      "sector": "高新",
+      "region": "江北新区生活圈",
+      "positioning": "刚需",
+      "positioningLabel": "居住需求分析",
+      "positioningNote": "本站根据已收录面积、户型与预算作居住需求分析；不是政府分类。",
+      "tenureType": "待核实",
+      "tenureNote": "社区的住宅用途与每套房的权属、用途、抵押和转让条件分别核验。",
+      "developmentType": "住宅社区（平台资料）",
+      "developmentNote": "社区用途按公开小区与开发项目资料记录，不替代具体房屋不动产权证核验。",
+      "builtYear": 2014,
+      "builtYearSource": {
+        "name": "公开社区资料",
+        "url": "https://nj.5i5j.com/xiaoqu/311078.html",
+        "evidence": "2014年"
+      },
+      "yearEvidence": "2014年",
+      "isBuilt2015OrLater": false,
+      "summary": "香溢紫郡二期，平台建筑年代2014年；作为预算内覆盖样本，不标记为较新社区。",
+      "description": "香溢紫郡二期，平台建筑年代2014年；作为预算内覆盖样本，不标记为较新社区。",
+      "image": null,
+      "images": [],
+      "factsScope": "香溢紫郡二期",
+      "factsNote": "社区基础信息来自所列来源，分期与楼栋可能不同；无数据或平台0值不当作真实参数。",
+      "facts": [
+        {
+          "label": "参考分期",
+          "value": "香溢紫郡二期",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/311078.html"
+        },
+        {
+          "label": "建筑年代",
+          "value": "2014年",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/311078.html"
+        },
+        {
+          "label": "总户数",
+          "value": "2729",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/311078.html"
+        },
+        {
+          "label": "绿化率",
+          "value": "37%",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/311078.html"
+        },
+        {
+          "label": "容积率",
+          "value": "2.39",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/311078.html"
+        },
+        {
+          "label": "所在商圈",
+          "value": "高新",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/311078.html"
+        },
+        {
+          "label": "小区物业",
+          "value": "江苏新城市物业管理有限公司",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/311078.html"
+        }
+      ],
+      "greenRate": 37,
+      "floorAreaRatio": 2.39,
+      "households": 2729,
+      "propertyCompany": "江苏新城市物业管理有限公司",
+      "strengths": [
+        {
+          "text": "74.03㎡三房平台披露成交60万元，保留低总价的三房比较选项。",
+          "sourceUrl": "https://nj.5i5j.com/solds/gaoxin/",
+          "type": "analysis"
+        }
+      ],
+      "weaknesses": [
+        {
+          "text": "平台建筑年代2014年，需检查房屋与设备保养；小三房面积利用应以该套户型图为准。",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/311078.html",
+          "type": "analysis"
+        },
+        {
+          "text": "当前预算内样本量有限，不能代表该小区所有房源或完整市场成交。",
+          "sourceUrl": "https://nj.5i5j.com/solds/gaoxin/",
+          "type": "analysis"
+        }
+      ],
+      "sources": [
+        {
+          "name": "公开成交记录",
+          "url": "https://nj.5i5j.com/solds/gaoxin/"
+        },
+        {
+          "name": "建成年代证据",
+          "url": "https://nj.5i5j.com/xiaoqu/311078.html"
+        },
+        {
+          "name": "我爱我家南京成交来源",
+          "url": "https://nj.5i5j.com/sold/46535560.html"
+        }
+      ],
+      "aliases": [
+        "香溢紫郡二期"
+      ],
+      "floorplans": [],
+      "referenceFloorplans": [],
+      "notes": [
+        "建筑年份早于2015，仅用于扩大小区覆盖，不标记次新。"
+      ]
+    },
+    {
+      "id": "xinchengxiangyuzijun",
+      "name": "新城香溢紫郡",
+      "sector": "高新",
+      "region": "江北新区生活圈",
+      "positioning": "刚需",
+      "positioningLabel": "居住需求分析",
+      "positioningNote": "本站根据已收录面积、户型与预算作居住需求分析；不是政府分类。",
+      "tenureType": "待核实",
+      "tenureNote": "社区的住宅用途与每套房的权属、用途、抵押和转让条件分别核验。",
+      "developmentType": "住宅社区（平台资料）",
+      "developmentNote": "社区用途按公开小区与开发项目资料记录，不替代具体房屋不动产权证核验。",
+      "builtYear": 2011,
+      "builtYearSource": {
+        "name": "公开社区资料",
+        "url": "https://nj.5i5j.com/xiaoqu/291782.html",
+        "evidence": "2011年"
+      },
+      "yearEvidence": "2011年",
+      "isBuilt2015OrLater": false,
+      "summary": "新城香溢紫郡的成熟小区样本，平台建筑年代2011年，精确区分二期。",
+      "description": "新城香溢紫郡的成熟小区样本，平台建筑年代2011年，精确区分二期。",
+      "image": null,
+      "images": [],
+      "factsScope": "新城香溢紫郡",
+      "factsNote": "社区基础信息来自所列来源，分期与楼栋可能不同；无数据或平台0值不当作真实参数。",
+      "facts": [
+        {
+          "label": "参考分期",
+          "value": "新城香溢紫郡",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/291782.html"
+        },
+        {
+          "label": "建筑年代",
+          "value": "2011年",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/291782.html"
+        },
+        {
+          "label": "总户数",
+          "value": "3005",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/291782.html"
+        },
+        {
+          "label": "绿化率",
+          "value": "40%",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/291782.html"
+        },
+        {
+          "label": "容积率",
+          "value": "1.09",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/291782.html"
+        },
+        {
+          "label": "所在商圈",
+          "value": "高新",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/291782.html"
+        },
+        {
+          "label": "小区物业",
+          "value": "新城市物业",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/291782.html"
+        }
+      ],
+      "greenRate": 40,
+      "floorAreaRatio": 1.09,
+      "households": 3005,
+      "propertyCompany": "新城市物业",
+      "strengths": [
+        {
+          "text": "73.84㎡三房公开成交71万元，便于与同预算高新板块房源比较。",
+          "sourceUrl": "https://nj.5i5j.com/solds/gaoxin/",
+          "type": "analysis"
+        }
+      ],
+      "weaknesses": [
+        {
+          "text": "本笔成交发生于2025年11月，时效有限；2011年建筑年代不能标为次新。",
+          "sourceUrl": "https://nj.5i5j.com/xiaoqu/291782.html",
+          "type": "analysis"
+        },
+        {
+          "text": "当前预算内样本量有限，不能代表该小区所有房源或完整市场成交。",
+          "sourceUrl": "https://nj.5i5j.com/solds/gaoxin/",
+          "type": "analysis"
+        }
+      ],
+      "sources": [
+        {
+          "name": "公开成交记录",
+          "url": "https://nj.5i5j.com/solds/gaoxin/"
+        },
+        {
+          "name": "建成年代证据",
+          "url": "https://nj.5i5j.com/xiaoqu/291782.html"
+        },
+        {
+          "name": "链家社区资料（仅社区信息）",
+          "url": "https://news.lianjia.com/nj/xiaoqu/146944473493426.html"
+        },
+        {
+          "name": "我爱我家南京成交来源",
+          "url": "https://nj.5i5j.com/sold/46650072.html"
+        }
+      ],
+      "aliases": [
+        "新城香溢紫郡"
+      ],
+      "floorplans": [],
+      "referenceFloorplans": [],
+      "notes": [
+        "建筑年份早于2015，仅用于扩大小区覆盖，不标记次新。"
+      ]
+    },
+    {
+      "id": "jiangshanhui",
+      "name": "江山荟",
+      "sector": "江浦",
+      "region": "浦口区",
+      "positioning": "刚需",
+      "positioningLabel": "居住需求分析",
+      "positioningNote": "本站根据已收录面积、户型与预算作居住需求分析；不是政府分类。",
+      "tenureType": "待核实",
+      "tenureNote": "社区的住宅用途与每套房的权属、用途、抵押和转让条件分别核验。",
+      "developmentType": "商品房社区",
+      "developmentNote": "南京市国资委项目介绍明确为安居集团旗下商品房开发公司开发；首次交付2019年12月30日，后续分批交付。",
+      "builtYear": 2019,
+      "builtYearSource": {
+        "name": "公开社区资料",
+        "url": "https://gzw.nanjing.gov.cn/gzdt/202409/t20240920_4769518.html",
+        "evidence": "江山荟项目于2019年12月30日首次集中交付，由24栋5－11层低密洋房及小高层组成。"
+      },
+      "yearEvidence": "江山荟项目于2019年12月30日首次集中交付，由24栋5－11层低密洋房及小高层组成。",
+      "isBuilt2015OrLater": true,
+      "summary": "五桥生活圈的江山荟，官方资料记载2019年底首次交付；收录96.99㎡三房两卫。",
+      "description": "五桥生活圈的江山荟，官方资料记载2019年底首次交付；收录96.99㎡三房两卫。",
+      "image": null,
+      "images": [],
+      "factsScope": "江山荟",
+      "factsNote": "社区基础信息来自所列来源，分期与楼栋可能不同；无数据或平台0值不当作真实参数。",
+      "facts": [
+        {
+          "label": "参考分期",
+          "value": "江山荟",
+          "sourceUrl": "https://gzw.nanjing.gov.cn/gzdt/202409/t20240920_4769518.html"
+        },
+        {
+          "label": "建筑年代",
+          "value": "2019年",
+          "sourceUrl": "https://gzw.nanjing.gov.cn/gzdt/202409/t20240920_4769518.html"
+        }
+      ],
+      "greenRate": null,
+      "floorAreaRatio": null,
+      "households": null,
+      "propertyCompany": null,
+      "strengths": [
+        {
+          "text": "96.99㎡三房两卫平台披露成交130万元；官方介绍项目包含5—11层住宅产品。",
+          "sourceUrl": "https://nj.5i5j.com/solds/jiangpu/",
+          "type": "analysis"
+        }
+      ],
+      "weaknesses": [
+        {
+          "text": "官方首次交付年份与后续分批交付不同，具体楼栋房龄要单独确认；仅一笔样本不能代表全盘均价。",
+          "sourceUrl": "https://gzw.nanjing.gov.cn/gzdt/202409/t20240920_4769518.html",
+          "type": "analysis"
+        },
+        {
+          "text": "当前预算内样本量有限，不能代表该小区所有房源或完整市场成交。",
+          "sourceUrl": "https://nj.5i5j.com/solds/jiangpu/",
+          "type": "analysis"
+        }
+      ],
+      "sources": [
+        {
+          "name": "公开成交记录",
+          "url": "https://nj.5i5j.com/solds/jiangpu/"
+        },
+        {
+          "name": "项目公示/建设资料",
+          "url": "https://gzw.nanjing.gov.cn/gzdt/202409/t20240920_4769518.html"
+        },
+        {
+          "name": "我爱我家南京成交来源",
+          "url": "https://nj.5i5j.com/sold/46779542.html"
+        }
+      ],
+      "aliases": [
+        "江山荟"
+      ],
+      "floorplans": [
+        {
+          "url": "assets/floorplan-46779542.webp",
+          "sourceUrl": "https://nj.5i5j.com/sold/46779542.html",
+          "caption": "江山荟 3室2厅2卫 96.99㎡成交房源户型 · 平台原始户型图",
+          "kind": "floorplan",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_0358e409ff3ed2f8d545e0218d5bc118_193909/wateracturalSurvey/floorPlan.jpg?time=1780041087",
+          "bytes": 56340,
+          "originalBytes": 554060,
+          "width": 1440,
+          "height": 1080,
+          "visuallyVerified": true,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本",
+          "transactionId": "5i5j-46779542",
+          "communityId": "jiangshanhui"
+        }
+      ],
+      "referenceFloorplans": [],
+      "notes": [],
+      "developmentSource": {
+        "name": "公开开发建设说明",
+        "url": "https://gzw.nanjing.gov.cn/gzdt/202409/t20240920_4769518.html",
+        "observedAt": "2026-10-20T08:12:32.709Z"
+      }
+    },
+    {
+      "id": "zhonghaiwanjinxian",
+      "name": "中海万锦熙岸",
+      "sector": "南审",
+      "region": "浦口区",
+      "positioning": "刚需",
+      "positioningLabel": "居住需求分析",
+      "positioningNote": "本站根据已收录面积、户型与预算作居住需求分析；不是政府分类。",
+      "tenureType": "待核实",
+      "tenureNote": "社区的住宅用途与每套房的权属、用途、抵押和转让条件分别核验。",
+      "developmentType": "住宅社区（平台资料）",
+      "developmentNote": "社区用途按公开小区与开发项目资料记录，不替代具体房屋不动产权证核验。",
+      "builtYear": 2016,
+      "builtYearSource": {
+        "name": "公开社区资料",
+        "url": "https://m.fang.com/xiaoqu/strategy/nanjing/1811029374.html",
+        "evidence": "房天下小区资料列建筑年代2016，2016年竣工、2017年交房。"
+      },
+      "yearEvidence": "房天下小区资料列建筑年代2016，2016年竣工、2017年交房。",
+      "isBuilt2015OrLater": true,
+      "summary": "南审生活圈的中海万锦熙岸，公开小区资料列2016年建筑年代。",
+      "description": "南审生活圈的中海万锦熙岸，公开小区资料列2016年建筑年代。",
+      "image": {
+        "communityId": "zhonghaiwanjinxian",
+        "url": "assets/community-zhonghaiwanjinxian.webp",
+        "originalUrl": "https://imgwcs2.soufunimg.com/viewimage/house/2020_01/21/6a378d6d-073d-4524-8d91-a6911c278a81/1400x1050.jpg?t=1",
+        "sourceUrl": "https://m.fang.com/xiaoqu/nanjing/1811029374.html",
+        "galleryLabel": "https://m.fang.com/xiaoqu/photo/nanjing/1811029374.html?bid=&typename=实景图&showbigimage=1",
+        "width": 788,
+        "height": 1050,
+        "bytes": 123586,
+        "originalBytes": 133813,
+        "kind": "community",
+        "visuallyVerified": true,
+        "caption": "中海万锦熙岸 · 社区实景（照片标注2020-01-21）"
+      },
+      "images": [
+        {
+          "communityId": "zhonghaiwanjinxian",
+          "url": "assets/community-zhonghaiwanjinxian.webp",
+          "originalUrl": "https://imgwcs2.soufunimg.com/viewimage/house/2020_01/21/6a378d6d-073d-4524-8d91-a6911c278a81/1400x1050.jpg?t=1",
+          "sourceUrl": "https://m.fang.com/xiaoqu/nanjing/1811029374.html",
+          "galleryLabel": "https://m.fang.com/xiaoqu/photo/nanjing/1811029374.html?bid=&typename=实景图&showbigimage=1",
+          "width": 788,
+          "height": 1050,
+          "bytes": 123586,
+          "originalBytes": 133813,
+          "kind": "community",
+          "visuallyVerified": true,
+          "caption": "中海万锦熙岸 · 社区实景（照片标注2020-01-21）"
+        }
+      ],
+      "factsScope": "中海万锦熙岸",
+      "factsNote": "社区基础信息来自所列来源，分期与楼栋可能不同；无数据或平台0值不当作真实参数。",
+      "facts": [
+        {
+          "label": "参考分期",
+          "value": "中海万锦熙岸",
+          "sourceUrl": "https://m.fang.com/xiaoqu/strategy/nanjing/1811029374.html"
+        },
+        {
+          "label": "建筑年代",
+          "value": "2016年",
+          "sourceUrl": "https://m.fang.com/xiaoqu/strategy/nanjing/1811029374.html"
+        }
+      ],
+      "greenRate": null,
+      "floorAreaRatio": null,
+      "households": null,
+      "propertyCompany": null,
+      "strengths": [
+        {
+          "text": "98.33㎡三房公开展示成交123万元，预算与家庭房间需求可直接比较。",
+          "sourceUrl": "https://nj.5i5j.com/solds/jiangpu/",
+          "type": "analysis"
+        }
+      ],
+      "weaknesses": [
+        {
+          "text": "项目分期较多，2016年社区资料不能替代每栋楼的竣工年份；采光与公区维护需按房源查看。",
+          "sourceUrl": "https://m.fang.com/xiaoqu/strategy/nanjing/1811029374.html",
+          "type": "analysis"
+        },
+        {
+          "text": "当前预算内样本量有限，不能代表该小区所有房源或完整市场成交。",
+          "sourceUrl": "https://nj.5i5j.com/solds/jiangpu/",
+          "type": "analysis"
+        }
+      ],
+      "sources": [
+        {
+          "name": "公开成交记录",
+          "url": "https://nj.5i5j.com/solds/jiangpu/"
+        },
+        {
+          "name": "建成年代证据",
+          "url": "https://m.fang.com/xiaoqu/strategy/nanjing/1811029374.html"
+        },
+        {
+          "name": "社区真实照片来源",
+          "url": "https://m.fang.com/xiaoqu/nanjing/1811029374.html"
+        },
+        {
+          "name": "我爱我家南京成交来源",
+          "url": "https://nj.5i5j.com/sold/46729067.html"
+        }
+      ],
+      "aliases": [
+        "中海万锦熙岸"
+      ],
+      "floorplans": [
+        {
+          "url": "assets/floorplan-46729067.webp",
+          "sourceUrl": "https://nj.5i5j.com/sold/46729067.html",
+          "caption": "中海万锦熙岸 3室2厅1卫 98.33㎡成交房源户型 · 平台原始户型图",
+          "kind": "floorplan",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_b361ee839a5380f3d91ec4db60adcf49_179891/wateracturalSurvey/floorPlan.jpg?time=1774756131",
+          "bytes": 71700,
+          "originalBytes": 864124,
+          "width": 1440,
+          "height": 1080,
+          "visuallyVerified": true,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本",
+          "transactionId": "5i5j-46729067",
+          "communityId": "zhonghaiwanjinxian"
+        }
+      ],
+      "referenceFloorplans": [],
+      "notes": []
+    },
+    {
+      "id": "zhengrongrunjincheng",
+      "name": "正荣润锦城",
+      "sector": "江北核心区",
+      "region": "江北新区生活圈",
+      "positioning": "刚需",
+      "positioningLabel": "居住需求分析",
+      "positioningNote": "本站根据已收录面积、户型与预算作居住需求分析；不是政府分类。",
+      "tenureType": "待核实",
+      "tenureNote": "社区的住宅用途与每套房的权属、用途、抵押和转让条件分别核验。",
+      "developmentType": "住宅社区（平台资料）",
+      "developmentNote": "社区用途按公开小区与开发项目资料记录，不替代具体房屋不动产权证核验。",
+      "builtYear": 2015,
+      "builtYearSource": {
+        "name": "公开社区资料",
+        "url": "https://m.fang.com/xiaoqu/strategy/nanjing/1810178746.html",
+        "evidence": "房天下小区资料列建筑年代2015、普通住宅，地址浦口区望江路2号。"
+      },
+      "yearEvidence": "房天下小区资料列建筑年代2015、普通住宅，地址浦口区望江路2号。",
+      "isBuilt2015OrLater": true,
+      "summary": "江北核心区正荣润锦城，2015年社区资料与86.31㎡三房样本均有公开来源。",
+      "description": "江北核心区正荣润锦城，2015年社区资料与86.31㎡三房样本均有公开来源。",
+      "image": {
+        "communityId": "zhengrongrunjincheng",
+        "url": "assets/community-zhengrongrunjincheng.webp",
+        "originalUrl": "https://img11.soufunimg.com/viewimage/house/2019_02/27/M1D/11/D5/ChCE4Fx2KCqIXR0NAC4myVEIrGsABJaHQE0VoEALibh306/1400x1050.jpg?t=1",
+        "sourceUrl": "https://m.fang.com/xiaoqu/nanjing/1810178746.html",
+        "galleryLabel": "https://m.fang.com/xiaoqu/photo/nanjing/1810178746.html?bid=18303280&typename=实景图&showbigimage=1",
+        "width": 1400,
+        "height": 788,
+        "bytes": 124608,
+        "originalBytes": 186100,
+        "kind": "community",
+        "visuallyVerified": true,
+        "caption": "正荣润锦城 · 房天下社区历史实景，拍摄日期以图内水印为准"
+      },
+      "images": [
+        {
+          "communityId": "zhengrongrunjincheng",
+          "url": "assets/community-zhengrongrunjincheng.webp",
+          "originalUrl": "https://img11.soufunimg.com/viewimage/house/2019_02/27/M1D/11/D5/ChCE4Fx2KCqIXR0NAC4myVEIrGsABJaHQE0VoEALibh306/1400x1050.jpg?t=1",
+          "sourceUrl": "https://m.fang.com/xiaoqu/nanjing/1810178746.html",
+          "galleryLabel": "https://m.fang.com/xiaoqu/photo/nanjing/1810178746.html?bid=18303280&typename=实景图&showbigimage=1",
+          "width": 1400,
+          "height": 788,
+          "bytes": 124608,
+          "originalBytes": 186100,
+          "kind": "community",
+          "visuallyVerified": true,
+          "caption": "正荣润锦城 · 房天下社区历史实景，拍摄日期以图内水印为准"
+        }
+      ],
+      "factsScope": "正荣润锦城",
+      "factsNote": "社区基础信息来自所列来源，分期与楼栋可能不同；无数据或平台0值不当作真实参数。",
+      "facts": [
+        {
+          "label": "参考分期",
+          "value": "正荣润锦城",
+          "sourceUrl": "https://m.fang.com/xiaoqu/strategy/nanjing/1810178746.html"
+        },
+        {
+          "label": "建筑年代",
+          "value": "2015年",
+          "sourceUrl": "https://m.fang.com/xiaoqu/strategy/nanjing/1810178746.html"
+        }
+      ],
+      "greenRate": null,
+      "floorAreaRatio": null,
+      "households": null,
+      "propertyCompany": null,
+      "strengths": [
+        {
+          "text": "86.31㎡三房平台披露143万元成交，提供核心区预算内比较样本。",
+          "sourceUrl": "https://nj.5i5j.com/solds/jiangpu/",
+          "type": "analysis"
+        }
+      ],
+      "weaknesses": [
+        {
+          "text": "本笔总价接近预算上限，且紧凑三房的房间尺度要实看；不同楼栋朝向和遮挡不能从总价推定。",
+          "sourceUrl": "https://m.fang.com/xiaoqu/strategy/nanjing/1810178746.html",
+          "type": "analysis"
+        },
+        {
+          "text": "当前预算内样本量有限，不能代表该小区所有房源或完整市场成交。",
+          "sourceUrl": "https://nj.5i5j.com/solds/jiangpu/",
+          "type": "analysis"
+        }
+      ],
+      "sources": [
+        {
+          "name": "公开成交记录",
+          "url": "https://nj.5i5j.com/solds/jiangpu/"
+        },
+        {
+          "name": "建成年代证据",
+          "url": "https://m.fang.com/xiaoqu/strategy/nanjing/1810178746.html"
+        },
+        {
+          "name": "社区真实照片来源",
+          "url": "https://m.fang.com/xiaoqu/nanjing/1810178746.html"
+        },
+        {
+          "name": "我爱我家南京成交来源",
+          "url": "https://nj.5i5j.com/sold/46768235.html"
+        }
+      ],
+      "aliases": [
+        "正荣润锦城"
+      ],
+      "floorplans": [
+        {
+          "url": "assets/floorplan-46768235.webp",
+          "sourceUrl": "https://nj.5i5j.com/sold/46768235.html",
+          "caption": "正荣润锦城 3室1厅1卫 86.31㎡成交房源户型 · 平台原始户型图",
+          "kind": "floorplan",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_7ae0dcb136139683ea4c02d6355c0c96_191288/wateracturalSurvey/floorPlan.jpg?time=1778750129",
+          "bytes": 56498,
+          "originalBytes": 605387,
+          "width": 1440,
+          "height": 1080,
+          "visuallyVerified": true,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本",
+          "transactionId": "5i5j-46768235",
+          "communityId": "zhengrongrunjincheng"
+        }
+      ],
+      "referenceFloorplans": [],
+      "notes": []
+    },
+    {
+      "id": "shimaocuicanjiangshan",
+      "name": "世茂璀璨江山",
+      "sector": "南审",
+      "region": "浦口区",
+      "positioning": "改善",
+      "positioningLabel": "居住需求分析",
+      "positioningNote": "本站根据已收录面积、户型与预算作居住需求分析；不是政府分类。",
+      "tenureType": "待核实",
+      "tenureNote": "社区的住宅用途与每套房的权属、用途、抵押和转让条件分别核验。",
+      "developmentType": "商品房社区",
+      "developmentNote": "公开项目资料明确政府备案核准名江山府、开发企业南京世荣置业有限公司。",
+      "builtYear": 2020,
+      "builtYearSource": {
+        "name": "公开社区资料",
+        "url": "https://m.fang.com/chengjiao/nanjing/EX_2491268.html",
+        "evidence": "房天下成交详情的小区栏列世茂璀璨江山，建筑年代2020年。"
+      },
+      "yearEvidence": "房天下成交详情的小区栏列世茂璀璨江山，建筑年代2020年。",
+      "isBuilt2015OrLater": true,
+      "summary": "世茂璀璨江山，备案名江山府；收录124.72㎡两房两卫的原平台户型记载。",
+      "description": "世茂璀璨江山，备案名江山府；收录124.72㎡两房两卫的原平台户型记载。",
+      "image": null,
+      "images": [],
+      "factsScope": "世茂璀璨江山",
+      "factsNote": "社区基础信息来自所列来源，分期与楼栋可能不同；无数据或平台0值不当作真实参数。",
+      "facts": [
+        {
+          "label": "参考分期",
+          "value": "世茂璀璨江山",
+          "sourceUrl": "https://m.fang.com/chengjiao/nanjing/EX_2491268.html"
+        },
+        {
+          "label": "建筑年代",
+          "value": "2020年",
+          "sourceUrl": "https://m.fang.com/chengjiao/nanjing/EX_2491268.html"
+        }
+      ],
+      "greenRate": null,
+      "floorAreaRatio": null,
+      "households": null,
+      "propertyCompany": null,
+      "strengths": [
+        {
+          "text": "124.72㎡两房两卫平台披露成交115万元，在预算内提供更大的使用空间。",
+          "sourceUrl": "https://nj.5i5j.com/solds/jiangpu/",
+          "type": "analysis"
+        }
+      ],
+      "weaknesses": [
+        {
+          "text": "124.72㎡源记录登记为两房，不能按面积擅自改成三房或四房；改善定位只指空间条件。",
+          "sourceUrl": "https://m.fang.com/chengjiao/nanjing/EX_2491268.html",
+          "type": "analysis"
+        },
+        {
+          "text": "当前预算内样本量有限，不能代表该小区所有房源或完整市场成交。",
+          "sourceUrl": "https://nj.5i5j.com/solds/jiangpu/",
+          "type": "analysis"
+        }
+      ],
+      "sources": [
+        {
+          "name": "公开成交记录",
+          "url": "https://nj.5i5j.com/solds/jiangpu/"
+        },
+        {
+          "name": "建成年代证据",
+          "url": "https://m.fang.com/chengjiao/nanjing/EX_2491268.html"
+        },
+        {
+          "name": "项目公示/建设资料",
+          "url": "https://www.ourjiangsu.com/a/20211225/1640399041133.shtml"
+        },
+        {
+          "name": "我爱我家南京成交来源",
+          "url": "https://nj.5i5j.com/sold/46805226.html"
+        }
+      ],
+      "aliases": [
+        "世茂璀璨江山",
+        "江山府"
+      ],
+      "floorplans": [
+        {
+          "url": "assets/floorplan-46805226.webp",
+          "sourceUrl": "https://nj.5i5j.com/sold/46805226.html",
+          "caption": "世茂璀璨江山 2室2厅2卫 124.72㎡成交房源户型 · 平台原始户型图",
+          "kind": "floorplan",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/fupeng_outputfiles/nj_92bc0ca641ff3819dde54d7a51d2f54f_10071670/wateracturalSurvey/floorPlan.jpg?time=1782463540",
+          "bytes": 55038,
+          "originalBytes": 618994,
+          "width": 1440,
+          "height": 1080,
+          "visuallyVerified": true,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本",
+          "transactionId": "5i5j-46805226",
+          "communityId": "shimaocuicanjiangshan"
+        }
+      ],
+      "referenceFloorplans": [],
+      "notes": [],
+      "developmentSource": {
+        "name": "公开开发建设说明",
+        "url": "https://www.ourjiangsu.com/a/20211225/1640399041133.shtml",
+        "observedAt": "2026-10-20T08:12:32.709Z"
+      }
+    },
+    {
+      "id": "mingfaxiangshanjun",
+      "name": "明发香山郡",
+      "sector": "江浦",
+      "region": "浦口区",
+      "positioning": "刚需",
+      "positioningLabel": "居住需求分析",
+      "positioningNote": "本站根据已收录面积、户型与预算作居住需求分析；不是政府分类。",
+      "tenureType": "待核实",
+      "tenureNote": "社区的住宅用途与每套房的权属、用途、抵押和转让条件分别核验。",
+      "developmentType": "住宅社区（平台资料）",
+      "developmentNote": "社区用途按公开小区与开发项目资料记录，不替代具体房屋不动产权证核验。",
+      "builtYear": 2017,
+      "builtYearSource": {
+        "name": "公开社区资料",
+        "url": "https://m.fang.com/chengjiao/nanjing/EX_2492501.html",
+        "evidence": "房天下成交详情的小区栏列明发香山郡，建筑年代2017年。"
+      },
+      "yearEvidence": "房天下成交详情的小区栏列明发香山郡，建筑年代2017年。",
+      "isBuilt2015OrLater": true,
+      "summary": "2017年小区资料的明发香山郡，已收录紧凑三房及较大三房两种成交样本。",
+      "description": "2017年小区资料的明发香山郡，已收录紧凑三房及较大三房两种成交样本。",
+      "image": null,
+      "images": [],
+      "factsScope": "明发香山郡",
+      "factsNote": "社区基础信息来自所列来源，分期与楼栋可能不同；无数据或平台0值不当作真实参数。",
+      "facts": [
+        {
+          "label": "参考分期",
+          "value": "明发香山郡",
+          "sourceUrl": "https://m.fang.com/chengjiao/nanjing/EX_2492501.html"
+        },
+        {
+          "label": "建筑年代",
+          "value": "2017年",
+          "sourceUrl": "https://m.fang.com/chengjiao/nanjing/EX_2492501.html"
+        }
+      ],
+      "greenRate": null,
+      "floorAreaRatio": null,
+      "households": null,
+      "propertyCompany": null,
+      "strengths": [
+        {
+          "text": "87.29㎡三房91万元与113.24㎡三房127万元来自两家平台，可比较面积与预算。",
+          "sourceUrl": "https://nj.5i5j.com/solds/jiangpu/",
+          "type": "analysis"
+        }
+      ],
+      "weaknesses": [
+        {
+          "text": "两笔成交的面积和时间不同，不能只比较总价判断涨跌；目前尚无已核验的小区实景图。",
+          "sourceUrl": "https://m.fang.com/chengjiao/nanjing/EX_2492501.html",
+          "type": "analysis"
+        },
+        {
+          "text": "当前预算内样本量有限，不能代表该小区所有房源或完整市场成交。",
+          "sourceUrl": "https://nj.5i5j.com/solds/jiangpu/",
+          "type": "analysis"
+        }
+      ],
+      "sources": [
+        {
+          "name": "公开成交记录",
+          "url": "https://nj.5i5j.com/solds/jiangpu/"
+        },
+        {
+          "name": "房天下南京 · 市场信息成交来源",
+          "url": "https://m.fang.com/chengjiao/nanjing/EX_2492501.html"
+        },
+        {
+          "name": "我爱我家南京成交来源",
+          "url": "https://nj.5i5j.com/sold/46785592.html"
+        }
+      ],
+      "aliases": [
+        "明发香山郡"
+      ],
+      "floorplans": [],
+      "referenceFloorplans": [],
+      "notes": []
+    },
+    {
+      "id": "binjiangyayuan",
+      "name": "滨江雅园",
+      "sector": "桥北",
+      "region": "江北新区生活圈",
+      "positioning": "改善",
+      "positioningLabel": "居住需求分析",
+      "positioningNote": "本站根据已收录面积、户型与预算作居住需求分析；不是政府分类。",
+      "tenureType": "待核实",
+      "tenureNote": "社区的住宅用途与每套房的权属、用途、抵押和转让条件分别核验。",
+      "developmentType": "商品房社区",
+      "developmentNote": "南京网上房地产官方商品房预售方案明确滨江雅园3、4幢住宅上市。",
+      "builtYear": 2021,
+      "builtYearSource": {
+        "name": "公开社区资料",
+        "url": "https://nj.5i5j.com/sold/46183340.html",
+        "evidence": "我爱我家公开成交详情小区资料列建筑年代2021年、总户数2430；官方2020预售许可申报资料另列滨江雅园3、4幢住宅396套。"
+      },
+      "yearEvidence": "我爱我家公开成交详情小区资料列建筑年代2021年、总户数2430；官方2020预售许可申报资料另列滨江雅园3、4幢住宅396套。",
+      "isBuilt2015OrLater": true,
+      "summary": "滨江雅园是独立社区，平台建筑年代2021年，不能与威尼斯水城其他街区混算。",
+      "description": "滨江雅园是独立社区，平台建筑年代2021年，不能与威尼斯水城其他街区混算。",
+      "image": null,
+      "images": [],
+      "factsScope": "滨江雅园",
+      "factsNote": "社区基础信息来自所列来源，分期与楼栋可能不同；无数据或平台0值不当作真实参数。",
+      "facts": [
+        {
+          "label": "参考分期",
+          "value": "滨江雅园",
+          "sourceUrl": "https://nj.5i5j.com/sold/46183340.html"
+        },
+        {
+          "label": "建筑年代",
+          "value": "2021年",
+          "sourceUrl": "https://nj.5i5j.com/sold/46183340.html"
+        }
+      ],
+      "greenRate": null,
+      "floorAreaRatio": null,
+      "households": null,
+      "propertyCompany": null,
+      "strengths": [
+        {
+          "text": "126.94㎡三房两卫平台披露145万元成交，预算内兼顾房龄与房间面积。",
+          "sourceUrl": "https://nj.5i5j.com/solds/weinisishuicheng/",
+          "type": "analysis"
+        }
+      ],
+      "weaknesses": [
+        {
+          "text": "本笔总价接近预算上限，额外费用应单独考虑；2021年资料属于社区参数，具体楼栋仍须核对。",
+          "sourceUrl": "https://nj.5i5j.com/sold/46183340.html",
+          "type": "analysis"
+        },
+        {
+          "text": "当前预算内样本量有限，不能代表该小区所有房源或完整市场成交。",
+          "sourceUrl": "https://nj.5i5j.com/solds/weinisishuicheng/",
+          "type": "analysis"
+        }
+      ],
+      "sources": [
+        {
+          "name": "公开成交记录",
+          "url": "https://nj.5i5j.com/solds/weinisishuicheng/"
+        },
+        {
+          "name": "建成年代证据",
+          "url": "https://nj.5i5j.com/sold/46183340.html"
+        },
+        {
+          "name": "项目公示/建设资料",
+          "url": "https://www.njhouse.com.cn/jsmart/nj/web/webPermitHtml?permitId=50036"
+        },
+        {
+          "name": "我爱我家南京成交来源",
+          "url": "https://nj.5i5j.com/sold/46707405.html"
+        }
+      ],
+      "aliases": [
+        "滨江雅园"
+      ],
+      "floorplans": [
+        {
+          "url": "assets/floorplan-46707405.webp",
+          "sourceUrl": "https://nj.5i5j.com/sold/46707405.html",
+          "caption": "滨江雅园 3室2厅2卫 126.94㎡成交房源户型 · 平台原始户型图",
+          "kind": "floorplan",
+          "originalUrl": "https://3dvr-cdn.5i5j.com/zhongqu_outputfiles/nj_b14f848134b57cab0f2970fb87a04efc_168188/wateracturalSurvey/floorPlan.jpg?time=1769759430",
+          "bytes": 53292,
+          "originalBytes": 580639,
+          "width": 1440,
+          "height": 1080,
+          "visuallyVerified": true,
+          "encodingNote": "保留原图内容与水印，WebP网页压缩副本",
+          "transactionId": "5i5j-46707405",
+          "communityId": "binjiangyayuan"
+        }
+      ],
+      "referenceFloorplans": [],
+      "notes": [],
+      "developmentSource": {
+        "name": "南京网上房地产官方项目资料",
+        "url": "https://www.njhouse.com.cn/jsmart/nj/web/webPermitHtml?permitId=50036",
+        "observedAt": "2026-10-20T08:12:32.709Z"
+      }
+    },
+    {
+      "id": "zhongjiaojinlanhui",
+      "name": "中交锦兰荟",
+      "sector": "南审",
+      "region": "浦口区",
+      "positioning": "刚需",
+      "positioningLabel": "居住需求分析",
+      "positioningNote": "本站根据已收录面积、户型与预算作居住需求分析；不是政府分类。",
+      "tenureType": "待核实",
+      "tenureNote": "社区的住宅用途与每套房的权属、用途、抵押和转让条件分别核验。",
+      "developmentType": "住宅社区（平台资料）",
+      "developmentNote": "社区用途按公开小区与开发项目资料记录，不替代具体房屋不动产权证核验。",
+      "builtYear": 2017,
+      "builtYearSource": {
+        "name": "公开社区资料",
+        "url": "https://m.fang.com/chengjiao/nanjing/EX_2485744.html",
+        "evidence": "原成交详情小区资料列建筑年代2017年。"
+      },
+      "yearEvidence": "原成交详情小区资料列建筑年代2017年。",
+      "isBuilt2015OrLater": true,
+      "summary": "南审生活圈中交锦兰荟，2017年小区资料及房天下公开市场信息成交。",
+      "description": "南审生活圈中交锦兰荟，2017年小区资料及房天下公开市场信息成交。",
+      "image": null,
+      "images": [],
+      "factsScope": "中交锦兰荟",
+      "factsNote": "社区基础信息来自所列来源，分期与楼栋可能不同；无数据或平台0值不当作真实参数。",
+      "facts": [
+        {
+          "label": "参考分期",
+          "value": "中交锦兰荟",
+          "sourceUrl": "https://m.fang.com/chengjiao/nanjing/EX_2485744.html"
+        },
+        {
+          "label": "建筑年代",
+          "value": "2017年",
+          "sourceUrl": "https://m.fang.com/chengjiao/nanjing/EX_2485744.html"
+        }
+      ],
+      "greenRate": null,
+      "floorAreaRatio": null,
+      "households": null,
+      "propertyCompany": null,
+      "strengths": [
+        {
+          "text": "88.09㎡两房平台披露成交94万元，提供预算内较宽裕两房的比较样本。",
+          "sourceUrl": "https://m.fang.com/chengjiao/nanjing/EX_2485744.html",
+          "type": "analysis"
+        }
+      ],
+      "weaknesses": [
+        {
+          "text": "源记录为两房，不能把小区其他三房户型用于本笔；成交来源标注市场信息，仍需交叉核验。",
+          "sourceUrl": "https://m.fang.com/chengjiao/nanjing/EX_2485744.html",
+          "type": "analysis"
+        },
+        {
+          "text": "当前预算内样本量有限，不能代表该小区所有房源或完整市场成交。",
+          "sourceUrl": "https://m.fang.com/chengjiao/nanjing/EX_2485744.html",
+          "type": "analysis"
+        }
+      ],
+      "sources": [
+        {
+          "name": "房天下南京 · 市场信息成交来源",
+          "url": "https://m.fang.com/chengjiao/nanjing/EX_2485744.html"
+        }
+      ],
+      "aliases": [
+        "中交锦兰荟"
+      ],
+      "floorplans": [],
+      "referenceFloorplans": [],
+      "notes": []
+    },
+    {
+      "id": "libiaozancheng",
+      "name": "力标赞城",
+      "sector": "江浦",
+      "region": "浦口区",
+      "positioning": "刚需",
+      "positioningLabel": "居住需求分析",
+      "positioningNote": "本站根据已收录面积、户型与预算作居住需求分析；不是政府分类。",
+      "tenureType": "待核实",
+      "tenureNote": "社区的住宅用途与每套房的权属、用途、抵押和转让条件分别核验。",
+      "developmentType": "商品房社区",
+      "developmentNote": "社区用途按公开小区与开发项目资料记录，不替代具体房屋不动产权证核验。",
+      "builtYear": 2017,
+      "builtYearSource": {
+        "name": "公开社区资料",
+        "url": "https://m.fang.com/chengjiao/nanjing/EX_2494990.html",
+        "evidence": "原成交详情小区资料列建筑年代2017年。"
+      },
+      "yearEvidence": "原成交详情小区资料列建筑年代2017年。",
+      "isBuilt2015OrLater": true,
+      "summary": "力标赞城，官方项目名四季嘉园；本页保留原成交房名与社区名的对应关系。",
+      "description": "力标赞城，官方项目名四季嘉园；本页保留原成交房名与社区名的对应关系。",
+      "image": null,
+      "images": [],
+      "factsScope": "力标赞城",
+      "factsNote": "社区基础信息来自所列来源，分期与楼栋可能不同；无数据或平台0值不当作真实参数。",
+      "facts": [
+        {
+          "label": "参考分期",
+          "value": "力标赞城",
+          "sourceUrl": "https://m.fang.com/chengjiao/nanjing/EX_2494990.html"
+        },
+        {
+          "label": "建筑年代",
+          "value": "2017年",
+          "sourceUrl": "https://m.fang.com/chengjiao/nanjing/EX_2494990.html"
+        }
+      ],
+      "greenRate": null,
+      "floorAreaRatio": null,
+      "households": null,
+      "propertyCompany": null,
+      "strengths": [
+        {
+          "text": "91㎡三房平台披露成交77万元；公开小区资料列2017年建筑年代与普通住宅用途。",
+          "sourceUrl": "https://m.fang.com/chengjiao/nanjing/EX_2494990.html",
+          "type": "analysis"
+        }
+      ],
+      "weaknesses": [
+        {
+          "text": "社区参考图为74.03㎡两房，明确不是本笔91㎡三房；具体成交房源户型仍缺图。",
+          "sourceUrl": "https://m.fang.com/chengjiao/nanjing/EX_2494990.html",
+          "type": "analysis"
+        },
+        {
+          "text": "当前预算内样本量有限，不能代表该小区所有房源或完整市场成交。",
+          "sourceUrl": "https://m.fang.com/chengjiao/nanjing/EX_2494990.html",
+          "type": "analysis"
+        }
+      ],
+      "sources": [
+        {
+          "name": "房天下南京 · 市场信息成交来源",
+          "url": "https://m.fang.com/chengjiao/nanjing/EX_2494990.html"
+        },
+        {
+          "name": "项目公示/建设资料",
+          "url": "https://www.njhouse.com.cn/project/info/108635/homePage.html"
+        },
+        {
+          "name": "官方四季嘉园现售方案",
+          "url": "https://www.njhouse.com.cn/jsmart/nj/web/webPermitHtml?permitId=50528"
+        }
+      ],
+      "aliases": [
+        "力标赞城",
+        "四季嘉园"
+      ],
+      "floorplans": [],
+      "referenceFloorplans": [
+        {
+          "communityId": "libiaozancheng",
+          "url": "assets/reference-floorplan-libiaozancheng.webp",
+          "originalUrl": "https://imgwcs2.soufunimg.com/huxing/2024_05/03/69339a23-4bb5-4b1b-a7a1-003428b22b94.png",
+          "sourceUrl": "https://m.fang.com/xiaoqu/nanjing/hxreport/1811182898/211544415/",
+          "caption": "力标赞城 · 74.03㎡2室2厅1卫社区参考户型，非本笔91㎡成交房源",
+          "kind": "floorplan",
+          "isReference": true,
+          "visuallyVerified": true,
+          "bytes": 24388,
+          "originalBytes": 167073
+        }
+      ],
+      "notes": [
+        "官方项目资料“四季嘉园”与开发企业南京力标房地产开发有限公司交叉对应；保留成交页房名四季嘉园。"
+      ],
+      "developmentSource": {
+        "name": "南京网上房地产官方项目资料",
+        "url": "https://www.njhouse.com.cn/project/info/108635/homePage.html",
+        "observedAt": "2026-10-20T08:12:32.709Z"
+      }
+    },
+    {
+      "id": "rongqiaoguandi",
+      "name": "融侨观邸",
+      "sector": "江浦",
+      "region": "浦口区",
+      "positioning": "刚需",
+      "positioningLabel": "居住需求分析",
+      "positioningNote": "本站根据已收录面积、户型与预算作居住需求分析；不是政府分类。",
+      "tenureType": "待核实",
+      "tenureNote": "社区的住宅用途与每套房的权属、用途、抵押和转让条件分别核验。",
+      "developmentType": "住宅社区（平台资料）",
+      "developmentNote": "社区用途按公开小区与开发项目资料记录，不替代具体房屋不动产权证核验。",
+      "builtYear": 2016,
+      "builtYearSource": {
+        "name": "公开社区资料",
+        "url": "https://m.fang.com/chengjiao/nanjing/EX_2507786.html",
+        "evidence": "原成交详情小区资料列建筑年代2016年。"
+      },
+      "yearEvidence": "原成交详情小区资料列建筑年代2016年。",
+      "isBuilt2015OrLater": true,
+      "summary": "融侨观邸二期86.36㎡两房成交样本，公开社区资料列2016年建筑年代。",
+      "description": "融侨观邸二期86.36㎡两房成交样本，公开社区资料列2016年建筑年代。",
+      "image": {
+        "communityId": "rongqiaoguandi",
+        "url": "assets/community-rongqiaoguandi.webp",
+        "originalUrl": "https://imgwcs2.soufunimg.com/viewimage/house/2019_05/27/c5101ece-439e-4b9f-8e2c-37920a533435/1400x1050.jpg?t=1",
+        "sourceUrl": "https://m.fang.com/xiaoqu/nanjing/1810781316.html",
+        "galleryLabel": "https://m.fang.com/xiaoqu/photo/nanjing/1810781316.html?bid=&typename=实景图&showbigimage=1",
+        "width": 788,
+        "height": 1050,
+        "bytes": 98128,
+        "originalBytes": 114982,
+        "kind": "community",
+        "visuallyVerified": true,
+        "caption": "融侨观邸 · 社区实景（照片标注2019-05-27）"
+      },
+      "images": [
+        {
+          "communityId": "rongqiaoguandi",
+          "url": "assets/community-rongqiaoguandi.webp",
+          "originalUrl": "https://imgwcs2.soufunimg.com/viewimage/house/2019_05/27/c5101ece-439e-4b9f-8e2c-37920a533435/1400x1050.jpg?t=1",
+          "sourceUrl": "https://m.fang.com/xiaoqu/nanjing/1810781316.html",
+          "galleryLabel": "https://m.fang.com/xiaoqu/photo/nanjing/1810781316.html?bid=&typename=实景图&showbigimage=1",
+          "width": 788,
+          "height": 1050,
+          "bytes": 98128,
+          "originalBytes": 114982,
+          "kind": "community",
+          "visuallyVerified": true,
+          "caption": "融侨观邸 · 社区实景（照片标注2019-05-27）"
+        }
+      ],
+      "factsScope": "融侨观邸",
+      "factsNote": "社区基础信息来自所列来源，分期与楼栋可能不同；无数据或平台0值不当作真实参数。",
+      "facts": [
+        {
+          "label": "参考分期",
+          "value": "融侨观邸",
+          "sourceUrl": "https://m.fang.com/chengjiao/nanjing/EX_2507786.html"
+        },
+        {
+          "label": "建筑年代",
+          "value": "2016年",
+          "sourceUrl": "https://m.fang.com/chengjiao/nanjing/EX_2507786.html"
+        }
+      ],
+      "greenRate": null,
+      "floorAreaRatio": null,
+      "households": null,
+      "propertyCompany": null,
+      "strengths": [
+        {
+          "text": "86.36㎡两房平台披露成交85万元，在预算内保留较宽裕两房选择。",
+          "sourceUrl": "https://m.fang.com/chengjiao/nanjing/EX_2507786.html",
+          "type": "analysis"
+        }
+      ],
+      "weaknesses": [
+        {
+          "text": "小区实拍为历史照片，不能代表当前维护情况；参考图的厅数与本笔记录不同，不能当作成交户型。",
+          "sourceUrl": "https://m.fang.com/chengjiao/nanjing/EX_2507786.html",
+          "type": "analysis"
+        },
+        {
+          "text": "当前预算内样本量有限，不能代表该小区所有房源或完整市场成交。",
+          "sourceUrl": "https://m.fang.com/chengjiao/nanjing/EX_2507786.html",
+          "type": "analysis"
+        }
+      ],
+      "sources": [
+        {
+          "name": "房天下南京 · 市场信息成交来源",
+          "url": "https://m.fang.com/chengjiao/nanjing/EX_2507786.html"
+        },
+        {
+          "name": "社区真实照片来源",
+          "url": "https://m.fang.com/xiaoqu/nanjing/1810781316.html"
+        }
+      ],
+      "aliases": [
+        "融侨观邸",
+        "融侨观邸二期"
+      ],
+      "floorplans": [],
+      "referenceFloorplans": [
+        {
+          "communityId": "rongqiaoguandi",
+          "url": "assets/reference-floorplan-rongqiaoguandi.webp",
+          "originalUrl": "https://imgs.soufunimg.com/house/2014_06/10/nanjing/1402386327736_000.jpg",
+          "sourceUrl": "https://m.fang.com/xiaoqu/nanjing/hxreport/1810781316/146549532/",
+          "caption": "融侨观邸 · 86㎡2室2厅1卫社区参考户型，非本笔86.36㎡成交房源",
+          "kind": "floorplan",
+          "isReference": true,
+          "visuallyVerified": true,
+          "bytes": 37304,
+          "originalBytes": 34930
+        }
+      ],
+      "notes": []
     }
   ]
 }

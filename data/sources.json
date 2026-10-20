@@ -37,7 +37,9 @@
           "sector": "桥北"
         }
       },
-      "note": "只接收已人工审核的精确社区别名；平台总价展示有取整，显示150万也剔除。这里只检查配置的公开列表，不保证完整覆盖。"
+      "note": "已审核社区自动续采；同范围未知小区只入发现候选队列。页面标题必须匹配板块/小区范围；展示150万边界排除。",
+      "discoverUnknown": true,
+      "expectedTitle": "威尼斯水城"
     },
     {
       "id": "tianruncheng-latest",
@@ -73,7 +75,9 @@
           "sector": "桥北"
         }
       },
-      "note": "只接收已人工审核的精确社区别名；平台总价展示有取整，显示150万也剔除。这里只检查配置的公开列表，不保证完整覆盖。"
+      "note": "已审核社区自动续采；同范围未知小区只入发现候选队列。页面标题必须匹配板块/小区范围；展示150万边界排除。",
+      "discoverUnknown": true,
+      "expectedTitle": "天润城"
     },
     {
       "id": "tianruncheng-reviewed",
@@ -109,7 +113,9 @@
           "sector": "桥北"
         }
       },
-      "note": "只接收已人工审核的精确社区别名；平台总价展示有取整，显示150万也剔除。这里只检查配置的公开列表，不保证完整覆盖。"
+      "note": "已审核社区自动续采；同范围未知小区只入发现候选队列。页面标题必须匹配板块/小区范围；展示150万边界排除。",
+      "discoverUnknown": true,
+      "expectedTitle": "天润城"
     },
     {
       "id": "mingfa-latest",
@@ -130,7 +136,9 @@
           "sector": "桥北"
         }
       },
-      "note": "只接收已人工审核的精确社区别名；平台总价展示有取整，显示150万也剔除。这里只检查配置的公开列表，不保证完整覆盖。"
+      "note": "已审核社区自动续采；同范围未知小区只入发现候选队列。页面标题必须匹配板块/小区范围；展示150万边界排除。",
+      "discoverUnknown": true,
+      "expectedTitle": "明发滨江"
     },
     {
       "id": "mingfa-reviewed",
@@ -151,7 +159,9 @@
           "sector": "桥北"
         }
       },
-      "note": "只接收已人工审核的精确社区别名；平台总价展示有取整，显示150万也剔除。这里只检查配置的公开列表，不保证完整覆盖。"
+      "note": "已审核社区自动续采；同范围未知小区只入发现候选队列。页面标题必须匹配板块/小区范围；展示150万边界排除。",
+      "discoverUnknown": true,
+      "expectedTitle": "明发滨江"
     },
     {
       "id": "xuri-latest",
@@ -172,7 +182,9 @@
           "sector": "桥北"
         }
       },
-      "note": "只接收已人工审核的精确社区别名；平台总价展示有取整，显示150万也剔除。这里只检查配置的公开列表，不保证完整覆盖。"
+      "note": "已审核社区自动续采；同范围未知小区只入发现候选队列。页面标题必须匹配板块/小区范围；展示150万边界排除。",
+      "discoverUnknown": true,
+      "expectedTitle": "旭日爱上城"
     },
     {
       "id": "xuri-reviewed",
@@ -193,7 +205,9 @@
           "sector": "桥北"
         }
       },
-      "note": "只接收已人工审核的精确社区别名；平台总价展示有取整，显示150万也剔除。这里只检查配置的公开列表，不保证完整覆盖。"
+      "note": "已审核社区自动续采；同范围未知小区只入发现候选队列。页面标题必须匹配板块/小区范围；展示150万边界排除。",
+      "discoverUnknown": true,
+      "expectedTitle": "旭日爱上城"
     },
     {
       "id": "gaoxin",
@@ -209,7 +223,9 @@
           "sector": "高新"
         }
       },
-      "note": "只接收已人工审核的精确社区别名；平台总价展示有取整，显示150万也剔除。这里只检查配置的公开列表，不保证完整覆盖。"
+      "note": "已审核社区自动续采；同范围未知小区只入发现候选队列。页面标题必须匹配板块/小区范围；展示150万边界排除。",
+      "discoverUnknown": true,
+      "expectedTitle": "高新"
     },
     {
       "id": "jiangpu",
@@ -230,7 +246,9 @@
           "sector": "南审"
         }
       },
-      "note": "只接收已人工审核的精确社区别名；平台总价展示有取整，显示150万也剔除。这里只检查配置的公开列表，不保证完整覆盖。"
+      "note": "已审核社区自动续采；同范围未知小区只入发现候选队列。页面标题必须匹配板块/小区范围；展示150万边界排除。",
+      "discoverUnknown": true,
+      "expectedTitle": "江浦"
     },
     {
       "id": "jiangpu-reviewed-n4",
@@ -251,7 +269,248 @@
           "sector": "南审"
         }
       },
-      "note": "只接收已人工审核的精确社区别名；平台总价展示有取整，显示150万也剔除。这里只检查配置的公开列表，不保证完整覆盖。"
+      "note": "已审核社区自动续采；同范围未知小区只入发现候选队列。页面标题必须匹配板块/小区范围；展示150万边界排除。",
+      "discoverUnknown": true,
+      "expectedTitle": "江浦"
+    },
+    {
+      "type": "5i5j",
+      "name": "我爱我家南京",
+      "label": "浦口板块扩展发现",
+      "enabled": true,
+      "communities": {},
+      "discoverUnknown": true,
+      "id": "pukou-discover-1",
+      "url": "https://nj.5i5j.com/solds/pukouqu/",
+      "expectedTitle": "浦口",
+      "note": "仅接受匹配板块标题的公开成交列表；未知小区待审核，不进入正式统计。"
+    },
+    {
+      "type": "5i5j",
+      "name": "我爱我家南京",
+      "label": "浦口板块扩展发现",
+      "enabled": true,
+      "communities": {},
+      "discoverUnknown": true,
+      "id": "pukou-discover-2",
+      "url": "https://nj.5i5j.com/solds/pukouqu/n2/",
+      "expectedTitle": "浦口",
+      "note": "仅接受匹配板块标题的公开成交列表；未知小区待审核，不进入正式统计。"
+    },
+    {
+      "type": "5i5j",
+      "name": "我爱我家南京",
+      "label": "浦口板块扩展发现",
+      "enabled": true,
+      "communities": {},
+      "discoverUnknown": true,
+      "id": "pukou-discover-3",
+      "url": "https://nj.5i5j.com/solds/pukouqu/n3/",
+      "expectedTitle": "浦口",
+      "note": "仅接受匹配板块标题的公开成交列表；未知小区待审核，不进入正式统计。"
+    },
+    {
+      "type": "5i5j",
+      "name": "我爱我家南京",
+      "label": "浦口板块扩展发现",
+      "enabled": true,
+      "communities": {},
+      "discoverUnknown": true,
+      "id": "pukou-80-120-1",
+      "url": "https://nj.5i5j.com/solds/pukouqu/p3/",
+      "expectedTitle": "浦口",
+      "note": "仅接受匹配板块标题的公开成交列表；未知小区待审核，不进入正式统计。"
+    },
+    {
+      "type": "5i5j",
+      "name": "我爱我家南京",
+      "label": "浦口板块扩展发现",
+      "enabled": true,
+      "communities": {},
+      "discoverUnknown": true,
+      "id": "pukou-80-120-2",
+      "url": "https://nj.5i5j.com/solds/pukouqu/p3/n2/",
+      "expectedTitle": "浦口",
+      "note": "仅接受匹配板块标题的公开成交列表；未知小区待审核，不进入正式统计。"
+    },
+    {
+      "type": "5i5j",
+      "name": "我爱我家南京",
+      "label": "浦口板块扩展发现",
+      "enabled": true,
+      "communities": {},
+      "discoverUnknown": true,
+      "id": "pukou-80-120-3",
+      "url": "https://nj.5i5j.com/solds/pukouqu/p3/n3/",
+      "expectedTitle": "浦口",
+      "note": "仅接受匹配板块标题的公开成交列表；未知小区待审核，不进入正式统计。"
+    },
+    {
+      "type": "5i5j",
+      "name": "我爱我家南京",
+      "label": "浦口板块扩展发现",
+      "enabled": true,
+      "communities": {},
+      "discoverUnknown": true,
+      "id": "pukou-120-150-1",
+      "url": "https://nj.5i5j.com/solds/pukouqu/p4/",
+      "expectedTitle": "浦口",
+      "note": "仅接受匹配板块标题的公开成交列表；未知小区待审核，不进入正式统计。"
+    },
+    {
+      "type": "5i5j",
+      "name": "我爱我家南京",
+      "label": "浦口板块扩展发现",
+      "enabled": true,
+      "communities": {},
+      "discoverUnknown": true,
+      "id": "pukou-120-150-2",
+      "url": "https://nj.5i5j.com/solds/pukouqu/p4/n2/",
+      "expectedTitle": "浦口",
+      "note": "仅接受匹配板块标题的公开成交列表；未知小区待审核，不进入正式统计。"
+    },
+    {
+      "type": "5i5j",
+      "name": "我爱我家南京",
+      "label": "浦口板块扩展发现",
+      "enabled": true,
+      "communities": {},
+      "discoverUnknown": true,
+      "id": "pukou-120-150-3",
+      "url": "https://nj.5i5j.com/solds/pukouqu/p4/n3/",
+      "expectedTitle": "浦口",
+      "note": "仅接受匹配板块标题的公开成交列表；未知小区待审核，不进入正式统计。"
+    },
+    {
+      "type": "5i5j",
+      "name": "我爱我家南京",
+      "label": "高新板块扩展发现",
+      "enabled": true,
+      "communities": {},
+      "discoverUnknown": true,
+      "id": "gaoxin-discover-2",
+      "url": "https://nj.5i5j.com/solds/gaoxin/n2/",
+      "expectedTitle": "高新",
+      "sectorHint": "高新",
+      "note": "仅接受匹配板块标题的公开成交列表；未知小区待审核，不进入正式统计。"
+    },
+    {
+      "type": "5i5j",
+      "name": "我爱我家南京",
+      "label": "高新板块扩展发现",
+      "enabled": true,
+      "communities": {},
+      "discoverUnknown": true,
+      "id": "gaoxin-discover-3",
+      "url": "https://nj.5i5j.com/solds/gaoxin/n3/",
+      "expectedTitle": "高新",
+      "sectorHint": "高新",
+      "note": "仅接受匹配板块标题的公开成交列表；未知小区待审核，不进入正式统计。"
+    },
+    {
+      "type": "5i5j",
+      "name": "我爱我家南京",
+      "label": "江浦板块扩展发现",
+      "enabled": true,
+      "communities": {},
+      "discoverUnknown": true,
+      "id": "jiangpu-discover-2",
+      "url": "https://nj.5i5j.com/solds/jiangpu/n2/",
+      "expectedTitle": "江浦",
+      "sectorHint": null,
+      "note": "仅接受匹配板块标题的公开成交列表；未知小区待审核，不进入正式统计。"
+    },
+    {
+      "type": "5i5j",
+      "name": "我爱我家南京",
+      "label": "江浦板块扩展发现",
+      "enabled": true,
+      "communities": {},
+      "discoverUnknown": true,
+      "id": "jiangpu-discover-3",
+      "url": "https://nj.5i5j.com/solds/jiangpu/n3/",
+      "expectedTitle": "江浦",
+      "sectorHint": null,
+      "note": "仅接受匹配板块标题的公开成交列表；未知小区待审核，不进入正式统计。"
+    },
+    {
+      "id": "beike-public",
+      "type": "public_watch",
+      "name": "贝壳南京公开成交入口",
+      "label": "公开访问规则监测与人工来源",
+      "url": "https://m.ke.com/nj/chengjiao/",
+      "enabled": true,
+      "human_source": true,
+      "note": "先读取robots.txt；禁止自动访问则只记录受限状态，不冒充搜索爬虫、不绕验证。原始公开材料可经人工核查导入发现队列；博主自述与平台披露隔离。"
+    },
+    {
+      "id": "lianjia-public",
+      "type": "public_watch",
+      "name": "链家南京公开成交入口",
+      "label": "公开访问规则监测与人工来源",
+      "url": "https://nj.lianjia.com/chengjiao/",
+      "enabled": true,
+      "human_source": true,
+      "note": "先读取robots.txt；禁止自动访问则只记录受限状态，不冒充搜索爬虫、不绕验证。原始公开材料可经人工核查导入发现队列；博主自述与平台披露隔离。"
+    },
+    {
+      "id": "xiaohongshu-public",
+      "type": "public_watch",
+      "name": "小红书公开笔记入口",
+      "label": "公开访问规则监测与人工来源",
+      "url": "https://www.xiaohongshu.com/explore",
+      "enabled": true,
+      "human_source": true,
+      "note": "先读取robots.txt；禁止自动访问则只记录受限状态，不冒充搜索爬虫、不绕验证。原始公开材料可经人工核查导入发现队列；博主自述与平台披露隔离。"
+    },
+    {
+      "id": "fang-2485744",
+      "type": "fang_detail",
+      "name": "房天下南京",
+      "label": "已核查公开成交详情 · 来源市场信息",
+      "url": "https://m.fang.com/chengjiao/nanjing/EX_2485744.html",
+      "enabled": true,
+      "expectedTitle": "浦口",
+      "sectorHint": "江浦",
+      "communities": {},
+      "note": "仅解析页面可见成交总价、日期、户型面积；来源为市场信息，先进入候选人工核查，不自动升格正式平台交易。"
+    },
+    {
+      "id": "fang-2494990",
+      "type": "fang_detail",
+      "name": "房天下南京",
+      "label": "已核查公开成交详情 · 来源市场信息",
+      "url": "https://m.fang.com/chengjiao/nanjing/EX_2494990.html",
+      "enabled": true,
+      "expectedTitle": "浦口",
+      "sectorHint": "江浦",
+      "communities": {},
+      "note": "仅解析页面可见成交总价、日期、户型面积；来源为市场信息，先进入候选人工核查，不自动升格正式平台交易。"
+    },
+    {
+      "id": "fang-2507786",
+      "type": "fang_detail",
+      "name": "房天下南京",
+      "label": "已核查公开成交详情 · 来源市场信息",
+      "url": "https://m.fang.com/chengjiao/nanjing/EX_2507786.html",
+      "enabled": true,
+      "expectedTitle": "浦口",
+      "sectorHint": "江浦",
+      "communities": {},
+      "note": "仅解析页面可见成交总价、日期、户型面积；来源为市场信息，先进入候选人工核查，不自动升格正式平台交易。"
+    },
+    {
+      "id": "fang-2492501",
+      "type": "fang_detail",
+      "name": "房天下南京",
+      "label": "已核查公开成交详情 · 来源市场信息",
+      "url": "https://m.fang.com/chengjiao/nanjing/EX_2492501.html",
+      "enabled": true,
+      "expectedTitle": "浦口",
+      "sectorHint": "江浦",
+      "communities": {},
+      "note": "仅解析页面可见成交总价、日期、户型面积；来源为市场信息，先进入候选人工核查，不自动升格正式平台交易。"
     }
-  ]
+  ],
+  "discoveryPolicy": "从已确认板块公开列表发现预算内新小区，不限最初7盘；自动匹配全部已审核社区aliases，未知名称入待审队列。"
 }
