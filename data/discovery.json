@@ -2,6 +2,43 @@
   "schemaVersion": 1,
   "candidates": [
     {
+      "id": "5i5j-46831121",
+      "communityId": null,
+      "communityName": "明发滨江新城一期",
+      "platformCommunityName": "明发滨江新城一期",
+      "sector": null,
+      "totalPriceWan": 87,
+      "totalPricePrecision": "platform_display_rounded",
+      "platformUnitPriceYuan": 9809,
+      "areaSqm": 88.9,
+      "layout": "2室2厅1卫",
+      "soldDate": "2026-08-24",
+      "orientation": "东南",
+      "source": {
+        "name": "我爱我家南京",
+        "url": "https://nj.5i5j.com/sold/46831121.html",
+        "listUrl": "https://nj.5i5j.com/solds/mingfabinjiang/",
+        "evidenceUrl": "https://nj.5i5j.com/solds/mingfabinjiang/",
+        "observedAt": "2026-10-23T06:03:00.936Z",
+        "evidence": "明发滨江新城一期 2室2厅1卫，88.9㎡，成交日期 2026-08-24，平台披露成交总价（显示值） 87万元；采自 https://nj.5i5j.com/solds/mingfabinjiang/"
+      },
+      "verification": "platform_reported",
+      "image": null,
+      "floorplan": null,
+      "publishedAt": null,
+      "reviewStatus": "pending",
+      "reviewReason": "unknown_community",
+      "firstObservedAt": "2026-10-23T06:03:00.936Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
+      "scopeEvidence": {
+        "platform": "我爱我家南京",
+        "pageTitle": "南京明发滨江二手房网签-南京明发滨江二手房成交价格-南京我爱我家官网",
+        "expectedTitle": "明发滨江",
+        "url": "https://nj.5i5j.com/solds/mingfabinjiang/"
+      },
+      "disclosureLabel": "平台披露 · 新小区待审核"
+    },
+    {
       "id": "5i5j-46824282",
       "communityId": null,
       "communityName": "明发滨江新城一期",
@@ -29,7 +66,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京明发滨江二手房网签-南京明发滨江二手房成交价格-南京我爱我家官网",
@@ -66,7 +103,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京江浦二手房网签-南京江浦二手房成交价格-南京我爱我家官网",
@@ -140,7 +177,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京旭日爱上城二手房网签-南京旭日爱上城二手房成交价格-南京我爱我家官网",
@@ -214,7 +251,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京明发滨江二手房网签-南京明发滨江二手房成交价格-南京我爱我家官网",
@@ -251,7 +288,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京江浦二手房网签-南京江浦二手房成交价格-南京我爱我家官网",
@@ -288,7 +325,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京明发滨江二手房网签-南京明发滨江二手房成交价格-南京我爱我家官网",
@@ -325,7 +362,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京江浦二手房网签-南京江浦二手房成交价格-南京我爱我家官网",
@@ -362,7 +399,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京明发滨江二手房网签-南京明发滨江二手房成交价格-南京我爱我家官网",
@@ -399,7 +436,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京江浦二手房网签-南京江浦二手房成交价格-南京我爱我家官网",
@@ -518,7 +555,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京江浦二手房网签-南京江浦二手房成交价格-南京我爱我家官网",
@@ -555,7 +592,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京江浦二手房网签-南京江浦二手房成交价格-南京我爱我家官网",
@@ -592,7 +629,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京江浦二手房网签-南京江浦二手房成交价格-南京我爱我家官网",
@@ -703,7 +740,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京明发滨江二手房网签-南京明发滨江二手房成交价格-南京我爱我家官网",
@@ -740,7 +777,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京旭日爱上城二手房网签-南京旭日爱上城二手房成交价格-南京我爱我家官网",
@@ -777,7 +814,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京旭日爱上城二手房网签-南京旭日爱上城二手房成交价格-南京我爱我家官网",
@@ -966,7 +1003,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京江浦二手房网签-南京江浦二手房成交价格-南京我爱我家官网",
@@ -1003,7 +1040,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京高新二手房网签-南京高新二手房成交价格-南京我爱我家官网",
@@ -1040,7 +1077,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京旭日爱上城二手房网签-南京旭日爱上城二手房成交价格-南京我爱我家官网",
@@ -1077,7 +1114,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京高新二手房网签-南京高新二手房成交价格-南京我爱我家官网",
@@ -1114,7 +1151,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京旭日爱上城二手房网签-南京旭日爱上城二手房成交价格-南京我爱我家官网",
@@ -1151,7 +1188,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京江浦二手房网签-南京江浦二手房成交价格-南京我爱我家官网",
@@ -1229,7 +1266,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京明发滨江二手房网签-南京明发滨江二手房成交价格-南京我爱我家官网",
@@ -1266,7 +1303,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京天润城二手房网签-南京天润城二手房成交价格-南京我爱我家官网",
@@ -1340,7 +1377,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京旭日爱上城二手房网签-南京旭日爱上城二手房成交价格-南京我爱我家官网",
@@ -1377,7 +1414,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京旭日爱上城二手房网签-南京旭日爱上城二手房成交价格-南京我爱我家官网",
@@ -1414,7 +1451,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京威尼斯水城二手房网签-南京威尼斯水城二手房成交价格-南京我爱我家官网",
@@ -1451,7 +1488,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京旭日爱上城二手房网签-南京旭日爱上城二手房成交价格-南京我爱我家官网",
@@ -1488,7 +1525,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京威尼斯水城二手房网签-南京威尼斯水城二手房成交价格-南京我爱我家官网",
@@ -1525,7 +1562,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京天润城二手房网签-南京天润城二手房成交价格-南京我爱我家官网",
@@ -1562,7 +1599,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京天润城二手房网签-南京天润城二手房成交价格-南京我爱我家官网",
@@ -1599,7 +1636,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京旭日爱上城二手房网签-南京旭日爱上城二手房成交价格-南京我爱我家官网",
@@ -1636,7 +1673,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京明发滨江二手房网签-南京明发滨江二手房成交价格-南京我爱我家官网",
@@ -1673,7 +1710,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京明发滨江二手房网签-南京明发滨江二手房成交价格-南京我爱我家官网",
@@ -1747,7 +1784,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京威尼斯水城二手房网签-南京威尼斯水城二手房成交价格-南京我爱我家官网",
@@ -1784,7 +1821,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京明发滨江二手房网签-南京明发滨江二手房成交价格-南京我爱我家官网",
@@ -1821,7 +1858,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京明发滨江二手房网签-南京明发滨江二手房成交价格-南京我爱我家官网",
@@ -1858,7 +1895,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京明发滨江二手房网签-南京明发滨江二手房成交价格-南京我爱我家官网",
@@ -1895,7 +1932,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京明发滨江二手房网签-南京明发滨江二手房成交价格-南京我爱我家官网",
@@ -1932,7 +1969,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京天润城二手房网签-南京天润城二手房成交价格-南京我爱我家官网",
@@ -1969,7 +2006,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京旭日爱上城二手房网签-南京旭日爱上城二手房成交价格-南京我爱我家官网",
@@ -2006,7 +2043,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京旭日爱上城二手房网签-南京旭日爱上城二手房成交价格-南京我爱我家官网",
@@ -2043,7 +2080,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京威尼斯水城二手房网签-南京威尼斯水城二手房成交价格-南京我爱我家官网",
@@ -2080,7 +2117,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京明发滨江二手房网签-南京明发滨江二手房成交价格-南京我爱我家官网",
@@ -2117,7 +2154,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京旭日爱上城二手房网签-南京旭日爱上城二手房成交价格-南京我爱我家官网",
@@ -2191,7 +2228,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京天润城二手房网签-南京天润城二手房成交价格-南京我爱我家官网",
@@ -2228,7 +2265,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京旭日爱上城二手房网签-南京旭日爱上城二手房成交价格-南京我爱我家官网",
@@ -2265,7 +2302,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京明发滨江二手房网签-南京明发滨江二手房成交价格-南京我爱我家官网",
@@ -2302,7 +2339,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京威尼斯水城二手房网签-南京威尼斯水城二手房成交价格-南京我爱我家官网",
@@ -2339,7 +2376,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京威尼斯水城二手房网签-南京威尼斯水城二手房成交价格-南京我爱我家官网",
@@ -2376,7 +2413,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京天润城二手房网签-南京天润城二手房成交价格-南京我爱我家官网",
@@ -2450,7 +2487,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京威尼斯水城二手房网签-南京威尼斯水城二手房成交价格-南京我爱我家官网",
@@ -2487,7 +2524,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京威尼斯水城二手房网签-南京威尼斯水城二手房成交价格-南京我爱我家官网",
@@ -2524,7 +2561,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京天润城二手房网签-南京天润城二手房成交价格-南京我爱我家官网",
@@ -2561,7 +2598,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京旭日爱上城二手房网签-南京旭日爱上城二手房成交价格-南京我爱我家官网",
@@ -2598,7 +2635,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京威尼斯水城二手房网签-南京威尼斯水城二手房成交价格-南京我爱我家官网",
@@ -2635,7 +2672,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京旭日爱上城二手房网签-南京旭日爱上城二手房成交价格-南京我爱我家官网",
@@ -2672,7 +2709,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京威尼斯水城二手房网签-南京威尼斯水城二手房成交价格-南京我爱我家官网",
@@ -2709,7 +2746,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京明发滨江二手房网签-南京明发滨江二手房成交价格-南京我爱我家官网",
@@ -2746,7 +2783,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京高新二手房网签-南京高新二手房成交价格-南京我爱我家官网",
@@ -2783,7 +2820,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京明发滨江二手房网签-南京明发滨江二手房成交价格-南京我爱我家官网",
@@ -2820,7 +2857,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京明发滨江二手房网签-南京明发滨江二手房成交价格-南京我爱我家官网",
@@ -2857,7 +2894,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京威尼斯水城二手房网签-南京威尼斯水城二手房成交价格-南京我爱我家官网",
@@ -2931,7 +2968,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京旭日爱上城二手房网签-南京旭日爱上城二手房成交价格-南京我爱我家官网",
@@ -2968,7 +3005,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京天润城二手房网签-南京天润城二手房成交价格-南京我爱我家官网",
@@ -3042,7 +3079,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京天润城二手房网签-南京天润城二手房成交价格-南京我爱我家官网",
@@ -3079,7 +3116,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京威尼斯水城二手房网签-南京威尼斯水城二手房成交价格-南京我爱我家官网",
@@ -3116,7 +3153,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京旭日爱上城二手房网签-南京旭日爱上城二手房成交价格-南京我爱我家官网",
@@ -3153,7 +3190,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京明发滨江二手房网签-南京明发滨江二手房成交价格-南京我爱我家官网",
@@ -3227,7 +3264,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京明发滨江二手房网签-南京明发滨江二手房成交价格-南京我爱我家官网",
@@ -3264,7 +3301,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京明发滨江二手房网签-南京明发滨江二手房成交价格-南京我爱我家官网",
@@ -3338,7 +3375,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京旭日爱上城二手房网签-南京旭日爱上城二手房成交价格-南京我爱我家官网",
@@ -3412,7 +3449,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京旭日爱上城二手房网签-南京旭日爱上城二手房成交价格-南京我爱我家官网",
@@ -3449,7 +3486,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京威尼斯水城二手房网签-南京威尼斯水城二手房成交价格-南京我爱我家官网",
@@ -3486,7 +3523,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京天润城二手房网签-南京天润城二手房成交价格-南京我爱我家官网",
@@ -3523,7 +3560,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京威尼斯水城二手房网签-南京威尼斯水城二手房成交价格-南京我爱我家官网",
@@ -3560,7 +3597,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京明发滨江二手房网签-南京明发滨江二手房成交价格-南京我爱我家官网",
@@ -3597,7 +3634,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京明发滨江二手房网签-南京明发滨江二手房成交价格-南京我爱我家官网",
@@ -3634,7 +3671,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京天润城二手房网签-南京天润城二手房成交价格-南京我爱我家官网",
@@ -3671,7 +3708,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京高新二手房网签-南京高新二手房成交价格-南京我爱我家官网",
@@ -3708,7 +3745,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京天润城二手房网签-南京天润城二手房成交价格-南京我爱我家官网",
@@ -3745,7 +3782,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京旭日爱上城二手房网签-南京旭日爱上城二手房成交价格-南京我爱我家官网",
@@ -3819,7 +3856,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京旭日爱上城二手房网签-南京旭日爱上城二手房成交价格-南京我爱我家官网",
@@ -3930,7 +3967,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京天润城二手房网签-南京天润城二手房成交价格-南京我爱我家官网",
@@ -3967,7 +4004,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京旭日爱上城二手房网签-南京旭日爱上城二手房成交价格-南京我爱我家官网",
@@ -4004,7 +4041,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京天润城二手房网签-南京天润城二手房成交价格-南京我爱我家官网",
@@ -4041,7 +4078,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京明发滨江二手房网签-南京明发滨江二手房成交价格-南京我爱我家官网",
@@ -4115,7 +4152,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京天润城二手房网签-南京天润城二手房成交价格-南京我爱我家官网",
@@ -4152,7 +4189,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京天润城70-90㎡二手房网签-南京天润城二手房成交价格-南京我爱我家官网",
@@ -4189,7 +4226,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京天润城70-90㎡二手房网签-南京天润城二手房成交价格-南京我爱我家官网",
@@ -4226,7 +4263,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京明发滨江二手房网签-南京明发滨江二手房成交价格-南京我爱我家官网",
@@ -4263,7 +4300,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京天润城70-90㎡二手房网签-南京天润城二手房成交价格-南京我爱我家官网",
@@ -4300,7 +4337,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京天润城70-90㎡二手房网签-南京天润城二手房成交价格-南京我爱我家官网",
@@ -4337,7 +4374,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京明发滨江二手房网签-南京明发滨江二手房成交价格-南京我爱我家官网",
@@ -4374,7 +4411,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京天润城70-90㎡二手房网签-南京天润城二手房成交价格-南京我爱我家官网",
@@ -4411,7 +4448,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京天润城70-90㎡二手房网签-南京天润城二手房成交价格-南京我爱我家官网",
@@ -4448,7 +4485,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京天润城70-90㎡二手房网签-南京天润城二手房成交价格-南京我爱我家官网",
@@ -4485,7 +4522,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京明发滨江二手房网签-南京明发滨江二手房成交价格-南京我爱我家官网",
@@ -4522,7 +4559,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京明发滨江二手房网签-南京明发滨江二手房成交价格-南京我爱我家官网",
@@ -4559,7 +4596,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京天润城70-90㎡二手房网签-南京天润城二手房成交价格-南京我爱我家官网",
@@ -4596,7 +4633,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京天润城70-90㎡二手房网签-南京天润城二手房成交价格-南京我爱我家官网",
@@ -4633,7 +4670,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京旭日爱上城100-120万90-110㎡二手房网签-南京旭日爱上城二手房成交价格-南京我爱我家官网",
@@ -4670,7 +4707,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京天润城70-90㎡二手房网签-南京天润城二手房成交价格-南京我爱我家官网",
@@ -4707,7 +4744,7 @@
       "reviewStatus": "pending",
       "reviewReason": "unknown_community",
       "firstObservedAt": "2026-10-20T08:05:49.559Z",
-      "lastObservedAt": "2026-10-22T06:07:42.079Z",
+      "lastObservedAt": "2026-10-23T06:03:00.936Z",
       "scopeEvidence": {
         "platform": "我爱我家南京",
         "pageTitle": "南京天润城70-90㎡二手房网签-南京天润城二手房成交价格-南京我爱我家官网",
@@ -4717,20 +4754,20 @@
       "disclosureLabel": "平台披露 · 新小区待审核"
     }
   ],
-  "checkedAt": "2026-10-22T06:07:42.079Z",
+  "checkedAt": "2026-10-23T06:03:00.936Z",
   "scope": "南京泛江北公开成交新小区发现；候选不等于正式收录。",
   "policy": "候选必须明示成交日、总价、面积和户型；平台万元显示150边界排除。平台披露与博主自述分别标识，未经审核不混入正式平台成交统计。",
-  "newCandidates": 0,
-  "totalCandidates": 127,
-  "pendingCandidates": 103,
-  "latestCandidateSoldDate": "2026-08-17",
+  "newCandidates": 1,
+  "totalCandidates": 128,
+  "pendingCandidates": 104,
+  "latestCandidateSoldDate": "2026-08-24",
   "humanSources": [
     {
       "id": "beike-public",
       "name": "贝壳南京公开成交入口",
       "url": "https://m.ke.com/nj/chengjiao/",
       "status": "blocked",
-      "checkedAt": "2026-10-22T06:07:42.079Z",
+      "checkedAt": "2026-10-23T06:03:00.936Z",
       "message": "robots.txt disallows this path (/); request skipped",
       "httpStatus": null
     },
@@ -4739,7 +4776,7 @@
       "name": "链家南京公开成交入口",
       "url": "https://nj.lianjia.com/chengjiao/",
       "status": "blocked",
-      "checkedAt": "2026-10-22T06:07:42.079Z",
+      "checkedAt": "2026-10-23T06:03:00.936Z",
       "message": "robots.txt disallows this path (/); request skipped",
       "httpStatus": null
     },
@@ -4748,7 +4785,7 @@
       "name": "小红书公开笔记入口",
       "url": "https://www.xiaohongshu.com/explore",
       "status": "blocked",
-      "checkedAt": "2026-10-22T06:07:42.079Z",
+      "checkedAt": "2026-10-23T06:03:00.936Z",
       "message": "robots.txt disallows this path (/); request skipped",
       "httpStatus": null
     }
