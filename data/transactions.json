@@ -2360,6 +2360,31 @@
       "reviewEvidence": "公开来源的明确成交总价、日期、面积和户型已逐项核对；不是挂牌价格。"
     },
     {
+      "id": "5i5j-46651560",
+      "communityId": "mingfaxiangshanjun",
+      "communityName": "明发香山郡",
+      "platformCommunityName": "明发香山郡",
+      "sector": "江浦",
+      "totalPriceWan": 128,
+      "totalPricePrecision": "platform_display_rounded",
+      "platformUnitPriceYuan": 11303,
+      "areaSqm": 113.24,
+      "layout": "3室2厅1卫",
+      "soldDate": "2025-10-31",
+      "orientation": "南",
+      "source": {
+        "name": "我爱我家南京",
+        "url": "https://nj.5i5j.com/sold/46651560.html",
+        "listUrl": "https://nj.5i5j.com/solds/pukouqu/p4/n3/",
+        "evidenceUrl": "https://nj.5i5j.com/solds/pukouqu/p4/n3/",
+        "observedAt": "2026-10-31T07:00:05.969Z",
+        "evidence": "明发香山郡 3室2厅1卫，113.24㎡，成交日期 2025-10-31，平台披露成交总价（显示值） 128万元；采自 https://nj.5i5j.com/solds/pukouqu/p4/n3/"
+      },
+      "verification": "platform_reported",
+      "image": null,
+      "floorplan": null
+    },
+    {
       "id": "5i5j-46498548",
       "communityId": "xiangyuzijun2",
       "communityName": "香溢紫郡二期",
@@ -2524,6 +2549,31 @@
       "floorplan": null
     },
     {
+      "id": "5i5j-46602825",
+      "communityId": "huayangzijun",
+      "communityName": "新城花漾紫郡",
+      "platformCommunityName": "新城花漾紫郡",
+      "sector": "高新",
+      "totalPriceWan": 120,
+      "totalPricePrecision": "platform_display_rounded",
+      "platformUnitPriceYuan": 15456,
+      "areaSqm": 77.64,
+      "layout": "3室2厅1卫",
+      "soldDate": "2025-09-09",
+      "orientation": "南北",
+      "source": {
+        "name": "我爱我家南京",
+        "url": "https://nj.5i5j.com/sold/46602825.html",
+        "listUrl": "https://nj.5i5j.com/solds/pukouqu/p4/n3/",
+        "evidenceUrl": "https://nj.5i5j.com/solds/pukouqu/p4/n3/",
+        "observedAt": "2026-10-31T07:00:05.969Z",
+        "evidence": "新城花漾紫郡 3室2厅1卫，77.64㎡，成交日期 2025-09-09，平台披露成交总价（显示值） 120万元；采自 https://nj.5i5j.com/solds/pukouqu/p4/n3/"
+      },
+      "verification": "platform_reported",
+      "image": null,
+      "floorplan": null
+    },
+    {
       "id": "5i5j-46287216",
       "communityId": "tianruncheng",
       "communityName": "天润城",
@@ -2560,6 +2610,56 @@
         "originalBytes": 401345,
         "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
       }
+    },
+    {
+      "id": "5i5j-46515979",
+      "communityId": "huayangzijun",
+      "communityName": "新城花漾紫郡",
+      "platformCommunityName": "新城花漾紫郡",
+      "sector": "高新",
+      "totalPriceWan": 147,
+      "totalPricePrecision": "platform_display_rounded",
+      "platformUnitPriceYuan": 16542,
+      "areaSqm": 89.23,
+      "layout": "3室2厅1卫",
+      "soldDate": "2025-08-05",
+      "orientation": "南北",
+      "source": {
+        "name": "我爱我家南京",
+        "url": "https://nj.5i5j.com/sold/46515979.html",
+        "listUrl": "https://nj.5i5j.com/solds/pukouqu/p4/n3/",
+        "evidenceUrl": "https://nj.5i5j.com/solds/pukouqu/p4/n3/",
+        "observedAt": "2026-10-31T07:00:05.969Z",
+        "evidence": "新城花漾紫郡 3室2厅1卫，89.23㎡，成交日期 2025-08-05，平台披露成交总价（显示值） 147万元；采自 https://nj.5i5j.com/solds/pukouqu/p4/n3/"
+      },
+      "verification": "platform_reported",
+      "image": null,
+      "floorplan": null
+    },
+    {
+      "id": "5i5j-46466635",
+      "communityId": "weinisishuicheng",
+      "communityName": "威尼斯水城",
+      "platformCommunityName": "威尼斯水城十八街区",
+      "sector": "桥北",
+      "totalPriceWan": 124,
+      "totalPricePrecision": "platform_display_rounded",
+      "platformUnitPriceYuan": 10894,
+      "areaSqm": 113.82,
+      "layout": "3室2厅1卫",
+      "soldDate": "2025-08-01",
+      "orientation": "南北",
+      "source": {
+        "name": "我爱我家南京",
+        "url": "https://nj.5i5j.com/sold/46466635.html",
+        "listUrl": "https://nj.5i5j.com/solds/pukouqu/p4/n3/",
+        "evidenceUrl": "https://nj.5i5j.com/solds/pukouqu/p4/n3/",
+        "observedAt": "2026-10-31T07:00:05.969Z",
+        "evidence": "威尼斯水城十八街区 3室2厅1卫，113.82㎡，成交日期 2025-08-01，平台披露成交总价（显示值） 124万元；采自 https://nj.5i5j.com/solds/pukouqu/p4/n3/"
+      },
+      "verification": "platform_reported",
+      "image": null,
+      "floorplan": null
     },
     {
       "id": "5i5j-45214008",
@@ -2599,6 +2699,31 @@
         "originalBytes": 622556,
         "encodingNote": "保留原图内容与水印，WebP网页压缩副本"
       }
+    },
+    {
+      "id": "5i5j-46571360",
+      "communityId": "zhonghaiwanjinxian",
+      "communityName": "中海万锦熙岸",
+      "platformCommunityName": "中海万锦熙岸",
+      "sector": "南审",
+      "totalPriceWan": 125,
+      "totalPricePrecision": "platform_display_rounded",
+      "platformUnitPriceYuan": 13122,
+      "areaSqm": 95.26,
+      "layout": "3室2厅1卫",
+      "soldDate": "2025-07-15",
+      "orientation": "南",
+      "source": {
+        "name": "我爱我家南京",
+        "url": "https://nj.5i5j.com/sold/46571360.html",
+        "listUrl": "https://nj.5i5j.com/solds/pukouqu/p4/n3/",
+        "evidenceUrl": "https://nj.5i5j.com/solds/pukouqu/p4/n3/",
+        "observedAt": "2026-10-31T07:00:05.969Z",
+        "evidence": "中海万锦熙岸 3室2厅1卫，95.26㎡，成交日期 2025-07-15，平台披露成交总价（显示值） 125万元；采自 https://nj.5i5j.com/solds/pukouqu/p4/n3/"
+      },
+      "verification": "platform_reported",
+      "image": null,
+      "floorplan": null
     },
     {
       "id": "5i5j-46254720",
