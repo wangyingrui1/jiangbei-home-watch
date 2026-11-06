@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-05T07:54:59.779Z",
-  "lastSuccessfulCheckAt": "2026-11-05T07:54:59.779Z",
+  "checkedAt": "2026-11-06T07:56:11.313Z",
+  "lastSuccessfulCheckAt": "2026-11-06T07:56:11.313Z",
   "latestSoldDate": "2026-08-19",
   "totalRecords": 79,
   "newRecords": 0,
@@ -16,7 +16,7 @@
       "id": "weinisishuicheng",
       "name": "我爱我家南京",
       "url": "https://nj.5i5j.com/solds/weinisishuicheng/",
-      "checkedAt": "2026-11-05T07:54:59.779Z",
+      "checkedAt": "2026-11-06T07:56:11.313Z",
       "status": "ok",
       "candidateCount": 30,
       "acceptedCount": 10,
@@ -34,14 +34,14 @@
         "crawlDelaySeconds": 0
       },
       "httpStatus": 200,
-      "responseSha256": "d980136e8e50916c4e62d1dba65c09edd54e9f7438161113ba49822b62b5a78f",
+      "responseSha256": "6b475bce4884436218d75b678ab3ec54aa142f5f64cbf4d97fae406717ca523a",
       "message": "正式新增 0 条；发现 12 条待审核候选（新入队 0 条）。"
     },
     {
       "id": "tianruncheng-latest",
       "name": "我爱我家南京",
       "url": "https://nj.5i5j.com/solds/tianruncheng/",
-      "checkedAt": "2026-11-05T07:54:59.779Z",
+      "checkedAt": "2026-11-06T07:56:11.313Z",
       "status": "ok",
       "candidateCount": 30,
       "acceptedCount": 14,
@@ -57,14 +57,14 @@
         "crawlDelaySeconds": 0
       },
       "httpStatus": 200,
-      "responseSha256": "2b54349b422d883c33ff5335d08cc0e2ccd7d7f0a0cf9db07ebfbd4ec34a21d3",
+      "responseSha256": "b965bcae0fc034170b87a41f59e35318e31aa3ce597283e074fdca89f9c193df",
       "message": "正式新增 0 条；发现 14 条待审核候选（新入队 0 条）。"
     },
     {
       "id": "tianruncheng-reviewed",
       "name": "我爱我家南京",
       "url": "https://nj.5i5j.com/solds/tianruncheng/a3o3/",
-      "checkedAt": "2026-11-05T07:54:59.779Z",
+      "checkedAt": "2026-11-06T07:56:11.313Z",
       "status": "ok",
       "candidateCount": 30,
       "acceptedCount": 11,
@@ -78,14 +78,14 @@
         "crawlDelaySeconds": 0
       },
       "httpStatus": 200,
-      "responseSha256": "4b25f0a79a8c086423eb59caa634f3c21d004bdcc2f7cfad6b7a5a020457da75",
+      "responseSha256": "3f5211cddbc3b58352f97ade14edcf3b4cfbf27c7429c516a21f845ee7ab82c4",
       "message": "正式新增 0 条；发现 19 条待审核候选（新入队 0 条）。"
     },
     {
       "id": "mingfa-latest",
       "name": "我爱我家南京",
       "url": "https://nj.5i5j.com/solds/mingfabinjiang/",
-      "checkedAt": "2026-11-05T07:54:59.779Z",
+      "checkedAt": "2026-11-06T07:56:11.313Z",
       "status": "ok",
       "candidateCount": 30,
       "acceptedCount": 5,
@@ -102,14 +102,14 @@
         "crawlDelaySeconds": 0
       },
       "httpStatus": 200,
-      "responseSha256": "94cb8d4af604a2635b9a633b5a7d51d6b9ddfb0e63dbdfedd945cd163a8b4ff2",
+      "responseSha256": "94e220dc5d0be692e88b0193d82338aedee0d69b15a2dd89a5f5ace6042fa9d8",
       "message": "正式新增 0 条；发现 15 条待审核候选（新入队 0 条）。"
     },
     {
       "id": "mingfa-reviewed",
       "name": "我爱我家南京",
       "url": "https://nj.5i5j.com/solds/mingfabinjiang/o1n2/",
-      "checkedAt": "2026-11-05T07:54:59.779Z",
+      "checkedAt": "2026-11-06T07:56:11.313Z",
       "status": "ok",
       "candidateCount": 30,
       "acceptedCount": 10,
@@ -125,14 +125,14 @@
         "crawlDelaySeconds": 0
       },
       "httpStatus": 200,
-      "responseSha256": "d4b88731f70fa0b2ad61bd696a95bfc9c348bf7fb2d3fb97bf4ccd90201d0f77",
+      "responseSha256": "4cedd5ab7f2738a460ba34885481b290dba3366a58721c52d7cbdb2809cf59ef",
       "message": "正式新增 0 条；发现 17 条待审核候选（新入队 0 条）。"
     },
     {
       "id": "xuri-latest",
       "name": "我爱我家南京",
       "url": "https://nj.5i5j.com/solds/xuriaishangcheng/",
-      "checkedAt": "2026-11-05T07:54:59.779Z",
+      "checkedAt": "2026-11-06T07:56:11.313Z",
       "status": "ok",
       "candidateCount": 30,
       "acceptedCount": 2,
@@ -150,14 +150,14 @@
         "crawlDelaySeconds": 0
       },
       "httpStatus": 200,
-      "responseSha256": "945528106daf20a584c2e5f364f6567abd137dfd93df7026a9f1db70d7028da3",
+      "responseSha256": "bffbe1956aea1b40b65d122edb96f6d467999a57b5a500fc15d4d5e31e20ac24",
       "message": "正式新增 0 条；发现 23 条待审核候选（新入队 0 条）。"
     },
     {
       "id": "xuri-reviewed",
       "name": "我爱我家南京",
       "url": "https://nj.5i5j.com/solds/xuriaishangcheng/a4p3/",
-      "checkedAt": "2026-11-05T07:54:59.779Z",
+      "checkedAt": "2026-11-06T07:56:11.313Z",
       "status": "ok",
       "candidateCount": 4,
       "acceptedCount": 3,
@@ -171,14 +171,14 @@
         "crawlDelaySeconds": 0
       },
       "httpStatus": 200,
-      "responseSha256": "fb69ffb9e5e6ecebe1084bc1fbb0555467bfd093efd4115c35e01c449bd812f9",
+      "responseSha256": "e437d27b62ca2c03bb412493d85b387e21abdda8ff1162f9beb236b09f46790d",
       "message": "正式新增 0 条；发现 1 条待审核候选（新入队 0 条）。"
     },
     {
       "id": "gaoxin",
       "name": "我爱我家南京",
       "url": "https://nj.5i5j.com/solds/gaoxin/",
-      "checkedAt": "2026-11-05T07:54:59.779Z",
+      "checkedAt": "2026-11-06T07:56:11.313Z",
       "status": "ok",
       "candidateCount": 30,
       "acceptedCount": 19,
@@ -196,14 +196,14 @@
         "crawlDelaySeconds": 0
       },
       "httpStatus": 200,
-      "responseSha256": "cd0569d4d421aaf0e42a8aa81791c972b660ad2878613a960908fef6ba53ba33",
+      "responseSha256": "3ebc5e46b0a81535698998cda8d56e66943491ca26923bbb3c497415d3168c1a",
       "message": "正式新增 0 条；发现 4 条待审核候选（新入队 0 条）。"
     },
     {
       "id": "jiangpu",
       "name": "我爱我家南京",
       "url": "https://nj.5i5j.com/solds/jiangpu/",
-      "checkedAt": "2026-11-05T07:54:59.779Z",
+      "checkedAt": "2026-11-06T07:56:11.313Z",
       "status": "ok",
       "candidateCount": 30,
       "acceptedCount": 6,
@@ -222,14 +222,14 @@
         "crawlDelaySeconds": 0
       },
       "httpStatus": 200,
-      "responseSha256": "78926b20c40892e7087e213ab8b6eacfc580fad9823f7bc7ef797bb0f031590c",
+      "responseSha256": "11597f1a1052e49fc853cc8fac08a616bc9497bdea795a3c8a5af6adda98699f",
       "message": "正式新增 0 条；发现 8 条待审核候选（新入队 0 条）。"
     },
     {
       "id": "jiangpu-reviewed-n4",
       "name": "我爱我家南京",
       "url": "https://nj.5i5j.com/solds/jiangpu/n4/",
-      "checkedAt": "2026-11-05T07:54:59.779Z",
+      "checkedAt": "2026-11-06T07:56:11.313Z",
       "status": "blocked",
       "candidateCount": 0,
       "acceptedCount": 0,
@@ -243,14 +243,14 @@
         "crawlDelaySeconds": 0
       },
       "httpStatus": 200,
-      "responseSha256": "596ca6ebee566fd5fa392329e0f522c262087c45248a30a44b1075640f67d4a0",
+      "responseSha256": "fb26a055cc5afafdb50f2fece89c5151db46f812e9a22d8f6a720ee7d23fa092",
       "message": "Page title does not identify a completed-sale page"
     },
     {
       "id": "pukou-discover-1",
       "name": "我爱我家南京",
       "url": "https://nj.5i5j.com/solds/pukouqu/",
-      "checkedAt": "2026-11-05T07:54:59.779Z",
+      "checkedAt": "2026-11-06T07:56:11.313Z",
       "status": "blocked",
       "candidateCount": 0,
       "acceptedCount": 0,
@@ -264,14 +264,14 @@
         "crawlDelaySeconds": 0
       },
       "httpStatus": 200,
-      "responseSha256": "01514fe0b8104e990da133869ab93c16b05c976cdebb1427c9a6b61646d2da43",
+      "responseSha256": "4add5fe6223f0d5ddacd7b4272069df7f659ac51853f036b25b47b46f58cb76f",
       "message": "Page title does not identify a completed-sale page"
     },
     {
       "id": "pukou-discover-2",
       "name": "我爱我家南京",
       "url": "https://nj.5i5j.com/solds/pukouqu/n2/",
-      "checkedAt": "2026-11-05T07:54:59.779Z",
+      "checkedAt": "2026-11-06T07:56:11.313Z",
       "status": "blocked",
       "candidateCount": 0,
       "acceptedCount": 0,
@@ -285,14 +285,14 @@
         "crawlDelaySeconds": 0
       },
       "httpStatus": 200,
-      "responseSha256": "29ef10cee5501d340ce4151932a5eb1d7bbe3843f116ecf7ad5993d199cc800a",
+      "responseSha256": "5b4d97a8622b14f914826cae0f5dbb88bfc0db2422e6b372ed7646b58f30722a",
       "message": "Page title does not identify a completed-sale page"
     },
     {
       "id": "pukou-discover-3",
       "name": "我爱我家南京",
       "url": "https://nj.5i5j.com/solds/pukouqu/n3/",
-      "checkedAt": "2026-11-05T07:54:59.779Z",
+      "checkedAt": "2026-11-06T07:56:11.313Z",
       "status": "blocked",
       "candidateCount": 0,
       "acceptedCount": 0,
@@ -306,14 +306,14 @@
         "crawlDelaySeconds": 0
       },
       "httpStatus": 200,
-      "responseSha256": "e0c7c717e6fd29e35ef6ff9c87d96d59188206e3ec5b529672d6d1c871586b82",
+      "responseSha256": "d2230137ef4eb666e3b2c8dd8951b368841f18633616c5a8407dd682e15b4ed5",
       "message": "Page title does not identify a completed-sale page"
     },
     {
       "id": "pukou-80-120-1",
       "name": "我爱我家南京",
       "url": "https://nj.5i5j.com/solds/pukouqu/p3/",
-      "checkedAt": "2026-11-05T07:54:59.779Z",
+      "checkedAt": "2026-11-06T07:56:11.313Z",
       "status": "blocked",
       "candidateCount": 0,
       "acceptedCount": 0,
@@ -327,14 +327,14 @@
         "crawlDelaySeconds": 0
       },
       "httpStatus": 200,
-      "responseSha256": "abf99440c2da64c859ff1033aa25cb91300c2a58aad622b0c8397fe17f2123b9",
+      "responseSha256": "4d1b3188d428fdb05f6fab765a623bed23345b8279f9818c36540c0003650013",
       "message": "Page title does not identify a completed-sale page"
     },
     {
       "id": "pukou-80-120-2",
       "name": "我爱我家南京",
       "url": "https://nj.5i5j.com/solds/pukouqu/p3/n2/",
-      "checkedAt": "2026-11-05T07:54:59.779Z",
+      "checkedAt": "2026-11-06T07:56:11.313Z",
       "status": "blocked",
       "candidateCount": 0,
       "acceptedCount": 0,
@@ -348,14 +348,14 @@
         "crawlDelaySeconds": 0
       },
       "httpStatus": 200,
-      "responseSha256": "7906e6a9ae7a5e415b8d64611db0f910ffab4847d9e24d7b698c9ad04d8aaeec",
+      "responseSha256": "c4b79169972b5be426927b2fd55d909b2390e7088d6c92d262ae6fb191fa549d",
       "message": "Page title does not identify a completed-sale page"
     },
     {
       "id": "pukou-80-120-3",
       "name": "我爱我家南京",
       "url": "https://nj.5i5j.com/solds/pukouqu/p3/n3/",
-      "checkedAt": "2026-11-05T07:54:59.779Z",
+      "checkedAt": "2026-11-06T07:56:11.313Z",
       "status": "blocked",
       "candidateCount": 0,
       "acceptedCount": 0,
@@ -369,14 +369,14 @@
         "crawlDelaySeconds": 0
       },
       "httpStatus": 200,
-      "responseSha256": "680a043a804fd411edbd6cb0dcc0a2a9287c5fad79d7929c2f76cdf1387ff3fe",
+      "responseSha256": "3fbd24846fdb51c9b4fca990a7e1af0e4ea1f323e1026a6e283e0b260c25c8ad",
       "message": "Page title does not identify a completed-sale page"
     },
     {
       "id": "pukou-120-150-1",
       "name": "我爱我家南京",
       "url": "https://nj.5i5j.com/solds/pukouqu/p4/",
-      "checkedAt": "2026-11-05T07:54:59.779Z",
+      "checkedAt": "2026-11-06T07:56:11.313Z",
       "status": "ok",
       "candidateCount": 30,
       "acceptedCount": 8,
@@ -393,14 +393,14 @@
         "crawlDelaySeconds": 0
       },
       "httpStatus": 200,
-      "responseSha256": "675b04244a7f76c19198d68ff78a3cf6dd0f65bbbe3f912f9a89cf121a8c3ce7",
+      "responseSha256": "0aba9cf461b657d450d2aea0f816f8d5b4b2457bc7725cc6d1f0d28ccf909a70",
       "message": "正式新增 0 条；发现 12 条待审核候选（新入队 0 条）。"
     },
     {
       "id": "pukou-120-150-2",
       "name": "我爱我家南京",
       "url": "https://nj.5i5j.com/solds/pukouqu/p4/n2/",
-      "checkedAt": "2026-11-05T07:54:59.779Z",
+      "checkedAt": "2026-11-06T07:56:11.313Z",
       "status": "ok",
       "candidateCount": 30,
       "acceptedCount": 5,
@@ -416,14 +416,14 @@
         "crawlDelaySeconds": 0
       },
       "httpStatus": 200,
-      "responseSha256": "57fb55d1fb3407382561329c01fdf73cadbe480e95a3898ce6458aac7738a339",
+      "responseSha256": "741682e12f8f1a0bfb76030a42405308ac33a96c9913eb8218ce4f732e766e6f",
       "message": "正式新增 0 条；发现 21 条待审核候选（新入队 0 条）。"
     },
     {
       "id": "pukou-120-150-3",
       "name": "我爱我家南京",
       "url": "https://nj.5i5j.com/solds/pukouqu/p4/n3/",
-      "checkedAt": "2026-11-05T07:54:59.779Z",
+      "checkedAt": "2026-11-06T07:56:11.313Z",
       "status": "ok",
       "candidateCount": 30,
       "acceptedCount": 5,
@@ -439,14 +439,14 @@
         "crawlDelaySeconds": 0
       },
       "httpStatus": 200,
-      "responseSha256": "470dbb583a586d039f964e71bb1e95fd3f3d66a812eee4fdf48dff0a46ab7711",
+      "responseSha256": "c1d8b662cb217e63847b2e053d493f74a06302f689208ef89e39d8f49518f3ec",
       "message": "正式新增 0 条；发现 22 条待审核候选（新入队 0 条）。"
     },
     {
       "id": "gaoxin-discover-2",
       "name": "我爱我家南京",
       "url": "https://nj.5i5j.com/solds/gaoxin/n2/",
-      "checkedAt": "2026-11-05T07:54:59.779Z",
+      "checkedAt": "2026-11-06T07:56:11.313Z",
       "status": "blocked",
       "candidateCount": 0,
       "acceptedCount": 0,
@@ -460,14 +460,14 @@
         "crawlDelaySeconds": 0
       },
       "httpStatus": 200,
-      "responseSha256": "b99526d89b2b2206955c939e90d58ea229d1910bc40c6c6bdfb847b6df1947be",
+      "responseSha256": "12ddcf408ef0fb251c6b95d4c87e37942e86eba4ede68de281def7eae789bcf0",
       "message": "Page title does not identify a completed-sale page"
     },
     {
       "id": "gaoxin-discover-3",
       "name": "我爱我家南京",
       "url": "https://nj.5i5j.com/solds/gaoxin/n3/",
-      "checkedAt": "2026-11-05T07:54:59.779Z",
+      "checkedAt": "2026-11-06T07:56:11.313Z",
       "status": "blocked",
       "candidateCount": 0,
       "acceptedCount": 0,
@@ -481,14 +481,14 @@
         "crawlDelaySeconds": 0
       },
       "httpStatus": 200,
-      "responseSha256": "d96b3f2de63d3371ebabe8c2e039c2490d2e46dc46bd9b08f4e0d4e3a30ab68b",
+      "responseSha256": "11cd17201ea56bb5b5a513ea4e0177cb56fcdc5fbabfd118c8e9a2b34c4cc80b",
       "message": "Page title does not identify a completed-sale page"
     },
     {
       "id": "jiangpu-discover-2",
       "name": "我爱我家南京",
       "url": "https://nj.5i5j.com/solds/jiangpu/n2/",
-      "checkedAt": "2026-11-05T07:54:59.779Z",
+      "checkedAt": "2026-11-06T07:56:11.313Z",
       "status": "blocked",
       "candidateCount": 0,
       "acceptedCount": 0,
@@ -502,14 +502,14 @@
         "crawlDelaySeconds": 0
       },
       "httpStatus": 200,
-      "responseSha256": "d6076d10d8883d7ea7acfa8a84d52180579f95c2a7cbdbaab108f49f0d88ae9c",
+      "responseSha256": "9eb8dbe5da44e5a4e2ce1523d31d4b9d9df0cded073ff92b7e2c6a06158cc523",
       "message": "Page title does not identify a completed-sale page"
     },
     {
       "id": "jiangpu-discover-3",
       "name": "我爱我家南京",
       "url": "https://nj.5i5j.com/solds/jiangpu/n3/",
-      "checkedAt": "2026-11-05T07:54:59.779Z",
+      "checkedAt": "2026-11-06T07:56:11.313Z",
       "status": "blocked",
       "candidateCount": 0,
       "acceptedCount": 0,
@@ -523,14 +523,14 @@
         "crawlDelaySeconds": 0
       },
       "httpStatus": 200,
-      "responseSha256": "bc7567f15403ba4e1622b64fb98ad413a428d5c17947149d26480520bf5b9946",
+      "responseSha256": "71e9fca836e961131b0e967278590e15e777bebe10f4521b609c87f43cc6ee58",
       "message": "Page title does not identify a completed-sale page"
     },
     {
       "id": "beike-public",
       "name": "贝壳南京公开成交入口",
       "url": "https://m.ke.com/nj/chengjiao/",
-      "checkedAt": "2026-11-05T07:54:59.779Z",
+      "checkedAt": "2026-11-06T07:56:11.313Z",
       "status": "blocked",
       "candidateCount": 0,
       "acceptedCount": 0,
@@ -544,7 +544,7 @@
       "id": "lianjia-public",
       "name": "链家南京公开成交入口",
       "url": "https://nj.lianjia.com/chengjiao/",
-      "checkedAt": "2026-11-05T07:54:59.779Z",
+      "checkedAt": "2026-11-06T07:56:11.313Z",
       "status": "blocked",
       "candidateCount": 0,
       "acceptedCount": 0,
@@ -558,7 +558,7 @@
       "id": "xiaohongshu-public",
       "name": "小红书公开笔记入口",
       "url": "https://www.xiaohongshu.com/explore",
-      "checkedAt": "2026-11-05T07:54:59.779Z",
+      "checkedAt": "2026-11-06T07:56:11.313Z",
       "status": "blocked",
       "candidateCount": 0,
       "acceptedCount": 0,
@@ -572,7 +572,7 @@
       "id": "fang-2485744",
       "name": "房天下南京",
       "url": "https://m.fang.com/chengjiao/nanjing/EX_2485744.html",
-      "checkedAt": "2026-11-05T07:54:59.779Z",
+      "checkedAt": "2026-11-06T07:56:11.313Z",
       "status": "ok",
       "candidateCount": 1,
       "acceptedCount": 0,
@@ -586,14 +586,14 @@
         "crawlDelaySeconds": 0
       },
       "httpStatus": 200,
-      "responseSha256": "055b7a191b7b4fae300a88abb52fa427893eef9d904fd7ab6ed964ff360f93fa",
+      "responseSha256": "60ed078e490dfed3fdc1ce817ef91c35f6af4182c579627a26bc90c105fa7cde",
       "message": "正式新增 0 条；发现 0 条待审核候选（新入队 0 条）。"
     },
     {
       "id": "fang-2494990",
       "name": "房天下南京",
       "url": "https://m.fang.com/chengjiao/nanjing/EX_2494990.html",
-      "checkedAt": "2026-11-05T07:54:59.779Z",
+      "checkedAt": "2026-11-06T07:56:11.313Z",
       "status": "ok",
       "candidateCount": 1,
       "acceptedCount": 0,
@@ -607,14 +607,14 @@
         "crawlDelaySeconds": 0
       },
       "httpStatus": 200,
-      "responseSha256": "d9da1d90a3b530552983b39e9d5061ce64a0f1232dbd277e7f7fbb096ceaee4c",
+      "responseSha256": "0e75a40403fdec8dbfdf24ac99dbce79db4a3d711e373536c21f4bb5b88e086d",
       "message": "正式新增 0 条；发现 0 条待审核候选（新入队 0 条）。"
     },
     {
       "id": "fang-2507786",
       "name": "房天下南京",
       "url": "https://m.fang.com/chengjiao/nanjing/EX_2507786.html",
-      "checkedAt": "2026-11-05T07:54:59.779Z",
+      "checkedAt": "2026-11-06T07:56:11.313Z",
       "status": "ok",
       "candidateCount": 1,
       "acceptedCount": 0,
@@ -628,14 +628,14 @@
         "crawlDelaySeconds": 0
       },
       "httpStatus": 200,
-      "responseSha256": "b460a5c506be8347f069a324aade4e15c1b53398a95930258a89be4191bf4cf7",
+      "responseSha256": "9d5bfc7b6102c65dc4ea5ff631b1505616249475f10742e1436f17cd4e2d4360",
       "message": "正式新增 0 条；发现 0 条待审核候选（新入队 0 条）。"
     },
     {
       "id": "fang-2492501",
       "name": "房天下南京",
       "url": "https://m.fang.com/chengjiao/nanjing/EX_2492501.html",
-      "checkedAt": "2026-11-05T07:54:59.779Z",
+      "checkedAt": "2026-11-06T07:56:11.313Z",
       "status": "ok",
       "candidateCount": 1,
       "acceptedCount": 0,
@@ -649,7 +649,7 @@
         "crawlDelaySeconds": 0
       },
       "httpStatus": 200,
-      "responseSha256": "9f62b1a9fccc46d288a5dc2602393b3990ab59377a84564a66691070870d7e31",
+      "responseSha256": "34c1d7bb322d60a70d4a524de6f63a8d88fe50318588105fe2b2275e35a93232",
       "message": "正式新增 0 条；发现 0 条待审核候选（新入队 0 条）。"
     }
   ],
