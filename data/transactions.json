@@ -6,6 +6,31 @@
   "verificationNote": "平台披露历史成交，不等同于合同、契税或官方网签逐套核验。",
   "records": [
     {
+      "id": "5i5j-46060401",
+      "communityId": "mingfa",
+      "communityName": "明发滨江新城",
+      "platformCommunityName": "明发滨江新城小三期",
+      "sector": "桥北",
+      "totalPriceWan": 96,
+      "totalPricePrecision": "platform_display_rounded",
+      "platformUnitPriceYuan": 10041,
+      "areaSqm": 95.61,
+      "layout": "2室2厅1卫",
+      "soldDate": "2026-09-12",
+      "orientation": "南",
+      "source": {
+        "name": "我爱我家南京",
+        "url": "https://nj.5i5j.com/sold/46060401.html",
+        "listUrl": "https://nj.5i5j.com/solds/mingfabinjiang/",
+        "evidenceUrl": "https://nj.5i5j.com/solds/mingfabinjiang/",
+        "observedAt": "2026-11-11T07:45:20.412Z",
+        "evidence": "明发滨江新城小三期 2室2厅1卫，95.61㎡，成交日期 2026-09-12，平台披露成交总价（显示值） 96万元；采自 https://nj.5i5j.com/solds/mingfabinjiang/"
+      },
+      "verification": "platform_reported",
+      "image": null,
+      "floorplan": null
+    },
+    {
       "id": "5i5j-46841741",
       "communityId": "yangguangqingcheng",
       "communityName": "金盛田阳光青城",
